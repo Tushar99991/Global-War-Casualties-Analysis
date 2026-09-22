@@ -1,0 +1,8057 @@
+country_or_conflict,year,deaths,source
+Abkhazia,1989,0,OWID
+Abkhazia,1990,0,OWID
+Abkhazia,1991,0,OWID
+Abkhazia,1992,0,OWID
+Abkhazia,1993,0,OWID
+Abkhazia,1994,0,OWID
+Abkhazia,1995,0,OWID
+Abkhazia,1996,0,OWID
+Abkhazia,1997,0,OWID
+Abkhazia,1998,0,OWID
+Abkhazia,1999,0,OWID
+Abkhazia,2000,0,OWID
+Abkhazia,2001,0,OWID
+Abkhazia,2002,0,OWID
+Abkhazia,2003,0,OWID
+Abkhazia,2004,0,OWID
+Abkhazia,2005,0,OWID
+Abkhazia,2006,0,OWID
+Abkhazia,2007,0,OWID
+Abkhazia,2008,0,OWID
+Abkhazia,2009,0,OWID
+Abkhazia,2010,0,OWID
+Abkhazia,2011,0,OWID
+Abkhazia,2012,0,OWID
+Abkhazia,2013,0,OWID
+Abkhazia,2014,0,OWID
+Abkhazia,2015,0,OWID
+Abkhazia,2016,0,OWID
+Abkhazia,2017,0,OWID
+Abkhazia,2018,0,OWID
+Abkhazia,2019,0,OWID
+Abkhazia,2020,0,OWID
+Abkhazia,2021,0,OWID
+Abkhazia,2022,0,OWID
+Abkhazia,2023,0,OWID
+Abkhazia,2024,0,OWID
+Abkhazia,2025,0,OWID
+Abkhazia,2026,0,OWID
+Abyei,1989,0,OWID
+Abyei,1990,0,OWID
+Abyei,1991,0,OWID
+Abyei,1992,0,OWID
+Abyei,1993,0,OWID
+Abyei,1994,0,OWID
+Abyei,1995,0,OWID
+Abyei,1996,0,OWID
+Abyei,1997,61,OWID
+Abyei,1998,18,OWID
+Abyei,1999,0,OWID
+Abyei,2000,0,OWID
+Abyei,2001,0,OWID
+Abyei,2002,0,OWID
+Abyei,2003,0,OWID
+Abyei,2004,0,OWID
+Abyei,2005,0,OWID
+Abyei,2006,0,OWID
+Abyei,2007,0,OWID
+Abyei,2008,15,OWID
+Abyei,2009,1,OWID
+Abyei,2010,140,OWID
+Abyei,2011,143,OWID
+Abyei,2012,0,OWID
+Abyei,2013,9,OWID
+Abyei,2014,55,OWID
+Abyei,2015,47,OWID
+Abyei,2016,43,OWID
+Abyei,2017,0,OWID
+Abyei,2018,18,OWID
+Abyei,2019,0,OWID
+Abyei,2020,46,OWID
+Abyei,2021,0,OWID
+Abyei,2022,183,OWID
+Abyei,2023,54,OWID
+Abyei,2024,91,OWID
+Abyei,2025,0,OWID
+Abyei,2026,0,OWID
+Afghanistan,1989,5411,OWID
+Afghanistan,1990,1514,OWID
+Afghanistan,1991,3553,OWID
+Afghanistan,1992,4366,OWID
+Afghanistan,1993,4097,OWID
+Afghanistan,1994,9055,OWID
+Afghanistan,1995,5610,OWID
+Afghanistan,1996,3574,OWID
+Afghanistan,1997,6719,OWID
+Afghanistan,1998,12158,OWID
+Afghanistan,1999,5065,OWID
+Afghanistan,2000,5387,OWID
+Afghanistan,2001,5553,OWID
+Afghanistan,2002,1136,OWID
+Afghanistan,2003,929,OWID
+Afghanistan,2004,810,OWID
+Afghanistan,2005,1709,OWID
+Afghanistan,2006,4984,OWID
+Afghanistan,2007,7021,OWID
+Afghanistan,2008,5660,OWID
+Afghanistan,2009,6518,OWID
+Afghanistan,2010,7190,OWID
+Afghanistan,2011,7563,OWID
+Afghanistan,2012,7764,OWID
+Afghanistan,2013,8130,OWID
+Afghanistan,2014,12565,OWID
+Afghanistan,2015,18016,OWID
+Afghanistan,2016,18991,OWID
+Afghanistan,2017,19766,OWID
+Afghanistan,2018,26849,OWID
+Afghanistan,2019,30434,OWID
+Afghanistan,2020,20836,OWID
+Afghanistan,2021,36375,OWID
+Afghanistan,2022,1655,OWID
+Afghanistan,2023,363,OWID
+Afghanistan,2024,365,OWID
+Afghanistan,2025,330,OWID
+Afghanistan,2026,674,OWID
+Africa,1989,41611,OWID
+Africa,1990,72786,OWID
+Africa,1991,33941,OWID
+Africa,1992,18434,OWID
+Africa,1993,40899,OWID
+Africa,1994,791653,OWID
+Africa,1995,20653,OWID
+Africa,1996,64378,OWID
+Africa,1997,47092,OWID
+Africa,1998,35912,OWID
+Africa,1999,75075,OWID
+Africa,2000,68848,OWID
+Africa,2001,16664,OWID
+Africa,2002,22179,OWID
+Africa,2003,18798,OWID
+Africa,2004,17257,OWID
+Africa,2005,5222,OWID
+Africa,2006,7604,OWID
+Africa,2007,5749,OWID
+Africa,2008,8155,OWID
+Africa,2009,12617,OWID
+Africa,2010,7227,OWID
+Africa,2011,14071,OWID
+Africa,2012,10810,OWID
+Africa,2013,15242,OWID
+Africa,2014,24357,OWID
+Africa,2015,20482,OWID
+Africa,2016,16350,OWID
+Africa,2017,18005,OWID
+Africa,2018,15184,OWID
+Africa,2019,15354,OWID
+Africa,2020,41913,OWID
+Africa,2021,148794,OWID
+Africa,2022,188333,OWID
+Africa,2023,40653,OWID
+Africa,2024,31995,OWID
+Africa,2025,108907,OWID
+Africa,2026,15272,OWID
+Albania,1989,0,OWID
+Albania,1990,0,OWID
+Albania,1991,0,OWID
+Albania,1992,0,OWID
+Albania,1993,0,OWID
+Albania,1994,0,OWID
+Albania,1995,0,OWID
+Albania,1996,0,OWID
+Albania,1997,0,OWID
+Albania,1998,0,OWID
+Albania,1999,26,OWID
+Albania,2000,0,OWID
+Albania,2001,0,OWID
+Albania,2002,0,OWID
+Albania,2003,0,OWID
+Albania,2004,0,OWID
+Albania,2005,0,OWID
+Albania,2006,0,OWID
+Albania,2007,0,OWID
+Albania,2008,0,OWID
+Albania,2009,0,OWID
+Albania,2010,0,OWID
+Albania,2011,0,OWID
+Albania,2012,0,OWID
+Albania,2013,0,OWID
+Albania,2014,0,OWID
+Albania,2015,0,OWID
+Albania,2016,0,OWID
+Albania,2017,0,OWID
+Albania,2018,0,OWID
+Albania,2019,0,OWID
+Albania,2020,0,OWID
+Albania,2021,0,OWID
+Albania,2022,0,OWID
+Albania,2023,0,OWID
+Albania,2024,0,OWID
+Albania,2025,0,OWID
+Albania,2026,0,OWID
+Algeria,1989,0,OWID
+Algeria,1990,0,OWID
+Algeria,1991,34,OWID
+Algeria,1992,257,OWID
+Algeria,1993,826,OWID
+Algeria,1994,1916,OWID
+Algeria,1995,3035,OWID
+Algeria,1996,1084,OWID
+Algeria,1997,2008,OWID
+Algeria,1998,3281,OWID
+Algeria,1999,1156,OWID
+Algeria,2000,1191,OWID
+Algeria,2001,674,OWID
+Algeria,2002,1049,OWID
+Algeria,2003,704,OWID
+Algeria,2004,484,OWID
+Algeria,2005,217,OWID
+Algeria,2006,292,OWID
+Algeria,2007,495,OWID
+Algeria,2008,339,OWID
+Algeria,2009,541,OWID
+Algeria,2010,236,OWID
+Algeria,2011,270,OWID
+Algeria,2012,256,OWID
+Algeria,2013,197,OWID
+Algeria,2014,107,OWID
+Algeria,2015,110,OWID
+Algeria,2016,85,OWID
+Algeria,2017,98,OWID
+Algeria,2018,33,OWID
+Algeria,2019,0,OWID
+Algeria,2020,26,OWID
+Algeria,2021,0,OWID
+Algeria,2022,0,OWID
+Algeria,2023,0,OWID
+Algeria,2024,0,OWID
+Algeria,2025,0,OWID
+Algeria,2026,0,OWID
+Americas,1989,9414,OWID
+Americas,1990,3587,OWID
+Americas,1991,2986,OWID
+Americas,1992,3276,OWID
+Americas,1993,1424,OWID
+Americas,1994,2243,OWID
+Americas,1995,1413,OWID
+Americas,1996,1550,OWID
+Americas,1997,1065,OWID
+Americas,1998,1688,OWID
+Americas,1999,4296,OWID
+Americas,2000,4524,OWID
+Americas,2001,7829,OWID
+Americas,2002,6054,OWID
+Americas,2003,4769,OWID
+Americas,2004,3934,OWID
+Americas,2005,3219,OWID
+Americas,2006,1629,OWID
+Americas,2007,2683,OWID
+Americas,2008,4575,OWID
+Americas,2009,6413,OWID
+Americas,2010,6777,OWID
+Americas,2011,5180,OWID
+Americas,2012,6571,OWID
+Americas,2013,4590,OWID
+Americas,2014,3498,OWID
+Americas,2015,4822,OWID
+Americas,2016,4542,OWID
+Americas,2017,13018,OWID
+Americas,2018,14375,OWID
+Americas,2019,12350,OWID
+Americas,2020,16219,OWID
+Americas,2021,18289,OWID
+Americas,2022,15106,OWID
+Americas,2023,14827,OWID
+Americas,2024,14970,OWID
+Americas,2025,12346,OWID
+Americas,2026,1403,OWID
+Andorra,1989,0,OWID
+Andorra,1990,0,OWID
+Andorra,1991,0,OWID
+Andorra,1992,0,OWID
+Andorra,1993,0,OWID
+Andorra,1994,0,OWID
+Andorra,1995,0,OWID
+Andorra,1996,0,OWID
+Andorra,1997,0,OWID
+Andorra,1998,0,OWID
+Andorra,1999,0,OWID
+Andorra,2000,0,OWID
+Andorra,2001,0,OWID
+Andorra,2002,0,OWID
+Andorra,2003,0,OWID
+Andorra,2004,0,OWID
+Andorra,2005,0,OWID
+Andorra,2006,0,OWID
+Andorra,2007,0,OWID
+Andorra,2008,0,OWID
+Andorra,2009,0,OWID
+Andorra,2010,0,OWID
+Andorra,2011,0,OWID
+Andorra,2012,0,OWID
+Andorra,2013,0,OWID
+Andorra,2014,0,OWID
+Andorra,2015,0,OWID
+Andorra,2016,0,OWID
+Andorra,2017,0,OWID
+Andorra,2018,0,OWID
+Andorra,2019,0,OWID
+Andorra,2020,0,OWID
+Andorra,2021,0,OWID
+Andorra,2022,0,OWID
+Andorra,2023,0,OWID
+Andorra,2024,0,OWID
+Andorra,2025,0,OWID
+Andorra,2026,0,OWID
+Angola,1989,2891,OWID
+Angola,1990,2609,OWID
+Angola,1991,516,OWID
+Angola,1992,2346,OWID
+Angola,1993,12397,OWID
+Angola,1994,4009,OWID
+Angola,1995,234,OWID
+Angola,1996,29,OWID
+Angola,1997,74,OWID
+Angola,1998,1170,OWID
+Angola,1999,2665,OWID
+Angola,2000,1202,OWID
+Angola,2001,2156,OWID
+Angola,2002,567,OWID
+Angola,2003,43,OWID
+Angola,2004,25,OWID
+Angola,2005,0,OWID
+Angola,2006,0,OWID
+Angola,2007,25,OWID
+Angola,2008,0,OWID
+Angola,2009,25,OWID
+Angola,2010,0,OWID
+Angola,2011,0,OWID
+Angola,2012,0,OWID
+Angola,2013,0,OWID
+Angola,2014,0,OWID
+Angola,2015,0,OWID
+Angola,2016,23,OWID
+Angola,2017,25,OWID
+Angola,2018,0,OWID
+Angola,2019,25,OWID
+Angola,2020,21,OWID
+Angola,2021,0,OWID
+Angola,2022,20,OWID
+Angola,2023,0,OWID
+Angola,2024,25,OWID
+Angola,2025,24,OWID
+Angola,2026,0,OWID
+Antigua and Barbuda,1989,0,OWID
+Antigua and Barbuda,1990,0,OWID
+Antigua and Barbuda,1991,0,OWID
+Antigua and Barbuda,1992,0,OWID
+Antigua and Barbuda,1993,0,OWID
+Antigua and Barbuda,1994,0,OWID
+Antigua and Barbuda,1995,0,OWID
+Antigua and Barbuda,1996,0,OWID
+Antigua and Barbuda,1997,0,OWID
+Antigua and Barbuda,1998,0,OWID
+Antigua and Barbuda,1999,0,OWID
+Antigua and Barbuda,2000,0,OWID
+Antigua and Barbuda,2001,0,OWID
+Antigua and Barbuda,2002,0,OWID
+Antigua and Barbuda,2003,0,OWID
+Antigua and Barbuda,2004,0,OWID
+Antigua and Barbuda,2005,0,OWID
+Antigua and Barbuda,2006,0,OWID
+Antigua and Barbuda,2007,0,OWID
+Antigua and Barbuda,2008,0,OWID
+Antigua and Barbuda,2009,0,OWID
+Antigua and Barbuda,2010,0,OWID
+Antigua and Barbuda,2011,0,OWID
+Antigua and Barbuda,2012,0,OWID
+Antigua and Barbuda,2013,0,OWID
+Antigua and Barbuda,2014,0,OWID
+Antigua and Barbuda,2015,0,OWID
+Antigua and Barbuda,2016,0,OWID
+Antigua and Barbuda,2017,0,OWID
+Antigua and Barbuda,2018,0,OWID
+Antigua and Barbuda,2019,0,OWID
+Antigua and Barbuda,2020,0,OWID
+Antigua and Barbuda,2021,0,OWID
+Antigua and Barbuda,2022,0,OWID
+Antigua and Barbuda,2023,0,OWID
+Antigua and Barbuda,2024,0,OWID
+Antigua and Barbuda,2025,0,OWID
+Antigua and Barbuda,2026,0,OWID
+Argentina,1989,0,OWID
+Argentina,1990,0,OWID
+Argentina,1991,0,OWID
+Argentina,1992,0,OWID
+Argentina,1993,0,OWID
+Argentina,1994,86,OWID
+Argentina,1995,0,OWID
+Argentina,1996,0,OWID
+Argentina,1997,0,OWID
+Argentina,1998,0,OWID
+Argentina,1999,0,OWID
+Argentina,2000,0,OWID
+Argentina,2001,0,OWID
+Argentina,2002,0,OWID
+Argentina,2003,0,OWID
+Argentina,2004,0,OWID
+Argentina,2005,0,OWID
+Argentina,2006,0,OWID
+Argentina,2007,0,OWID
+Argentina,2008,0,OWID
+Argentina,2009,0,OWID
+Argentina,2010,0,OWID
+Argentina,2011,0,OWID
+Argentina,2012,0,OWID
+Argentina,2013,0,OWID
+Argentina,2014,0,OWID
+Argentina,2015,0,OWID
+Argentina,2016,0,OWID
+Argentina,2017,0,OWID
+Argentina,2018,0,OWID
+Argentina,2019,0,OWID
+Argentina,2020,0,OWID
+Argentina,2021,0,OWID
+Argentina,2022,138,OWID
+Argentina,2023,0,OWID
+Argentina,2024,26,OWID
+Argentina,2025,45,OWID
+Argentina,2026,0,OWID
+Armenia,1989,0,OWID
+Armenia,1990,22,OWID
+Armenia,1991,12,OWID
+Armenia,1992,107,OWID
+Armenia,1993,44,OWID
+Armenia,1994,30,OWID
+Armenia,1995,0,OWID
+Armenia,1996,0,OWID
+Armenia,1997,0,OWID
+Armenia,1998,0,OWID
+Armenia,1999,0,OWID
+Armenia,2000,0,OWID
+Armenia,2001,0,OWID
+Armenia,2002,0,OWID
+Armenia,2003,0,OWID
+Armenia,2004,0,OWID
+Armenia,2005,1,OWID
+Armenia,2006,0,OWID
+Armenia,2007,0,OWID
+Armenia,2008,0,OWID
+Armenia,2009,0,OWID
+Armenia,2010,0,OWID
+Armenia,2011,0,OWID
+Armenia,2012,9,OWID
+Armenia,2013,0,OWID
+Armenia,2014,0,OWID
+Armenia,2015,9,OWID
+Armenia,2016,4,OWID
+Armenia,2017,0,OWID
+Armenia,2018,0,OWID
+Armenia,2019,0,OWID
+Armenia,2020,10,OWID
+Armenia,2021,10,OWID
+Armenia,2022,154,OWID
+Armenia,2023,20,OWID
+Armenia,2024,0,OWID
+Armenia,2025,0,OWID
+Armenia,2026,0,OWID
+Asia and Oceania,1989,14570,OWID
+Asia and Oceania,1990,14603,OWID
+Asia and Oceania,1991,17651,OWID
+Asia and Oceania,1992,19495,OWID
+Asia and Oceania,1993,10482,OWID
+Asia and Oceania,1994,13306,OWID
+Asia and Oceania,1995,14510,OWID
+Asia and Oceania,1996,13572,OWID
+Asia and Oceania,1997,13188,OWID
+Asia and Oceania,1998,19693,OWID
+Asia and Oceania,1999,12859,OWID
+Asia and Oceania,2000,16386,OWID
+Asia and Oceania,2001,11490,OWID
+Asia and Oceania,2002,10611,OWID
+Asia and Oceania,2003,7613,OWID
+Asia and Oceania,2004,8219,OWID
+Asia and Oceania,2005,6880,OWID
+Asia and Oceania,2006,11669,OWID
+Asia and Oceania,2007,14248,OWID
+Asia and Oceania,2008,21497,OWID
+Asia and Oceania,2009,27556,OWID
+Asia and Oceania,2010,16800,OWID
+Asia and Oceania,2011,13192,OWID
+Asia and Oceania,2012,13543,OWID
+Asia and Oceania,2013,12768,OWID
+Asia and Oceania,2014,17585,OWID
+Asia and Oceania,2015,22310,OWID
+Asia and Oceania,2016,21692,OWID
+Asia and Oceania,2017,25682,OWID
+Asia and Oceania,2018,28911,OWID
+Asia and Oceania,2019,32742,OWID
+Asia and Oceania,2020,22521,OWID
+Asia and Oceania,2021,39462,OWID
+Asia and Oceania,2022,5983,OWID
+Asia and Oceania,2023,5357,OWID
+Asia and Oceania,2024,6454,OWID
+Asia and Oceania,2025,7123,OWID
+Asia and Oceania,2026,3700,OWID
+Australia,1989,0,OWID
+Australia,1990,0,OWID
+Australia,1991,0,OWID
+Australia,1992,0,OWID
+Australia,1993,0,OWID
+Australia,1994,0,OWID
+Australia,1995,0,OWID
+Australia,1996,0,OWID
+Australia,1997,0,OWID
+Australia,1998,0,OWID
+Australia,1999,0,OWID
+Australia,2000,0,OWID
+Australia,2001,0,OWID
+Australia,2002,0,OWID
+Australia,2003,0,OWID
+Australia,2004,0,OWID
+Australia,2005,0,OWID
+Australia,2006,0,OWID
+Australia,2007,0,OWID
+Australia,2008,0,OWID
+Australia,2009,0,OWID
+Australia,2010,0,OWID
+Australia,2011,0,OWID
+Australia,2012,0,OWID
+Australia,2013,0,OWID
+Australia,2014,0,OWID
+Australia,2015,0,OWID
+Australia,2016,0,OWID
+Australia,2017,0,OWID
+Australia,2018,2,OWID
+Australia,2019,0,OWID
+Australia,2020,0,OWID
+Australia,2021,0,OWID
+Australia,2022,0,OWID
+Australia,2023,0,OWID
+Australia,2024,0,OWID
+Australia,2025,0,OWID
+Australia,2026,0,OWID
+Austria,1989,0,OWID
+Austria,1990,0,OWID
+Austria,1991,0,OWID
+Austria,1992,0,OWID
+Austria,1993,0,OWID
+Austria,1994,0,OWID
+Austria,1995,0,OWID
+Austria,1996,0,OWID
+Austria,1997,0,OWID
+Austria,1998,0,OWID
+Austria,1999,0,OWID
+Austria,2000,0,OWID
+Austria,2001,0,OWID
+Austria,2002,0,OWID
+Austria,2003,0,OWID
+Austria,2004,0,OWID
+Austria,2005,0,OWID
+Austria,2006,0,OWID
+Austria,2007,0,OWID
+Austria,2008,0,OWID
+Austria,2009,0,OWID
+Austria,2010,0,OWID
+Austria,2011,0,OWID
+Austria,2012,0,OWID
+Austria,2013,0,OWID
+Austria,2014,0,OWID
+Austria,2015,0,OWID
+Austria,2016,0,OWID
+Austria,2017,0,OWID
+Austria,2018,0,OWID
+Austria,2019,0,OWID
+Austria,2020,4,OWID
+Austria,2021,0,OWID
+Austria,2022,0,OWID
+Austria,2023,0,OWID
+Austria,2024,0,OWID
+Austria,2025,0,OWID
+Austria,2026,0,OWID
+Azerbaijan,1989,42,OWID
+Azerbaijan,1990,197,OWID
+Azerbaijan,1991,258,OWID
+Azerbaijan,1992,2834,OWID
+Azerbaijan,1993,1187,OWID
+Azerbaijan,1994,1477,OWID
+Azerbaijan,1995,44,OWID
+Azerbaijan,1996,0,OWID
+Azerbaijan,1997,29,OWID
+Azerbaijan,1998,34,OWID
+Azerbaijan,1999,0,OWID
+Azerbaijan,2000,0,OWID
+Azerbaijan,2001,0,OWID
+Azerbaijan,2002,0,OWID
+Azerbaijan,2003,0,OWID
+Azerbaijan,2004,0,OWID
+Azerbaijan,2005,24,OWID
+Azerbaijan,2006,0,OWID
+Azerbaijan,2007,0,OWID
+Azerbaijan,2008,30,OWID
+Azerbaijan,2009,0,OWID
+Azerbaijan,2010,0,OWID
+Azerbaijan,2011,0,OWID
+Azerbaijan,2012,16,OWID
+Azerbaijan,2013,0,OWID
+Azerbaijan,2014,46,OWID
+Azerbaijan,2015,63,OWID
+Azerbaijan,2016,137,OWID
+Azerbaijan,2017,36,OWID
+Azerbaijan,2018,0,OWID
+Azerbaijan,2019,0,OWID
+Azerbaijan,2020,7528,OWID
+Azerbaijan,2021,30,OWID
+Azerbaijan,2022,154,OWID
+Azerbaijan,2023,442,OWID
+Azerbaijan,2024,0,OWID
+Azerbaijan,2025,0,OWID
+Azerbaijan,2026,0,OWID
+Bahamas,1989,0,OWID
+Bahamas,1990,0,OWID
+Bahamas,1991,0,OWID
+Bahamas,1992,0,OWID
+Bahamas,1993,0,OWID
+Bahamas,1994,0,OWID
+Bahamas,1995,0,OWID
+Bahamas,1996,0,OWID
+Bahamas,1997,0,OWID
+Bahamas,1998,0,OWID
+Bahamas,1999,0,OWID
+Bahamas,2000,0,OWID
+Bahamas,2001,0,OWID
+Bahamas,2002,0,OWID
+Bahamas,2003,0,OWID
+Bahamas,2004,0,OWID
+Bahamas,2005,0,OWID
+Bahamas,2006,0,OWID
+Bahamas,2007,0,OWID
+Bahamas,2008,0,OWID
+Bahamas,2009,0,OWID
+Bahamas,2010,0,OWID
+Bahamas,2011,0,OWID
+Bahamas,2012,0,OWID
+Bahamas,2013,0,OWID
+Bahamas,2014,0,OWID
+Bahamas,2015,0,OWID
+Bahamas,2016,0,OWID
+Bahamas,2017,0,OWID
+Bahamas,2018,0,OWID
+Bahamas,2019,0,OWID
+Bahamas,2020,0,OWID
+Bahamas,2021,0,OWID
+Bahamas,2022,0,OWID
+Bahamas,2023,0,OWID
+Bahamas,2024,0,OWID
+Bahamas,2025,0,OWID
+Bahamas,2026,0,OWID
+Bahrain,1989,0,OWID
+Bahrain,1990,0,OWID
+Bahrain,1991,0,OWID
+Bahrain,1992,0,OWID
+Bahrain,1993,0,OWID
+Bahrain,1994,0,OWID
+Bahrain,1995,0,OWID
+Bahrain,1996,0,OWID
+Bahrain,1997,0,OWID
+Bahrain,1998,0,OWID
+Bahrain,1999,0,OWID
+Bahrain,2000,0,OWID
+Bahrain,2001,0,OWID
+Bahrain,2002,0,OWID
+Bahrain,2003,0,OWID
+Bahrain,2004,0,OWID
+Bahrain,2005,0,OWID
+Bahrain,2006,0,OWID
+Bahrain,2007,0,OWID
+Bahrain,2008,0,OWID
+Bahrain,2009,0,OWID
+Bahrain,2010,0,OWID
+Bahrain,2011,29,OWID
+Bahrain,2012,0,OWID
+Bahrain,2013,0,OWID
+Bahrain,2014,0,OWID
+Bahrain,2015,0,OWID
+Bahrain,2016,0,OWID
+Bahrain,2017,0,OWID
+Bahrain,2018,0,OWID
+Bahrain,2019,0,OWID
+Bahrain,2020,0,OWID
+Bahrain,2021,0,OWID
+Bahrain,2022,0,OWID
+Bahrain,2023,0,OWID
+Bahrain,2024,0,OWID
+Bahrain,2025,0,OWID
+Bahrain,2026,3,OWID
+Bangladesh,1989,80,OWID
+Bangladesh,1990,92,OWID
+Bangladesh,1991,94,OWID
+Bangladesh,1992,252,OWID
+Bangladesh,1993,27,OWID
+Bangladesh,1994,24,OWID
+Bangladesh,1995,0,OWID
+Bangladesh,1996,33,OWID
+Bangladesh,1997,0,OWID
+Bangladesh,1998,0,OWID
+Bangladesh,1999,0,OWID
+Bangladesh,2000,76,OWID
+Bangladesh,2001,61,OWID
+Bangladesh,2002,0,OWID
+Bangladesh,2003,0,OWID
+Bangladesh,2004,25,OWID
+Bangladesh,2005,132,OWID
+Bangladesh,2006,59,OWID
+Bangladesh,2007,0,OWID
+Bangladesh,2008,0,OWID
+Bangladesh,2009,0,OWID
+Bangladesh,2010,0,OWID
+Bangladesh,2011,0,OWID
+Bangladesh,2012,0,OWID
+Bangladesh,2013,31,OWID
+Bangladesh,2014,0,OWID
+Bangladesh,2015,5,OWID
+Bangladesh,2016,73,OWID
+Bangladesh,2017,48,OWID
+Bangladesh,2018,0,OWID
+Bangladesh,2019,0,OWID
+Bangladesh,2020,3,OWID
+Bangladesh,2021,0,OWID
+Bangladesh,2022,2,OWID
+Bangladesh,2023,0,OWID
+Bangladesh,2024,389,OWID
+Bangladesh,2025,0,OWID
+Bangladesh,2026,0,OWID
+Barbados,1989,0,OWID
+Barbados,1990,0,OWID
+Barbados,1991,0,OWID
+Barbados,1992,0,OWID
+Barbados,1993,0,OWID
+Barbados,1994,0,OWID
+Barbados,1995,0,OWID
+Barbados,1996,0,OWID
+Barbados,1997,0,OWID
+Barbados,1998,0,OWID
+Barbados,1999,0,OWID
+Barbados,2000,0,OWID
+Barbados,2001,0,OWID
+Barbados,2002,0,OWID
+Barbados,2003,0,OWID
+Barbados,2004,0,OWID
+Barbados,2005,0,OWID
+Barbados,2006,0,OWID
+Barbados,2007,0,OWID
+Barbados,2008,0,OWID
+Barbados,2009,0,OWID
+Barbados,2010,0,OWID
+Barbados,2011,0,OWID
+Barbados,2012,0,OWID
+Barbados,2013,0,OWID
+Barbados,2014,0,OWID
+Barbados,2015,0,OWID
+Barbados,2016,0,OWID
+Barbados,2017,0,OWID
+Barbados,2018,0,OWID
+Barbados,2019,0,OWID
+Barbados,2020,0,OWID
+Barbados,2021,0,OWID
+Barbados,2022,0,OWID
+Barbados,2023,0,OWID
+Barbados,2024,0,OWID
+Barbados,2025,0,OWID
+Barbados,2026,0,OWID
+Belarus,1989,0,OWID
+Belarus,1990,0,OWID
+Belarus,1991,0,OWID
+Belarus,1992,0,OWID
+Belarus,1993,0,OWID
+Belarus,1994,0,OWID
+Belarus,1995,0,OWID
+Belarus,1996,0,OWID
+Belarus,1997,0,OWID
+Belarus,1998,0,OWID
+Belarus,1999,0,OWID
+Belarus,2000,0,OWID
+Belarus,2001,0,OWID
+Belarus,2002,0,OWID
+Belarus,2003,0,OWID
+Belarus,2004,0,OWID
+Belarus,2005,0,OWID
+Belarus,2006,0,OWID
+Belarus,2007,0,OWID
+Belarus,2008,0,OWID
+Belarus,2009,0,OWID
+Belarus,2010,0,OWID
+Belarus,2011,0,OWID
+Belarus,2012,0,OWID
+Belarus,2013,0,OWID
+Belarus,2014,0,OWID
+Belarus,2015,0,OWID
+Belarus,2016,0,OWID
+Belarus,2017,0,OWID
+Belarus,2018,0,OWID
+Belarus,2019,0,OWID
+Belarus,2020,0,OWID
+Belarus,2021,0,OWID
+Belarus,2022,0,OWID
+Belarus,2023,0,OWID
+Belarus,2024,0,OWID
+Belarus,2025,0,OWID
+Belarus,2026,0,OWID
+Belgium,1989,0,OWID
+Belgium,1990,0,OWID
+Belgium,1991,0,OWID
+Belgium,1992,0,OWID
+Belgium,1993,0,OWID
+Belgium,1994,0,OWID
+Belgium,1995,0,OWID
+Belgium,1996,0,OWID
+Belgium,1997,0,OWID
+Belgium,1998,0,OWID
+Belgium,1999,0,OWID
+Belgium,2000,0,OWID
+Belgium,2001,0,OWID
+Belgium,2002,0,OWID
+Belgium,2003,0,OWID
+Belgium,2004,0,OWID
+Belgium,2005,0,OWID
+Belgium,2006,0,OWID
+Belgium,2007,0,OWID
+Belgium,2008,0,OWID
+Belgium,2009,0,OWID
+Belgium,2010,0,OWID
+Belgium,2011,0,OWID
+Belgium,2012,0,OWID
+Belgium,2013,0,OWID
+Belgium,2014,0,OWID
+Belgium,2015,0,OWID
+Belgium,2016,34,OWID
+Belgium,2017,0,OWID
+Belgium,2018,4,OWID
+Belgium,2019,0,OWID
+Belgium,2020,0,OWID
+Belgium,2021,0,OWID
+Belgium,2022,0,OWID
+Belgium,2023,2,OWID
+Belgium,2024,0,OWID
+Belgium,2025,0,OWID
+Belgium,2026,0,OWID
+Belize,1989,0,OWID
+Belize,1990,0,OWID
+Belize,1991,0,OWID
+Belize,1992,0,OWID
+Belize,1993,0,OWID
+Belize,1994,0,OWID
+Belize,1995,0,OWID
+Belize,1996,0,OWID
+Belize,1997,0,OWID
+Belize,1998,0,OWID
+Belize,1999,0,OWID
+Belize,2000,0,OWID
+Belize,2001,0,OWID
+Belize,2002,0,OWID
+Belize,2003,0,OWID
+Belize,2004,0,OWID
+Belize,2005,0,OWID
+Belize,2006,0,OWID
+Belize,2007,0,OWID
+Belize,2008,0,OWID
+Belize,2009,0,OWID
+Belize,2010,0,OWID
+Belize,2011,0,OWID
+Belize,2012,0,OWID
+Belize,2013,0,OWID
+Belize,2014,0,OWID
+Belize,2015,0,OWID
+Belize,2016,0,OWID
+Belize,2017,0,OWID
+Belize,2018,0,OWID
+Belize,2019,0,OWID
+Belize,2020,0,OWID
+Belize,2021,0,OWID
+Belize,2022,0,OWID
+Belize,2023,0,OWID
+Belize,2024,0,OWID
+Belize,2025,0,OWID
+Belize,2026,0,OWID
+Benin,1989,0,OWID
+Benin,1990,0,OWID
+Benin,1991,0,OWID
+Benin,1992,0,OWID
+Benin,1993,0,OWID
+Benin,1994,0,OWID
+Benin,1995,0,OWID
+Benin,1996,0,OWID
+Benin,1997,0,OWID
+Benin,1998,0,OWID
+Benin,1999,0,OWID
+Benin,2000,0,OWID
+Benin,2001,0,OWID
+Benin,2002,0,OWID
+Benin,2003,0,OWID
+Benin,2004,0,OWID
+Benin,2005,0,OWID
+Benin,2006,0,OWID
+Benin,2007,0,OWID
+Benin,2008,0,OWID
+Benin,2009,0,OWID
+Benin,2010,0,OWID
+Benin,2011,0,OWID
+Benin,2012,0,OWID
+Benin,2013,0,OWID
+Benin,2014,0,OWID
+Benin,2015,0,OWID
+Benin,2016,0,OWID
+Benin,2017,0,OWID
+Benin,2018,0,OWID
+Benin,2019,1,OWID
+Benin,2020,0,OWID
+Benin,2021,0,OWID
+Benin,2022,30,OWID
+Benin,2023,46,OWID
+Benin,2024,83,OWID
+Benin,2025,126,OWID
+Benin,2026,22,OWID
+Bhutan,1989,0,OWID
+Bhutan,1990,0,OWID
+Bhutan,1991,0,OWID
+Bhutan,1992,0,OWID
+Bhutan,1993,0,OWID
+Bhutan,1994,0,OWID
+Bhutan,1995,0,OWID
+Bhutan,1996,0,OWID
+Bhutan,1997,4,OWID
+Bhutan,1998,0,OWID
+Bhutan,1999,0,OWID
+Bhutan,2000,0,OWID
+Bhutan,2001,0,OWID
+Bhutan,2002,0,OWID
+Bhutan,2003,0,OWID
+Bhutan,2004,0,OWID
+Bhutan,2005,0,OWID
+Bhutan,2006,0,OWID
+Bhutan,2007,0,OWID
+Bhutan,2008,0,OWID
+Bhutan,2009,0,OWID
+Bhutan,2010,0,OWID
+Bhutan,2011,0,OWID
+Bhutan,2012,0,OWID
+Bhutan,2013,0,OWID
+Bhutan,2014,0,OWID
+Bhutan,2015,0,OWID
+Bhutan,2016,0,OWID
+Bhutan,2017,0,OWID
+Bhutan,2018,0,OWID
+Bhutan,2019,0,OWID
+Bhutan,2020,0,OWID
+Bhutan,2021,0,OWID
+Bhutan,2022,0,OWID
+Bhutan,2023,0,OWID
+Bhutan,2024,0,OWID
+Bhutan,2025,0,OWID
+Bhutan,2026,0,OWID
+Bolivia,1989,0,OWID
+Bolivia,1990,0,OWID
+Bolivia,1991,0,OWID
+Bolivia,1992,0,OWID
+Bolivia,1993,0,OWID
+Bolivia,1994,0,OWID
+Bolivia,1995,0,OWID
+Bolivia,1996,0,OWID
+Bolivia,1997,0,OWID
+Bolivia,1998,0,OWID
+Bolivia,1999,0,OWID
+Bolivia,2000,50,OWID
+Bolivia,2001,0,OWID
+Bolivia,2002,0,OWID
+Bolivia,2003,0,OWID
+Bolivia,2004,0,OWID
+Bolivia,2005,0,OWID
+Bolivia,2006,0,OWID
+Bolivia,2007,0,OWID
+Bolivia,2008,0,OWID
+Bolivia,2009,0,OWID
+Bolivia,2010,0,OWID
+Bolivia,2011,0,OWID
+Bolivia,2012,0,OWID
+Bolivia,2013,0,OWID
+Bolivia,2014,0,OWID
+Bolivia,2015,0,OWID
+Bolivia,2016,0,OWID
+Bolivia,2017,0,OWID
+Bolivia,2018,0,OWID
+Bolivia,2019,0,OWID
+Bolivia,2020,1,OWID
+Bolivia,2021,1,OWID
+Bolivia,2022,1,OWID
+Bolivia,2023,1,OWID
+Bolivia,2024,0,OWID
+Bolivia,2025,0,OWID
+Bolivia,2026,0,OWID
+Bosnia and Herzegovina,1989,0,OWID
+Bosnia and Herzegovina,1990,0,OWID
+Bosnia and Herzegovina,1991,27,OWID
+Bosnia and Herzegovina,1992,26868,OWID
+Bosnia and Herzegovina,1993,13786,OWID
+Bosnia and Herzegovina,1994,7301,OWID
+Bosnia and Herzegovina,1995,17252,OWID
+Bosnia and Herzegovina,1996,0,OWID
+Bosnia and Herzegovina,1997,0,OWID
+Bosnia and Herzegovina,1998,0,OWID
+Bosnia and Herzegovina,1999,0,OWID
+Bosnia and Herzegovina,2000,0,OWID
+Bosnia and Herzegovina,2001,0,OWID
+Bosnia and Herzegovina,2002,0,OWID
+Bosnia and Herzegovina,2003,0,OWID
+Bosnia and Herzegovina,2004,0,OWID
+Bosnia and Herzegovina,2005,0,OWID
+Bosnia and Herzegovina,2006,0,OWID
+Bosnia and Herzegovina,2007,0,OWID
+Bosnia and Herzegovina,2008,0,OWID
+Bosnia and Herzegovina,2009,0,OWID
+Bosnia and Herzegovina,2010,0,OWID
+Bosnia and Herzegovina,2011,0,OWID
+Bosnia and Herzegovina,2012,0,OWID
+Bosnia and Herzegovina,2013,0,OWID
+Bosnia and Herzegovina,2014,0,OWID
+Bosnia and Herzegovina,2015,0,OWID
+Bosnia and Herzegovina,2016,0,OWID
+Bosnia and Herzegovina,2017,0,OWID
+Bosnia and Herzegovina,2018,0,OWID
+Bosnia and Herzegovina,2019,0,OWID
+Bosnia and Herzegovina,2020,0,OWID
+Bosnia and Herzegovina,2021,0,OWID
+Bosnia and Herzegovina,2022,0,OWID
+Bosnia and Herzegovina,2023,0,OWID
+Bosnia and Herzegovina,2024,0,OWID
+Bosnia and Herzegovina,2025,0,OWID
+Bosnia and Herzegovina,2026,0,OWID
+Botswana,1989,0,OWID
+Botswana,1990,1,OWID
+Botswana,1991,0,OWID
+Botswana,1992,0,OWID
+Botswana,1993,0,OWID
+Botswana,1994,0,OWID
+Botswana,1995,0,OWID
+Botswana,1996,0,OWID
+Botswana,1997,0,OWID
+Botswana,1998,0,OWID
+Botswana,1999,0,OWID
+Botswana,2000,0,OWID
+Botswana,2001,0,OWID
+Botswana,2002,0,OWID
+Botswana,2003,0,OWID
+Botswana,2004,0,OWID
+Botswana,2005,0,OWID
+Botswana,2006,0,OWID
+Botswana,2007,0,OWID
+Botswana,2008,0,OWID
+Botswana,2009,0,OWID
+Botswana,2010,0,OWID
+Botswana,2011,0,OWID
+Botswana,2012,0,OWID
+Botswana,2013,0,OWID
+Botswana,2014,0,OWID
+Botswana,2015,0,OWID
+Botswana,2016,0,OWID
+Botswana,2017,0,OWID
+Botswana,2018,0,OWID
+Botswana,2019,0,OWID
+Botswana,2020,0,OWID
+Botswana,2021,0,OWID
+Botswana,2022,0,OWID
+Botswana,2023,0,OWID
+Botswana,2024,0,OWID
+Botswana,2025,0,OWID
+Botswana,2026,0,OWID
+Brazil,1989,0,OWID
+Brazil,1990,0,OWID
+Brazil,1991,0,OWID
+Brazil,1992,0,OWID
+Brazil,1993,33,OWID
+Brazil,1994,28,OWID
+Brazil,1995,40,OWID
+Brazil,1996,0,OWID
+Brazil,1997,34,OWID
+Brazil,1998,0,OWID
+Brazil,1999,60,OWID
+Brazil,2000,29,OWID
+Brazil,2001,74,OWID
+Brazil,2002,48,OWID
+Brazil,2003,35,OWID
+Brazil,2004,85,OWID
+Brazil,2005,34,OWID
+Brazil,2006,0,OWID
+Brazil,2007,0,OWID
+Brazil,2008,0,OWID
+Brazil,2009,40,OWID
+Brazil,2010,0,OWID
+Brazil,2011,31,OWID
+Brazil,2012,262,OWID
+Brazil,2013,0,OWID
+Brazil,2014,0,OWID
+Brazil,2015,65,OWID
+Brazil,2016,147,OWID
+Brazil,2017,3045,OWID
+Brazil,2018,2635,OWID
+Brazil,2019,1659,OWID
+Brazil,2020,2578,OWID
+Brazil,2021,2582,OWID
+Brazil,2022,1658,OWID
+Brazil,2023,2389,OWID
+Brazil,2024,1597,OWID
+Brazil,2025,592,OWID
+Brazil,2026,0,OWID
+Brunei,1989,0,OWID
+Brunei,1990,0,OWID
+Brunei,1991,0,OWID
+Brunei,1992,0,OWID
+Brunei,1993,0,OWID
+Brunei,1994,0,OWID
+Brunei,1995,0,OWID
+Brunei,1996,0,OWID
+Brunei,1997,0,OWID
+Brunei,1998,0,OWID
+Brunei,1999,0,OWID
+Brunei,2000,0,OWID
+Brunei,2001,0,OWID
+Brunei,2002,0,OWID
+Brunei,2003,0,OWID
+Brunei,2004,0,OWID
+Brunei,2005,0,OWID
+Brunei,2006,0,OWID
+Brunei,2007,0,OWID
+Brunei,2008,0,OWID
+Brunei,2009,0,OWID
+Brunei,2010,0,OWID
+Brunei,2011,0,OWID
+Brunei,2012,0,OWID
+Brunei,2013,0,OWID
+Brunei,2014,0,OWID
+Brunei,2015,0,OWID
+Brunei,2016,0,OWID
+Brunei,2017,0,OWID
+Brunei,2018,0,OWID
+Brunei,2019,0,OWID
+Brunei,2020,0,OWID
+Brunei,2021,0,OWID
+Brunei,2022,0,OWID
+Brunei,2023,0,OWID
+Brunei,2024,0,OWID
+Brunei,2025,0,OWID
+Brunei,2026,0,OWID
+Bulgaria,1989,0,OWID
+Bulgaria,1990,0,OWID
+Bulgaria,1991,0,OWID
+Bulgaria,1992,0,OWID
+Bulgaria,1993,0,OWID
+Bulgaria,1994,0,OWID
+Bulgaria,1995,0,OWID
+Bulgaria,1996,0,OWID
+Bulgaria,1997,0,OWID
+Bulgaria,1998,0,OWID
+Bulgaria,1999,0,OWID
+Bulgaria,2000,0,OWID
+Bulgaria,2001,0,OWID
+Bulgaria,2002,0,OWID
+Bulgaria,2003,0,OWID
+Bulgaria,2004,0,OWID
+Bulgaria,2005,0,OWID
+Bulgaria,2006,0,OWID
+Bulgaria,2007,0,OWID
+Bulgaria,2008,0,OWID
+Bulgaria,2009,0,OWID
+Bulgaria,2010,0,OWID
+Bulgaria,2011,0,OWID
+Bulgaria,2012,0,OWID
+Bulgaria,2013,0,OWID
+Bulgaria,2014,0,OWID
+Bulgaria,2015,0,OWID
+Bulgaria,2016,0,OWID
+Bulgaria,2017,0,OWID
+Bulgaria,2018,0,OWID
+Bulgaria,2019,0,OWID
+Bulgaria,2020,0,OWID
+Bulgaria,2021,0,OWID
+Bulgaria,2022,0,OWID
+Bulgaria,2023,0,OWID
+Bulgaria,2024,0,OWID
+Bulgaria,2025,0,OWID
+Bulgaria,2026,0,OWID
+Burkina Faso,1989,0,OWID
+Burkina Faso,1990,0,OWID
+Burkina Faso,1991,0,OWID
+Burkina Faso,1992,0,OWID
+Burkina Faso,1993,0,OWID
+Burkina Faso,1994,0,OWID
+Burkina Faso,1995,0,OWID
+Burkina Faso,1996,0,OWID
+Burkina Faso,1997,0,OWID
+Burkina Faso,1998,0,OWID
+Burkina Faso,1999,0,OWID
+Burkina Faso,2000,0,OWID
+Burkina Faso,2001,0,OWID
+Burkina Faso,2002,0,OWID
+Burkina Faso,2003,0,OWID
+Burkina Faso,2004,0,OWID
+Burkina Faso,2005,0,OWID
+Burkina Faso,2006,0,OWID
+Burkina Faso,2007,0,OWID
+Burkina Faso,2008,0,OWID
+Burkina Faso,2009,0,OWID
+Burkina Faso,2010,0,OWID
+Burkina Faso,2011,0,OWID
+Burkina Faso,2012,0,OWID
+Burkina Faso,2013,0,OWID
+Burkina Faso,2014,28,OWID
+Burkina Faso,2015,0,OWID
+Burkina Faso,2016,25,OWID
+Burkina Faso,2017,34,OWID
+Burkina Faso,2018,171,OWID
+Burkina Faso,2019,1245,OWID
+Burkina Faso,2020,1152,OWID
+Burkina Faso,2021,1454,OWID
+Burkina Faso,2022,2714,OWID
+Burkina Faso,2023,6363,OWID
+Burkina Faso,2024,4253,OWID
+Burkina Faso,2025,4475,OWID
+Burkina Faso,2026,1542,OWID
+Burundi,1989,0,OWID
+Burundi,1990,0,OWID
+Burundi,1991,342,OWID
+Burundi,1992,61,OWID
+Burundi,1993,10212,OWID
+Burundi,1994,926,OWID
+Burundi,1995,2824,OWID
+Burundi,1996,18183,OWID
+Burundi,1997,4395,OWID
+Burundi,1998,1797,OWID
+Burundi,1999,1828,OWID
+Burundi,2000,2441,OWID
+Burundi,2001,1613,OWID
+Burundi,2002,1990,OWID
+Burundi,2003,1282,OWID
+Burundi,2004,710,OWID
+Burundi,2005,483,OWID
+Burundi,2006,251,OWID
+Burundi,2007,52,OWID
+Burundi,2008,226,OWID
+Burundi,2009,0,OWID
+Burundi,2010,0,OWID
+Burundi,2011,0,OWID
+Burundi,2012,0,OWID
+Burundi,2013,0,OWID
+Burundi,2014,56,OWID
+Burundi,2015,265,OWID
+Burundi,2016,85,OWID
+Burundi,2017,38,OWID
+Burundi,2018,109,OWID
+Burundi,2019,75,OWID
+Burundi,2020,127,OWID
+Burundi,2021,76,OWID
+Burundi,2022,38,OWID
+Burundi,2023,124,OWID
+Burundi,2024,70,OWID
+Burundi,2025,62,OWID
+Burundi,2026,1,OWID
+Cambodia,1989,812,OWID
+Cambodia,1990,377,OWID
+Cambodia,1991,312,OWID
+Cambodia,1992,191,OWID
+Cambodia,1993,484,OWID
+Cambodia,1994,566,OWID
+Cambodia,1995,723,OWID
+Cambodia,1996,841,OWID
+Cambodia,1997,415,OWID
+Cambodia,1998,238,OWID
+Cambodia,1999,0,OWID
+Cambodia,2000,0,OWID
+Cambodia,2001,0,OWID
+Cambodia,2002,0,OWID
+Cambodia,2003,0,OWID
+Cambodia,2004,0,OWID
+Cambodia,2005,0,OWID
+Cambodia,2006,0,OWID
+Cambodia,2007,0,OWID
+Cambodia,2008,0,OWID
+Cambodia,2009,0,OWID
+Cambodia,2010,0,OWID
+Cambodia,2011,10,OWID
+Cambodia,2012,0,OWID
+Cambodia,2013,0,OWID
+Cambodia,2014,0,OWID
+Cambodia,2015,0,OWID
+Cambodia,2016,0,OWID
+Cambodia,2017,0,OWID
+Cambodia,2018,0,OWID
+Cambodia,2019,0,OWID
+Cambodia,2020,0,OWID
+Cambodia,2021,0,OWID
+Cambodia,2022,0,OWID
+Cambodia,2023,0,OWID
+Cambodia,2024,0,OWID
+Cambodia,2025,175,OWID
+Cambodia,2026,0,OWID
+Cameroon,1989,0,OWID
+Cameroon,1990,0,OWID
+Cameroon,1991,50,OWID
+Cameroon,1992,25,OWID
+Cameroon,1993,47,OWID
+Cameroon,1994,89,OWID
+Cameroon,1995,0,OWID
+Cameroon,1996,56,OWID
+Cameroon,1997,0,OWID
+Cameroon,1998,51,OWID
+Cameroon,1999,0,OWID
+Cameroon,2000,0,OWID
+Cameroon,2001,0,OWID
+Cameroon,2002,0,OWID
+Cameroon,2003,0,OWID
+Cameroon,2004,0,OWID
+Cameroon,2005,0,OWID
+Cameroon,2006,0,OWID
+Cameroon,2007,0,OWID
+Cameroon,2008,0,OWID
+Cameroon,2009,0,OWID
+Cameroon,2010,0,OWID
+Cameroon,2011,0,OWID
+Cameroon,2012,0,OWID
+Cameroon,2013,1,OWID
+Cameroon,2014,1034,OWID
+Cameroon,2015,1263,OWID
+Cameroon,2016,485,OWID
+Cameroon,2017,387,OWID
+Cameroon,2018,941,OWID
+Cameroon,2019,830,OWID
+Cameroon,2020,780,OWID
+Cameroon,2021,797,OWID
+Cameroon,2022,657,OWID
+Cameroon,2023,621,OWID
+Cameroon,2024,378,OWID
+Cameroon,2025,367,OWID
+Cameroon,2026,191,OWID
+Canada,1989,0,OWID
+Canada,1990,0,OWID
+Canada,1991,0,OWID
+Canada,1992,0,OWID
+Canada,1993,0,OWID
+Canada,1994,0,OWID
+Canada,1995,24,OWID
+Canada,1996,0,OWID
+Canada,1997,0,OWID
+Canada,1998,27,OWID
+Canada,1999,0,OWID
+Canada,2000,0,OWID
+Canada,2001,0,OWID
+Canada,2002,0,OWID
+Canada,2003,0,OWID
+Canada,2004,0,OWID
+Canada,2005,0,OWID
+Canada,2006,0,OWID
+Canada,2007,0,OWID
+Canada,2008,0,OWID
+Canada,2009,0,OWID
+Canada,2010,0,OWID
+Canada,2011,0,OWID
+Canada,2012,0,OWID
+Canada,2013,0,OWID
+Canada,2014,0,OWID
+Canada,2015,0,OWID
+Canada,2016,0,OWID
+Canada,2017,0,OWID
+Canada,2018,0,OWID
+Canada,2019,0,OWID
+Canada,2020,0,OWID
+Canada,2021,0,OWID
+Canada,2022,0,OWID
+Canada,2023,0,OWID
+Canada,2024,0,OWID
+Canada,2025,0,OWID
+Canada,2026,0,OWID
+Cape Verde,1989,0,OWID
+Cape Verde,1990,0,OWID
+Cape Verde,1991,0,OWID
+Cape Verde,1992,0,OWID
+Cape Verde,1993,0,OWID
+Cape Verde,1994,0,OWID
+Cape Verde,1995,0,OWID
+Cape Verde,1996,0,OWID
+Cape Verde,1997,0,OWID
+Cape Verde,1998,0,OWID
+Cape Verde,1999,0,OWID
+Cape Verde,2000,0,OWID
+Cape Verde,2001,0,OWID
+Cape Verde,2002,0,OWID
+Cape Verde,2003,0,OWID
+Cape Verde,2004,0,OWID
+Cape Verde,2005,0,OWID
+Cape Verde,2006,0,OWID
+Cape Verde,2007,0,OWID
+Cape Verde,2008,0,OWID
+Cape Verde,2009,0,OWID
+Cape Verde,2010,0,OWID
+Cape Verde,2011,0,OWID
+Cape Verde,2012,0,OWID
+Cape Verde,2013,0,OWID
+Cape Verde,2014,0,OWID
+Cape Verde,2015,0,OWID
+Cape Verde,2016,0,OWID
+Cape Verde,2017,0,OWID
+Cape Verde,2018,0,OWID
+Cape Verde,2019,0,OWID
+Cape Verde,2020,0,OWID
+Cape Verde,2021,0,OWID
+Cape Verde,2022,0,OWID
+Cape Verde,2023,0,OWID
+Cape Verde,2024,0,OWID
+Cape Verde,2025,0,OWID
+Cape Verde,2026,0,OWID
+Central African Republic,1989,0,OWID
+Central African Republic,1990,0,OWID
+Central African Republic,1991,0,OWID
+Central African Republic,1992,0,OWID
+Central African Republic,1993,0,OWID
+Central African Republic,1994,0,OWID
+Central African Republic,1995,0,OWID
+Central African Republic,1996,0,OWID
+Central African Republic,1997,0,OWID
+Central African Republic,1998,0,OWID
+Central African Republic,1999,0,OWID
+Central African Republic,2000,0,OWID
+Central African Republic,2001,216,OWID
+Central African Republic,2002,131,OWID
+Central African Republic,2003,0,OWID
+Central African Republic,2004,20,OWID
+Central African Republic,2005,0,OWID
+Central African Republic,2006,179,OWID
+Central African Republic,2007,128,OWID
+Central African Republic,2008,6,OWID
+Central African Republic,2009,245,OWID
+Central African Republic,2010,148,OWID
+Central African Republic,2011,184,OWID
+Central African Republic,2012,107,OWID
+Central African Republic,2013,3396,OWID
+Central African Republic,2014,3479,OWID
+Central African Republic,2015,719,OWID
+Central African Republic,2016,628,OWID
+Central African Republic,2017,1756,OWID
+Central African Republic,2018,612,OWID
+Central African Republic,2019,422,OWID
+Central African Republic,2020,217,OWID
+Central African Republic,2021,1080,OWID
+Central African Republic,2022,767,OWID
+Central African Republic,2023,390,OWID
+Central African Republic,2024,468,OWID
+Central African Republic,2025,346,OWID
+Central African Republic,2026,0,OWID
+Chad,1989,50,OWID
+Chad,1990,686,OWID
+Chad,1991,95,OWID
+Chad,1992,1190,OWID
+Chad,1993,313,OWID
+Chad,1994,510,OWID
+Chad,1995,47,OWID
+Chad,1996,3,OWID
+Chad,1997,137,OWID
+Chad,1998,179,OWID
+Chad,1999,394,OWID
+Chad,2000,1061,OWID
+Chad,2001,230,OWID
+Chad,2002,297,OWID
+Chad,2003,224,OWID
+Chad,2004,80,OWID
+Chad,2005,267,OWID
+Chad,2006,1922,OWID
+Chad,2007,397,OWID
+Chad,2008,991,OWID
+Chad,2009,135,OWID
+Chad,2010,42,OWID
+Chad,2011,1,OWID
+Chad,2012,0,OWID
+Chad,2013,0,OWID
+Chad,2014,6,OWID
+Chad,2015,389,OWID
+Chad,2016,2,OWID
+Chad,2017,88,OWID
+Chad,2018,168,OWID
+Chad,2019,251,OWID
+Chad,2020,249,OWID
+Chad,2021,666,OWID
+Chad,2022,92,OWID
+Chad,2023,115,OWID
+Chad,2024,194,OWID
+Chad,2025,143,OWID
+Chad,2026,128,OWID
+Chile,1989,0,OWID
+Chile,1990,0,OWID
+Chile,1991,0,OWID
+Chile,1992,0,OWID
+Chile,1993,0,OWID
+Chile,1994,0,OWID
+Chile,1995,0,OWID
+Chile,1996,0,OWID
+Chile,1997,0,OWID
+Chile,1998,0,OWID
+Chile,1999,0,OWID
+Chile,2000,0,OWID
+Chile,2001,0,OWID
+Chile,2002,0,OWID
+Chile,2003,0,OWID
+Chile,2004,0,OWID
+Chile,2005,0,OWID
+Chile,2006,0,OWID
+Chile,2007,0,OWID
+Chile,2008,0,OWID
+Chile,2009,0,OWID
+Chile,2010,0,OWID
+Chile,2011,0,OWID
+Chile,2012,0,OWID
+Chile,2013,0,OWID
+Chile,2014,0,OWID
+Chile,2015,0,OWID
+Chile,2016,0,OWID
+Chile,2017,0,OWID
+Chile,2018,0,OWID
+Chile,2019,0,OWID
+Chile,2020,0,OWID
+Chile,2021,0,OWID
+Chile,2022,0,OWID
+Chile,2023,0,OWID
+Chile,2024,0,OWID
+Chile,2025,0,OWID
+Chile,2026,0,OWID
+China,1989,2600,OWID
+China,1990,0,OWID
+China,1991,0,OWID
+China,1992,0,OWID
+China,1993,0,OWID
+China,1994,0,OWID
+China,1995,0,OWID
+China,1996,0,OWID
+China,1997,0,OWID
+China,1998,0,OWID
+China,1999,0,OWID
+China,2000,0,OWID
+China,2001,0,OWID
+China,2002,0,OWID
+China,2003,0,OWID
+China,2004,0,OWID
+China,2005,0,OWID
+China,2006,0,OWID
+China,2007,0,OWID
+China,2008,87,OWID
+China,2009,189,OWID
+China,2010,0,OWID
+China,2011,0,OWID
+China,2012,0,OWID
+China,2013,0,OWID
+China,2014,0,OWID
+China,2015,5,OWID
+China,2016,0,OWID
+China,2017,0,OWID
+China,2018,0,OWID
+China,2019,0,OWID
+China,2020,0,OWID
+China,2021,0,OWID
+China,2022,0,OWID
+China,2023,1,OWID
+China,2024,0,OWID
+China,2025,0,OWID
+China,2026,0,OWID
+Colombia,1989,380,OWID
+Colombia,1990,693,OWID
+Colombia,1991,838,OWID
+Colombia,1992,1479,OWID
+Colombia,1993,267,OWID
+Colombia,1994,1164,OWID
+Colombia,1995,923,OWID
+Colombia,1996,1400,OWID
+Colombia,1997,863,OWID
+Colombia,1998,1597,OWID
+Colombia,1999,4104,OWID
+Colombia,2000,4411,OWID
+Colombia,2001,4620,OWID
+Colombia,2002,5974,OWID
+Colombia,2003,4635,OWID
+Colombia,2004,3318,OWID
+Colombia,2005,2848,OWID
+Colombia,2006,958,OWID
+Colombia,2007,676,OWID
+Colombia,2008,620,OWID
+Colombia,2009,659,OWID
+Colombia,2010,407,OWID
+Colombia,2011,202,OWID
+Colombia,2012,362,OWID
+Colombia,2013,140,OWID
+Colombia,2014,119,OWID
+Colombia,2015,134,OWID
+Colombia,2016,30,OWID
+Colombia,2017,176,OWID
+Colombia,2018,400,OWID
+Colombia,2019,138,OWID
+Colombia,2020,144,OWID
+Colombia,2021,265,OWID
+Colombia,2022,333,OWID
+Colombia,2023,511,OWID
+Colombia,2024,699,OWID
+Colombia,2025,942,OWID
+Colombia,2026,495,OWID
+Comoros,1989,29,OWID
+Comoros,1990,0,OWID
+Comoros,1991,0,OWID
+Comoros,1992,0,OWID
+Comoros,1993,0,OWID
+Comoros,1994,0,OWID
+Comoros,1995,0,OWID
+Comoros,1996,0,OWID
+Comoros,1997,56,OWID
+Comoros,1998,40,OWID
+Comoros,1999,0,OWID
+Comoros,2000,0,OWID
+Comoros,2001,0,OWID
+Comoros,2002,0,OWID
+Comoros,2003,0,OWID
+Comoros,2004,0,OWID
+Comoros,2005,0,OWID
+Comoros,2006,0,OWID
+Comoros,2007,0,OWID
+Comoros,2008,0,OWID
+Comoros,2009,0,OWID
+Comoros,2010,0,OWID
+Comoros,2011,0,OWID
+Comoros,2012,0,OWID
+Comoros,2013,0,OWID
+Comoros,2014,0,OWID
+Comoros,2015,0,OWID
+Comoros,2016,0,OWID
+Comoros,2017,0,OWID
+Comoros,2018,0,OWID
+Comoros,2019,0,OWID
+Comoros,2020,0,OWID
+Comoros,2021,0,OWID
+Comoros,2022,0,OWID
+Comoros,2023,0,OWID
+Comoros,2024,0,OWID
+Comoros,2025,0,OWID
+Comoros,2026,0,OWID
+Congo,1989,0,OWID
+Congo,1990,0,OWID
+Congo,1991,0,OWID
+Congo,1992,0,OWID
+Congo,1993,135,OWID
+Congo,1994,0,OWID
+Congo,1995,0,OWID
+Congo,1996,0,OWID
+Congo,1997,10426,OWID
+Congo,1998,3763,OWID
+Congo,1999,948,OWID
+Congo,2000,0,OWID
+Congo,2001,0,OWID
+Congo,2002,225,OWID
+Congo,2003,41,OWID
+Congo,2004,0,OWID
+Congo,2005,0,OWID
+Congo,2006,0,OWID
+Congo,2007,0,OWID
+Congo,2008,0,OWID
+Congo,2009,0,OWID
+Congo,2010,0,OWID
+Congo,2011,0,OWID
+Congo,2012,0,OWID
+Congo,2013,0,OWID
+Congo,2014,0,OWID
+Congo,2015,0,OWID
+Congo,2016,73,OWID
+Congo,2017,0,OWID
+Congo,2018,696,OWID
+Congo,2019,1,OWID
+Congo,2020,0,OWID
+Congo,2021,0,OWID
+Congo,2022,358,OWID
+Congo,2023,0,OWID
+Congo,2024,300,OWID
+Congo,2025,301,OWID
+Congo,2026,6,OWID
+Costa Rica,1989,0,OWID
+Costa Rica,1990,0,OWID
+Costa Rica,1991,0,OWID
+Costa Rica,1992,0,OWID
+Costa Rica,1993,0,OWID
+Costa Rica,1994,0,OWID
+Costa Rica,1995,0,OWID
+Costa Rica,1996,0,OWID
+Costa Rica,1997,0,OWID
+Costa Rica,1998,0,OWID
+Costa Rica,1999,0,OWID
+Costa Rica,2000,0,OWID
+Costa Rica,2001,0,OWID
+Costa Rica,2002,0,OWID
+Costa Rica,2003,0,OWID
+Costa Rica,2004,0,OWID
+Costa Rica,2005,0,OWID
+Costa Rica,2006,0,OWID
+Costa Rica,2007,0,OWID
+Costa Rica,2008,0,OWID
+Costa Rica,2009,0,OWID
+Costa Rica,2010,0,OWID
+Costa Rica,2011,0,OWID
+Costa Rica,2012,0,OWID
+Costa Rica,2013,0,OWID
+Costa Rica,2014,0,OWID
+Costa Rica,2015,0,OWID
+Costa Rica,2016,0,OWID
+Costa Rica,2017,0,OWID
+Costa Rica,2018,0,OWID
+Costa Rica,2019,0,OWID
+Costa Rica,2020,0,OWID
+Costa Rica,2021,0,OWID
+Costa Rica,2022,0,OWID
+Costa Rica,2023,0,OWID
+Costa Rica,2024,57,OWID
+Costa Rica,2025,142,OWID
+Costa Rica,2026,0,OWID
+Cote d'Ivoire,1989,0,OWID
+Cote d'Ivoire,1990,8,OWID
+Cote d'Ivoire,1991,0,OWID
+Cote d'Ivoire,1992,0,OWID
+Cote d'Ivoire,1993,1,OWID
+Cote d'Ivoire,1994,4,OWID
+Cote d'Ivoire,1995,37,OWID
+Cote d'Ivoire,1996,0,OWID
+Cote d'Ivoire,1997,0,OWID
+Cote d'Ivoire,1998,0,OWID
+Cote d'Ivoire,1999,0,OWID
+Cote d'Ivoire,2000,132,OWID
+Cote d'Ivoire,2001,0,OWID
+Cote d'Ivoire,2002,1039,OWID
+Cote d'Ivoire,2003,483,OWID
+Cote d'Ivoire,2004,303,OWID
+Cote d'Ivoire,2005,128,OWID
+Cote d'Ivoire,2006,0,OWID
+Cote d'Ivoire,2007,0,OWID
+Cote d'Ivoire,2008,0,OWID
+Cote d'Ivoire,2009,0,OWID
+Cote d'Ivoire,2010,44,OWID
+Cote d'Ivoire,2011,1234,OWID
+Cote d'Ivoire,2012,0,OWID
+Cote d'Ivoire,2013,0,OWID
+Cote d'Ivoire,2014,0,OWID
+Cote d'Ivoire,2015,0,OWID
+Cote d'Ivoire,2016,49,OWID
+Cote d'Ivoire,2017,0,OWID
+Cote d'Ivoire,2018,0,OWID
+Cote d'Ivoire,2019,0,OWID
+Cote d'Ivoire,2020,0,OWID
+Cote d'Ivoire,2021,0,OWID
+Cote d'Ivoire,2022,0,OWID
+Cote d'Ivoire,2023,0,OWID
+Cote d'Ivoire,2024,0,OWID
+Cote d'Ivoire,2025,0,OWID
+Cote d'Ivoire,2026,0,OWID
+Croatia,1989,0,OWID
+Croatia,1990,0,OWID
+Croatia,1991,3171,OWID
+Croatia,1992,291,OWID
+Croatia,1993,373,OWID
+Croatia,1994,3,OWID
+Croatia,1995,963,OWID
+Croatia,1996,0,OWID
+Croatia,1997,0,OWID
+Croatia,1998,0,OWID
+Croatia,1999,0,OWID
+Croatia,2000,0,OWID
+Croatia,2001,0,OWID
+Croatia,2002,0,OWID
+Croatia,2003,0,OWID
+Croatia,2004,0,OWID
+Croatia,2005,0,OWID
+Croatia,2006,0,OWID
+Croatia,2007,0,OWID
+Croatia,2008,0,OWID
+Croatia,2009,0,OWID
+Croatia,2010,0,OWID
+Croatia,2011,0,OWID
+Croatia,2012,0,OWID
+Croatia,2013,0,OWID
+Croatia,2014,0,OWID
+Croatia,2015,0,OWID
+Croatia,2016,0,OWID
+Croatia,2017,0,OWID
+Croatia,2018,0,OWID
+Croatia,2019,0,OWID
+Croatia,2020,0,OWID
+Croatia,2021,0,OWID
+Croatia,2022,0,OWID
+Croatia,2023,0,OWID
+Croatia,2024,0,OWID
+Croatia,2025,0,OWID
+Croatia,2026,0,OWID
+Cuba,1989,0,OWID
+Cuba,1990,0,OWID
+Cuba,1991,0,OWID
+Cuba,1992,0,OWID
+Cuba,1993,0,OWID
+Cuba,1994,0,OWID
+Cuba,1995,0,OWID
+Cuba,1996,0,OWID
+Cuba,1997,0,OWID
+Cuba,1998,0,OWID
+Cuba,1999,0,OWID
+Cuba,2000,0,OWID
+Cuba,2001,0,OWID
+Cuba,2002,0,OWID
+Cuba,2003,0,OWID
+Cuba,2004,0,OWID
+Cuba,2005,0,OWID
+Cuba,2006,0,OWID
+Cuba,2007,0,OWID
+Cuba,2008,0,OWID
+Cuba,2009,0,OWID
+Cuba,2010,0,OWID
+Cuba,2011,0,OWID
+Cuba,2012,0,OWID
+Cuba,2013,0,OWID
+Cuba,2014,0,OWID
+Cuba,2015,0,OWID
+Cuba,2016,0,OWID
+Cuba,2017,0,OWID
+Cuba,2018,0,OWID
+Cuba,2019,0,OWID
+Cuba,2020,0,OWID
+Cuba,2021,0,OWID
+Cuba,2022,0,OWID
+Cuba,2023,0,OWID
+Cuba,2024,0,OWID
+Cuba,2025,0,OWID
+Cuba,2026,0,OWID
+Cyprus,1989,0,OWID
+Cyprus,1990,0,OWID
+Cyprus,1991,0,OWID
+Cyprus,1992,0,OWID
+Cyprus,1993,0,OWID
+Cyprus,1994,0,OWID
+Cyprus,1995,0,OWID
+Cyprus,1996,0,OWID
+Cyprus,1997,0,OWID
+Cyprus,1998,0,OWID
+Cyprus,1999,0,OWID
+Cyprus,2000,0,OWID
+Cyprus,2001,0,OWID
+Cyprus,2002,0,OWID
+Cyprus,2003,0,OWID
+Cyprus,2004,0,OWID
+Cyprus,2005,0,OWID
+Cyprus,2006,0,OWID
+Cyprus,2007,0,OWID
+Cyprus,2008,0,OWID
+Cyprus,2009,0,OWID
+Cyprus,2010,0,OWID
+Cyprus,2011,0,OWID
+Cyprus,2012,0,OWID
+Cyprus,2013,0,OWID
+Cyprus,2014,0,OWID
+Cyprus,2015,0,OWID
+Cyprus,2016,0,OWID
+Cyprus,2017,0,OWID
+Cyprus,2018,0,OWID
+Cyprus,2019,0,OWID
+Cyprus,2020,0,OWID
+Cyprus,2021,0,OWID
+Cyprus,2022,0,OWID
+Cyprus,2023,0,OWID
+Cyprus,2024,0,OWID
+Cyprus,2025,0,OWID
+Cyprus,2026,0,OWID
+Czechia,1989,0,OWID
+Czechia,1990,0,OWID
+Czechia,1991,0,OWID
+Czechia,1992,0,OWID
+Czechia,1993,0,OWID
+Czechia,1994,0,OWID
+Czechia,1995,0,OWID
+Czechia,1996,0,OWID
+Czechia,1997,0,OWID
+Czechia,1998,0,OWID
+Czechia,1999,0,OWID
+Czechia,2000,0,OWID
+Czechia,2001,0,OWID
+Czechia,2002,0,OWID
+Czechia,2003,0,OWID
+Czechia,2004,0,OWID
+Czechia,2005,0,OWID
+Czechia,2006,0,OWID
+Czechia,2007,0,OWID
+Czechia,2008,0,OWID
+Czechia,2009,0,OWID
+Czechia,2010,0,OWID
+Czechia,2011,0,OWID
+Czechia,2012,0,OWID
+Czechia,2013,0,OWID
+Czechia,2014,0,OWID
+Czechia,2015,0,OWID
+Czechia,2016,0,OWID
+Czechia,2017,0,OWID
+Czechia,2018,0,OWID
+Czechia,2019,0,OWID
+Czechia,2020,0,OWID
+Czechia,2021,0,OWID
+Czechia,2022,0,OWID
+Czechia,2023,0,OWID
+Czechia,2024,0,OWID
+Czechia,2025,0,OWID
+Czechia,2026,0,OWID
+Czechoslovakia,1989,0,OWID
+Czechoslovakia,1990,0,OWID
+Czechoslovakia,1991,0,OWID
+Czechoslovakia,1992,0,OWID
+Czechoslovakia,1993,0,OWID
+Czechoslovakia,1994,0,OWID
+Czechoslovakia,1995,0,OWID
+Czechoslovakia,1996,0,OWID
+Czechoslovakia,1997,0,OWID
+Czechoslovakia,1998,0,OWID
+Czechoslovakia,1999,0,OWID
+Czechoslovakia,2000,0,OWID
+Czechoslovakia,2001,0,OWID
+Czechoslovakia,2002,0,OWID
+Czechoslovakia,2003,0,OWID
+Czechoslovakia,2004,0,OWID
+Czechoslovakia,2005,0,OWID
+Czechoslovakia,2006,0,OWID
+Czechoslovakia,2007,0,OWID
+Czechoslovakia,2008,0,OWID
+Czechoslovakia,2009,0,OWID
+Czechoslovakia,2010,0,OWID
+Czechoslovakia,2011,0,OWID
+Czechoslovakia,2012,0,OWID
+Czechoslovakia,2013,0,OWID
+Czechoslovakia,2014,0,OWID
+Czechoslovakia,2015,0,OWID
+Czechoslovakia,2016,0,OWID
+Czechoslovakia,2017,0,OWID
+Czechoslovakia,2018,0,OWID
+Czechoslovakia,2019,0,OWID
+Czechoslovakia,2020,0,OWID
+Czechoslovakia,2021,0,OWID
+Czechoslovakia,2022,0,OWID
+Czechoslovakia,2023,0,OWID
+Czechoslovakia,2024,0,OWID
+Czechoslovakia,2025,0,OWID
+Czechoslovakia,2026,0,OWID
+Democratic Republic of Congo,1989,28,OWID
+Democratic Republic of Congo,1990,147,OWID
+Democratic Republic of Congo,1991,32,OWID
+Democratic Republic of Congo,1992,67,OWID
+Democratic Republic of Congo,1993,3337,OWID
+Democratic Republic of Congo,1994,309,OWID
+Democratic Republic of Congo,1995,523,OWID
+Democratic Republic of Congo,1996,34274,OWID
+Democratic Republic of Congo,1997,13897,OWID
+Democratic Republic of Congo,1998,7695,OWID
+Democratic Republic of Congo,1999,7861,OWID
+Democratic Republic of Congo,2000,3834,OWID
+Democratic Republic of Congo,2001,1428,OWID
+Democratic Republic of Congo,2002,7895,OWID
+Democratic Republic of Congo,2003,4316,OWID
+Democratic Republic of Congo,2004,751,OWID
+Democratic Republic of Congo,2005,295,OWID
+Democratic Republic of Congo,2006,364,OWID
+Democratic Republic of Congo,2007,917,OWID
+Democratic Republic of Congo,2008,1737,OWID
+Democratic Republic of Congo,2009,5302,OWID
+Democratic Republic of Congo,2010,1161,OWID
+Democratic Republic of Congo,2011,525,OWID
+Democratic Republic of Congo,2012,1782,OWID
+Democratic Republic of Congo,2013,2150,OWID
+Democratic Republic of Congo,2014,1537,OWID
+Democratic Republic of Congo,2015,637,OWID
+Democratic Republic of Congo,2016,2134,OWID
+Democratic Republic of Congo,2017,5824,OWID
+Democratic Republic of Congo,2018,2262,OWID
+Democratic Republic of Congo,2019,2395,OWID
+Democratic Republic of Congo,2020,3847,OWID
+Democratic Republic of Congo,2021,3492,OWID
+Democratic Republic of Congo,2022,5444,OWID
+Democratic Republic of Congo,2023,4297,OWID
+Democratic Republic of Congo,2024,5089,OWID
+Democratic Republic of Congo,2025,8860,OWID
+Democratic Republic of Congo,2026,1767,OWID
+Denmark,1989,0,OWID
+Denmark,1990,0,OWID
+Denmark,1991,0,OWID
+Denmark,1992,0,OWID
+Denmark,1993,0,OWID
+Denmark,1994,0,OWID
+Denmark,1995,0,OWID
+Denmark,1996,0,OWID
+Denmark,1997,0,OWID
+Denmark,1998,0,OWID
+Denmark,1999,0,OWID
+Denmark,2000,0,OWID
+Denmark,2001,0,OWID
+Denmark,2002,0,OWID
+Denmark,2003,0,OWID
+Denmark,2004,0,OWID
+Denmark,2005,0,OWID
+Denmark,2006,0,OWID
+Denmark,2007,0,OWID
+Denmark,2008,0,OWID
+Denmark,2009,0,OWID
+Denmark,2010,0,OWID
+Denmark,2011,0,OWID
+Denmark,2012,0,OWID
+Denmark,2013,0,OWID
+Denmark,2014,0,OWID
+Denmark,2015,0,OWID
+Denmark,2016,0,OWID
+Denmark,2017,0,OWID
+Denmark,2018,0,OWID
+Denmark,2019,0,OWID
+Denmark,2020,0,OWID
+Denmark,2021,0,OWID
+Denmark,2022,0,OWID
+Denmark,2023,0,OWID
+Denmark,2024,0,OWID
+Denmark,2025,0,OWID
+Denmark,2026,0,OWID
+Djibouti,1989,6,OWID
+Djibouti,1990,60,OWID
+Djibouti,1991,119,OWID
+Djibouti,1992,129,OWID
+Djibouti,1993,33,OWID
+Djibouti,1994,39,OWID
+Djibouti,1995,17,OWID
+Djibouti,1996,0,OWID
+Djibouti,1997,0,OWID
+Djibouti,1998,0,OWID
+Djibouti,1999,25,OWID
+Djibouti,2000,0,OWID
+Djibouti,2001,0,OWID
+Djibouti,2002,0,OWID
+Djibouti,2003,0,OWID
+Djibouti,2004,0,OWID
+Djibouti,2005,0,OWID
+Djibouti,2006,0,OWID
+Djibouti,2007,0,OWID
+Djibouti,2008,35,OWID
+Djibouti,2009,0,OWID
+Djibouti,2010,0,OWID
+Djibouti,2011,0,OWID
+Djibouti,2012,0,OWID
+Djibouti,2013,0,OWID
+Djibouti,2014,1,OWID
+Djibouti,2015,0,OWID
+Djibouti,2016,0,OWID
+Djibouti,2017,0,OWID
+Djibouti,2018,6,OWID
+Djibouti,2019,0,OWID
+Djibouti,2020,0,OWID
+Djibouti,2021,0,OWID
+Djibouti,2022,0,OWID
+Djibouti,2023,0,OWID
+Djibouti,2024,0,OWID
+Djibouti,2025,0,OWID
+Djibouti,2026,0,OWID
+Dominica,1989,0,OWID
+Dominica,1990,0,OWID
+Dominica,1991,0,OWID
+Dominica,1992,0,OWID
+Dominica,1993,0,OWID
+Dominica,1994,0,OWID
+Dominica,1995,0,OWID
+Dominica,1996,0,OWID
+Dominica,1997,0,OWID
+Dominica,1998,0,OWID
+Dominica,1999,0,OWID
+Dominica,2000,0,OWID
+Dominica,2001,0,OWID
+Dominica,2002,0,OWID
+Dominica,2003,0,OWID
+Dominica,2004,0,OWID
+Dominica,2005,0,OWID
+Dominica,2006,0,OWID
+Dominica,2007,0,OWID
+Dominica,2008,0,OWID
+Dominica,2009,0,OWID
+Dominica,2010,0,OWID
+Dominica,2011,0,OWID
+Dominica,2012,0,OWID
+Dominica,2013,0,OWID
+Dominica,2014,0,OWID
+Dominica,2015,0,OWID
+Dominica,2016,0,OWID
+Dominica,2017,0,OWID
+Dominica,2018,0,OWID
+Dominica,2019,0,OWID
+Dominica,2020,0,OWID
+Dominica,2021,0,OWID
+Dominica,2022,0,OWID
+Dominica,2023,0,OWID
+Dominica,2024,0,OWID
+Dominica,2025,0,OWID
+Dominica,2026,0,OWID
+Dominican Republic,1989,0,OWID
+Dominican Republic,1990,0,OWID
+Dominican Republic,1991,0,OWID
+Dominican Republic,1992,0,OWID
+Dominican Republic,1993,0,OWID
+Dominican Republic,1994,0,OWID
+Dominican Republic,1995,0,OWID
+Dominican Republic,1996,0,OWID
+Dominican Republic,1997,0,OWID
+Dominican Republic,1998,0,OWID
+Dominican Republic,1999,0,OWID
+Dominican Republic,2000,0,OWID
+Dominican Republic,2001,0,OWID
+Dominican Republic,2002,0,OWID
+Dominican Republic,2003,0,OWID
+Dominican Republic,2004,0,OWID
+Dominican Republic,2005,0,OWID
+Dominican Republic,2006,0,OWID
+Dominican Republic,2007,0,OWID
+Dominican Republic,2008,0,OWID
+Dominican Republic,2009,0,OWID
+Dominican Republic,2010,0,OWID
+Dominican Republic,2011,0,OWID
+Dominican Republic,2012,0,OWID
+Dominican Republic,2013,0,OWID
+Dominican Republic,2014,0,OWID
+Dominican Republic,2015,0,OWID
+Dominican Republic,2016,0,OWID
+Dominican Republic,2017,0,OWID
+Dominican Republic,2018,0,OWID
+Dominican Republic,2019,0,OWID
+Dominican Republic,2020,0,OWID
+Dominican Republic,2021,0,OWID
+Dominican Republic,2022,0,OWID
+Dominican Republic,2023,0,OWID
+Dominican Republic,2024,0,OWID
+Dominican Republic,2025,0,OWID
+Dominican Republic,2026,0,OWID
+East Germany,1989,0,OWID
+East Germany,1990,0,OWID
+East Germany,1991,0,OWID
+East Germany,1992,0,OWID
+East Germany,1993,0,OWID
+East Germany,1994,0,OWID
+East Germany,1995,0,OWID
+East Germany,1996,0,OWID
+East Germany,1997,0,OWID
+East Germany,1998,0,OWID
+East Germany,1999,0,OWID
+East Germany,2000,0,OWID
+East Germany,2001,0,OWID
+East Germany,2002,0,OWID
+East Germany,2003,0,OWID
+East Germany,2004,0,OWID
+East Germany,2005,0,OWID
+East Germany,2006,0,OWID
+East Germany,2007,0,OWID
+East Germany,2008,0,OWID
+East Germany,2009,0,OWID
+East Germany,2010,0,OWID
+East Germany,2011,0,OWID
+East Germany,2012,0,OWID
+East Germany,2013,0,OWID
+East Germany,2014,0,OWID
+East Germany,2015,0,OWID
+East Germany,2016,0,OWID
+East Germany,2017,0,OWID
+East Germany,2018,0,OWID
+East Germany,2019,0,OWID
+East Germany,2020,0,OWID
+East Germany,2021,0,OWID
+East Germany,2022,0,OWID
+East Germany,2023,0,OWID
+East Germany,2024,0,OWID
+East Germany,2025,0,OWID
+East Germany,2026,0,OWID
+East Timor,1989,0,OWID
+East Timor,1990,1,OWID
+East Timor,1991,297,OWID
+East Timor,1992,39,OWID
+East Timor,1993,0,OWID
+East Timor,1994,0,OWID
+East Timor,1995,21,OWID
+East Timor,1996,0,OWID
+East Timor,1997,86,OWID
+East Timor,1998,62,OWID
+East Timor,1999,815,OWID
+East Timor,2000,0,OWID
+East Timor,2001,0,OWID
+East Timor,2002,0,OWID
+East Timor,2003,0,OWID
+East Timor,2004,0,OWID
+East Timor,2005,0,OWID
+East Timor,2006,0,OWID
+East Timor,2007,0,OWID
+East Timor,2008,0,OWID
+East Timor,2009,0,OWID
+East Timor,2010,0,OWID
+East Timor,2011,0,OWID
+East Timor,2012,0,OWID
+East Timor,2013,0,OWID
+East Timor,2014,0,OWID
+East Timor,2015,0,OWID
+East Timor,2016,0,OWID
+East Timor,2017,0,OWID
+East Timor,2018,0,OWID
+East Timor,2019,0,OWID
+East Timor,2020,0,OWID
+East Timor,2021,0,OWID
+East Timor,2022,0,OWID
+East Timor,2023,0,OWID
+East Timor,2024,0,OWID
+East Timor,2025,0,OWID
+East Timor,2026,0,OWID
+Ecuador,1989,0,OWID
+Ecuador,1990,0,OWID
+Ecuador,1991,0,OWID
+Ecuador,1992,0,OWID
+Ecuador,1993,0,OWID
+Ecuador,1994,0,OWID
+Ecuador,1995,11,OWID
+Ecuador,1996,0,OWID
+Ecuador,1997,0,OWID
+Ecuador,1998,0,OWID
+Ecuador,1999,0,OWID
+Ecuador,2000,0,OWID
+Ecuador,2001,4,OWID
+Ecuador,2002,0,OWID
+Ecuador,2003,27,OWID
+Ecuador,2004,15,OWID
+Ecuador,2005,6,OWID
+Ecuador,2006,2,OWID
+Ecuador,2007,2,OWID
+Ecuador,2008,53,OWID
+Ecuador,2009,0,OWID
+Ecuador,2010,9,OWID
+Ecuador,2011,0,OWID
+Ecuador,2012,0,OWID
+Ecuador,2013,0,OWID
+Ecuador,2014,0,OWID
+Ecuador,2015,0,OWID
+Ecuador,2016,0,OWID
+Ecuador,2017,0,OWID
+Ecuador,2018,0,OWID
+Ecuador,2019,2,OWID
+Ecuador,2020,0,OWID
+Ecuador,2021,291,OWID
+Ecuador,2022,118,OWID
+Ecuador,2023,536,OWID
+Ecuador,2024,261,OWID
+Ecuador,2025,353,OWID
+Ecuador,2026,49,OWID
+Egypt,1989,0,OWID
+Egypt,1990,0,OWID
+Egypt,1991,0,OWID
+Egypt,1992,0,OWID
+Egypt,1993,103,OWID
+Egypt,1994,145,OWID
+Egypt,1995,227,OWID
+Egypt,1996,149,OWID
+Egypt,1997,143,OWID
+Egypt,1998,27,OWID
+Egypt,1999,0,OWID
+Egypt,2000,0,OWID
+Egypt,2001,0,OWID
+Egypt,2002,0,OWID
+Egypt,2003,0,OWID
+Egypt,2004,34,OWID
+Egypt,2005,124,OWID
+Egypt,2006,0,OWID
+Egypt,2007,0,OWID
+Egypt,2008,0,OWID
+Egypt,2009,0,OWID
+Egypt,2010,0,OWID
+Egypt,2011,31,OWID
+Egypt,2012,74,OWID
+Egypt,2013,229,OWID
+Egypt,2014,212,OWID
+Egypt,2015,991,OWID
+Egypt,2016,391,OWID
+Egypt,2017,902,OWID
+Egypt,2018,688,OWID
+Egypt,2019,664,OWID
+Egypt,2020,546,OWID
+Egypt,2021,124,OWID
+Egypt,2022,236,OWID
+Egypt,2023,0,OWID
+Egypt,2024,0,OWID
+Egypt,2025,0,OWID
+Egypt,2026,0,OWID
+El Salvador,1989,4924,OWID
+El Salvador,1990,849,OWID
+El Salvador,1991,88,OWID
+El Salvador,1992,0,OWID
+El Salvador,1993,0,OWID
+El Salvador,1994,0,OWID
+El Salvador,1995,0,OWID
+El Salvador,1996,0,OWID
+El Salvador,1997,0,OWID
+El Salvador,1998,0,OWID
+El Salvador,1999,0,OWID
+El Salvador,2000,0,OWID
+El Salvador,2001,0,OWID
+El Salvador,2002,0,OWID
+El Salvador,2003,0,OWID
+El Salvador,2004,34,OWID
+El Salvador,2005,0,OWID
+El Salvador,2006,0,OWID
+El Salvador,2007,0,OWID
+El Salvador,2008,0,OWID
+El Salvador,2009,0,OWID
+El Salvador,2010,4,OWID
+El Salvador,2011,0,OWID
+El Salvador,2012,0,OWID
+El Salvador,2013,0,OWID
+El Salvador,2014,10,OWID
+El Salvador,2015,0,OWID
+El Salvador,2016,11,OWID
+El Salvador,2017,0,OWID
+El Salvador,2018,0,OWID
+El Salvador,2019,0,OWID
+El Salvador,2020,0,OWID
+El Salvador,2021,0,OWID
+El Salvador,2022,88,OWID
+El Salvador,2023,0,OWID
+El Salvador,2024,0,OWID
+El Salvador,2025,0,OWID
+El Salvador,2026,0,OWID
+Equatorial Guinea,1989,0,OWID
+Equatorial Guinea,1990,0,OWID
+Equatorial Guinea,1991,0,OWID
+Equatorial Guinea,1992,0,OWID
+Equatorial Guinea,1993,0,OWID
+Equatorial Guinea,1994,0,OWID
+Equatorial Guinea,1995,0,OWID
+Equatorial Guinea,1996,0,OWID
+Equatorial Guinea,1997,0,OWID
+Equatorial Guinea,1998,0,OWID
+Equatorial Guinea,1999,0,OWID
+Equatorial Guinea,2000,0,OWID
+Equatorial Guinea,2001,0,OWID
+Equatorial Guinea,2002,0,OWID
+Equatorial Guinea,2003,0,OWID
+Equatorial Guinea,2004,0,OWID
+Equatorial Guinea,2005,0,OWID
+Equatorial Guinea,2006,0,OWID
+Equatorial Guinea,2007,0,OWID
+Equatorial Guinea,2008,0,OWID
+Equatorial Guinea,2009,0,OWID
+Equatorial Guinea,2010,0,OWID
+Equatorial Guinea,2011,0,OWID
+Equatorial Guinea,2012,0,OWID
+Equatorial Guinea,2013,0,OWID
+Equatorial Guinea,2014,0,OWID
+Equatorial Guinea,2015,0,OWID
+Equatorial Guinea,2016,0,OWID
+Equatorial Guinea,2017,0,OWID
+Equatorial Guinea,2018,0,OWID
+Equatorial Guinea,2019,0,OWID
+Equatorial Guinea,2020,0,OWID
+Equatorial Guinea,2021,0,OWID
+Equatorial Guinea,2022,0,OWID
+Equatorial Guinea,2023,0,OWID
+Equatorial Guinea,2024,0,OWID
+Equatorial Guinea,2025,0,OWID
+Equatorial Guinea,2026,0,OWID
+Eritrea,1989,6602,OWID
+Eritrea,1990,30702,OWID
+Eritrea,1991,6042,OWID
+Eritrea,1992,0,OWID
+Eritrea,1993,0,OWID
+Eritrea,1994,0,OWID
+Eritrea,1995,0,OWID
+Eritrea,1996,0,OWID
+Eritrea,1997,31,OWID
+Eritrea,1998,792,OWID
+Eritrea,1999,45191,OWID
+Eritrea,2000,49976,OWID
+Eritrea,2001,0,OWID
+Eritrea,2002,0,OWID
+Eritrea,2003,57,OWID
+Eritrea,2004,0,OWID
+Eritrea,2005,0,OWID
+Eritrea,2006,0,OWID
+Eritrea,2007,0,OWID
+Eritrea,2008,0,OWID
+Eritrea,2009,0,OWID
+Eritrea,2010,0,OWID
+Eritrea,2011,0,OWID
+Eritrea,2012,0,OWID
+Eritrea,2013,0,OWID
+Eritrea,2014,0,OWID
+Eritrea,2015,0,OWID
+Eritrea,2016,0,OWID
+Eritrea,2017,0,OWID
+Eritrea,2018,0,OWID
+Eritrea,2019,0,OWID
+Eritrea,2020,0,OWID
+Eritrea,2021,30,OWID
+Eritrea,2022,5,OWID
+Eritrea,2023,0,OWID
+Eritrea,2024,0,OWID
+Eritrea,2025,0,OWID
+Eritrea,2026,0,OWID
+Estonia,1989,0,OWID
+Estonia,1990,0,OWID
+Estonia,1991,0,OWID
+Estonia,1992,0,OWID
+Estonia,1993,0,OWID
+Estonia,1994,0,OWID
+Estonia,1995,0,OWID
+Estonia,1996,0,OWID
+Estonia,1997,0,OWID
+Estonia,1998,0,OWID
+Estonia,1999,0,OWID
+Estonia,2000,0,OWID
+Estonia,2001,0,OWID
+Estonia,2002,0,OWID
+Estonia,2003,0,OWID
+Estonia,2004,0,OWID
+Estonia,2005,0,OWID
+Estonia,2006,0,OWID
+Estonia,2007,0,OWID
+Estonia,2008,0,OWID
+Estonia,2009,0,OWID
+Estonia,2010,0,OWID
+Estonia,2011,0,OWID
+Estonia,2012,0,OWID
+Estonia,2013,0,OWID
+Estonia,2014,0,OWID
+Estonia,2015,0,OWID
+Estonia,2016,0,OWID
+Estonia,2017,0,OWID
+Estonia,2018,0,OWID
+Estonia,2019,0,OWID
+Estonia,2020,0,OWID
+Estonia,2021,0,OWID
+Estonia,2022,0,OWID
+Estonia,2023,0,OWID
+Estonia,2024,0,OWID
+Estonia,2025,0,OWID
+Estonia,2026,0,OWID
+Eswatini,1989,2,OWID
+Eswatini,1990,0,OWID
+Eswatini,1991,0,OWID
+Eswatini,1992,0,OWID
+Eswatini,1993,0,OWID
+Eswatini,1994,0,OWID
+Eswatini,1995,0,OWID
+Eswatini,1996,0,OWID
+Eswatini,1997,0,OWID
+Eswatini,1998,0,OWID
+Eswatini,1999,0,OWID
+Eswatini,2000,0,OWID
+Eswatini,2001,0,OWID
+Eswatini,2002,0,OWID
+Eswatini,2003,0,OWID
+Eswatini,2004,0,OWID
+Eswatini,2005,0,OWID
+Eswatini,2006,0,OWID
+Eswatini,2007,0,OWID
+Eswatini,2008,0,OWID
+Eswatini,2009,0,OWID
+Eswatini,2010,0,OWID
+Eswatini,2011,0,OWID
+Eswatini,2012,0,OWID
+Eswatini,2013,0,OWID
+Eswatini,2014,0,OWID
+Eswatini,2015,0,OWID
+Eswatini,2016,0,OWID
+Eswatini,2017,0,OWID
+Eswatini,2018,0,OWID
+Eswatini,2019,0,OWID
+Eswatini,2020,0,OWID
+Eswatini,2021,48,OWID
+Eswatini,2022,0,OWID
+Eswatini,2023,0,OWID
+Eswatini,2024,0,OWID
+Eswatini,2025,0,OWID
+Eswatini,2026,0,OWID
+Ethiopia,1989,18767,OWID
+Ethiopia,1990,19154,OWID
+Ethiopia,1991,6388,OWID
+Ethiopia,1992,1014,OWID
+Ethiopia,1993,124,OWID
+Ethiopia,1994,75,OWID
+Ethiopia,1995,1029,OWID
+Ethiopia,1996,52,OWID
+Ethiopia,1997,0,OWID
+Ethiopia,1998,1024,OWID
+Ethiopia,1999,2798,OWID
+Ethiopia,2000,472,OWID
+Ethiopia,2001,370,OWID
+Ethiopia,2002,801,OWID
+Ethiopia,2003,1064,OWID
+Ethiopia,2004,465,OWID
+Ethiopia,2005,247,OWID
+Ethiopia,2006,399,OWID
+Ethiopia,2007,471,OWID
+Ethiopia,2008,275,OWID
+Ethiopia,2009,567,OWID
+Ethiopia,2010,151,OWID
+Ethiopia,2011,51,OWID
+Ethiopia,2012,361,OWID
+Ethiopia,2013,77,OWID
+Ethiopia,2014,125,OWID
+Ethiopia,2015,307,OWID
+Ethiopia,2016,554,OWID
+Ethiopia,2017,449,OWID
+Ethiopia,2018,657,OWID
+Ethiopia,2019,414,OWID
+Ethiopia,2020,24419,OWID
+Ethiopia,2021,129481,OWID
+Ethiopia,2022,164991,OWID
+Ethiopia,2023,2355,OWID
+Ethiopia,2024,4140,OWID
+Ethiopia,2025,5419,OWID
+Ethiopia,2026,2054,OWID
+Europe,1989,625,OWID
+Europe,1990,434,OWID
+Europe,1991,3792,OWID
+Europe,1992,31456,OWID
+Europe,1993,17404,OWID
+Europe,1994,9284,OWID
+Europe,1995,20202,OWID
+Europe,1996,2763,OWID
+Europe,1997,55,OWID
+Europe,1998,1547,OWID
+Europe,1999,8382,OWID
+Europe,2000,4318,OWID
+Europe,2001,1051,OWID
+Europe,2002,1493,OWID
+Europe,2003,548,OWID
+Europe,2004,1518,OWID
+Europe,2005,759,OWID
+Europe,2006,259,OWID
+Europe,2007,176,OWID
+Europe,2008,1055,OWID
+Europe,2009,697,OWID
+Europe,2010,476,OWID
+Europe,2011,396,OWID
+Europe,2012,541,OWID
+Europe,2013,361,OWID
+Europe,2014,5163,OWID
+Europe,2015,2185,OWID
+Europe,2016,1041,OWID
+Europe,2017,559,OWID
+Europe,2018,296,OWID
+Europe,2019,340,OWID
+Europe,2020,7770,OWID
+Europe,2021,248,OWID
+Europe,2022,100970,OWID
+Europe,2023,77179,OWID
+Europe,2024,102367,OWID
+Europe,2025,94765,OWID
+Europe,2026,47261,OWID
+Fiji,1989,0,OWID
+Fiji,1990,0,OWID
+Fiji,1991,0,OWID
+Fiji,1992,0,OWID
+Fiji,1993,0,OWID
+Fiji,1994,0,OWID
+Fiji,1995,0,OWID
+Fiji,1996,0,OWID
+Fiji,1997,0,OWID
+Fiji,1998,0,OWID
+Fiji,1999,0,OWID
+Fiji,2000,0,OWID
+Fiji,2001,0,OWID
+Fiji,2002,0,OWID
+Fiji,2003,0,OWID
+Fiji,2004,0,OWID
+Fiji,2005,0,OWID
+Fiji,2006,0,OWID
+Fiji,2007,0,OWID
+Fiji,2008,0,OWID
+Fiji,2009,0,OWID
+Fiji,2010,0,OWID
+Fiji,2011,0,OWID
+Fiji,2012,0,OWID
+Fiji,2013,0,OWID
+Fiji,2014,0,OWID
+Fiji,2015,0,OWID
+Fiji,2016,0,OWID
+Fiji,2017,0,OWID
+Fiji,2018,0,OWID
+Fiji,2019,0,OWID
+Fiji,2020,0,OWID
+Fiji,2021,0,OWID
+Fiji,2022,0,OWID
+Fiji,2023,0,OWID
+Fiji,2024,0,OWID
+Fiji,2025,0,OWID
+Fiji,2026,0,OWID
+Finland,1989,0,OWID
+Finland,1990,0,OWID
+Finland,1991,0,OWID
+Finland,1992,0,OWID
+Finland,1993,0,OWID
+Finland,1994,0,OWID
+Finland,1995,0,OWID
+Finland,1996,0,OWID
+Finland,1997,0,OWID
+Finland,1998,0,OWID
+Finland,1999,0,OWID
+Finland,2000,0,OWID
+Finland,2001,0,OWID
+Finland,2002,0,OWID
+Finland,2003,0,OWID
+Finland,2004,0,OWID
+Finland,2005,0,OWID
+Finland,2006,0,OWID
+Finland,2007,0,OWID
+Finland,2008,0,OWID
+Finland,2009,0,OWID
+Finland,2010,0,OWID
+Finland,2011,0,OWID
+Finland,2012,0,OWID
+Finland,2013,0,OWID
+Finland,2014,0,OWID
+Finland,2015,0,OWID
+Finland,2016,0,OWID
+Finland,2017,0,OWID
+Finland,2018,0,OWID
+Finland,2019,0,OWID
+Finland,2020,0,OWID
+Finland,2021,0,OWID
+Finland,2022,0,OWID
+Finland,2023,0,OWID
+Finland,2024,0,OWID
+Finland,2025,0,OWID
+Finland,2026,0,OWID
+France,1989,0,OWID
+France,1990,0,OWID
+France,1991,0,OWID
+France,1992,0,OWID
+France,1993,0,OWID
+France,1994,0,OWID
+France,1995,0,OWID
+France,1996,0,OWID
+France,1997,0,OWID
+France,1998,0,OWID
+France,1999,0,OWID
+France,2000,0,OWID
+France,2001,0,OWID
+France,2002,0,OWID
+France,2003,0,OWID
+France,2004,0,OWID
+France,2005,0,OWID
+France,2006,0,OWID
+France,2007,0,OWID
+France,2008,0,OWID
+France,2009,0,OWID
+France,2010,0,OWID
+France,2011,0,OWID
+France,2012,0,OWID
+France,2013,0,OWID
+France,2014,0,OWID
+France,2015,133,OWID
+France,2016,87,OWID
+France,2017,2,OWID
+France,2018,13,OWID
+France,2019,0,OWID
+France,2020,0,OWID
+France,2021,0,OWID
+France,2022,0,OWID
+France,2023,48,OWID
+France,2024,0,OWID
+France,2025,0,OWID
+France,2026,0,OWID
+Gabon,1989,0,OWID
+Gabon,1990,0,OWID
+Gabon,1991,0,OWID
+Gabon,1992,0,OWID
+Gabon,1993,0,OWID
+Gabon,1994,0,OWID
+Gabon,1995,0,OWID
+Gabon,1996,0,OWID
+Gabon,1997,0,OWID
+Gabon,1998,0,OWID
+Gabon,1999,0,OWID
+Gabon,2000,0,OWID
+Gabon,2001,0,OWID
+Gabon,2002,0,OWID
+Gabon,2003,0,OWID
+Gabon,2004,0,OWID
+Gabon,2005,0,OWID
+Gabon,2006,0,OWID
+Gabon,2007,0,OWID
+Gabon,2008,0,OWID
+Gabon,2009,0,OWID
+Gabon,2010,0,OWID
+Gabon,2011,0,OWID
+Gabon,2012,0,OWID
+Gabon,2013,0,OWID
+Gabon,2014,0,OWID
+Gabon,2015,0,OWID
+Gabon,2016,0,OWID
+Gabon,2017,0,OWID
+Gabon,2018,0,OWID
+Gabon,2019,0,OWID
+Gabon,2020,0,OWID
+Gabon,2021,0,OWID
+Gabon,2022,0,OWID
+Gabon,2023,0,OWID
+Gabon,2024,0,OWID
+Gabon,2025,0,OWID
+Gabon,2026,0,OWID
+Gambia,1989,0,OWID
+Gambia,1990,0,OWID
+Gambia,1991,0,OWID
+Gambia,1992,0,OWID
+Gambia,1993,0,OWID
+Gambia,1994,0,OWID
+Gambia,1995,0,OWID
+Gambia,1996,0,OWID
+Gambia,1997,0,OWID
+Gambia,1998,0,OWID
+Gambia,1999,0,OWID
+Gambia,2000,0,OWID
+Gambia,2001,0,OWID
+Gambia,2002,0,OWID
+Gambia,2003,0,OWID
+Gambia,2004,0,OWID
+Gambia,2005,8,OWID
+Gambia,2006,0,OWID
+Gambia,2007,0,OWID
+Gambia,2008,0,OWID
+Gambia,2009,0,OWID
+Gambia,2010,0,OWID
+Gambia,2011,0,OWID
+Gambia,2012,0,OWID
+Gambia,2013,0,OWID
+Gambia,2014,0,OWID
+Gambia,2015,0,OWID
+Gambia,2016,0,OWID
+Gambia,2017,0,OWID
+Gambia,2018,0,OWID
+Gambia,2019,0,OWID
+Gambia,2020,0,OWID
+Gambia,2021,0,OWID
+Gambia,2022,0,OWID
+Gambia,2023,0,OWID
+Gambia,2024,0,OWID
+Gambia,2025,0,OWID
+Gambia,2026,0,OWID
+Georgia,1989,0,OWID
+Georgia,1990,0,OWID
+Georgia,1991,139,OWID
+Georgia,1992,771,OWID
+Georgia,1993,1837,OWID
+Georgia,1994,0,OWID
+Georgia,1995,52,OWID
+Georgia,1996,0,OWID
+Georgia,1997,26,OWID
+Georgia,1998,38,OWID
+Georgia,1999,0,OWID
+Georgia,2000,0,OWID
+Georgia,2001,0,OWID
+Georgia,2002,0,OWID
+Georgia,2003,0,OWID
+Georgia,2004,27,OWID
+Georgia,2005,0,OWID
+Georgia,2006,0,OWID
+Georgia,2007,0,OWID
+Georgia,2008,621,OWID
+Georgia,2009,0,OWID
+Georgia,2010,0,OWID
+Georgia,2011,0,OWID
+Georgia,2012,0,OWID
+Georgia,2013,0,OWID
+Georgia,2014,0,OWID
+Georgia,2015,0,OWID
+Georgia,2016,0,OWID
+Georgia,2017,0,OWID
+Georgia,2018,0,OWID
+Georgia,2019,0,OWID
+Georgia,2020,0,OWID
+Georgia,2021,0,OWID
+Georgia,2022,0,OWID
+Georgia,2023,1,OWID
+Georgia,2024,0,OWID
+Georgia,2025,0,OWID
+Georgia,2026,0,OWID
+Germany,1989,3,OWID
+Germany,1990,1,OWID
+Germany,1991,0,OWID
+Germany,1992,0,OWID
+Germany,1993,0,OWID
+Germany,1994,0,OWID
+Germany,1995,0,OWID
+Germany,1996,0,OWID
+Germany,1997,0,OWID
+Germany,1998,0,OWID
+Germany,1999,0,OWID
+Germany,2000,0,OWID
+Germany,2001,0,OWID
+Germany,2002,0,OWID
+Germany,2003,0,OWID
+Germany,2004,0,OWID
+Germany,2005,0,OWID
+Germany,2006,0,OWID
+Germany,2007,0,OWID
+Germany,2008,0,OWID
+Germany,2009,0,OWID
+Germany,2010,0,OWID
+Germany,2011,0,OWID
+Germany,2012,0,OWID
+Germany,2013,0,OWID
+Germany,2014,0,OWID
+Germany,2015,0,OWID
+Germany,2016,12,OWID
+Germany,2017,0,OWID
+Germany,2018,0,OWID
+Germany,2019,0,OWID
+Germany,2020,0,OWID
+Germany,2021,0,OWID
+Germany,2022,0,OWID
+Germany,2023,0,OWID
+Germany,2024,3,OWID
+Germany,2025,0,OWID
+Germany,2026,0,OWID
+Ghana,1989,0,OWID
+Ghana,1990,0,OWID
+Ghana,1991,30,OWID
+Ghana,1992,63,OWID
+Ghana,1993,0,OWID
+Ghana,1994,2004,OWID
+Ghana,1995,155,OWID
+Ghana,1996,0,OWID
+Ghana,1997,0,OWID
+Ghana,1998,0,OWID
+Ghana,1999,0,OWID
+Ghana,2000,30,OWID
+Ghana,2001,50,OWID
+Ghana,2002,36,OWID
+Ghana,2003,0,OWID
+Ghana,2004,0,OWID
+Ghana,2005,0,OWID
+Ghana,2006,0,OWID
+Ghana,2007,0,OWID
+Ghana,2008,55,OWID
+Ghana,2009,0,OWID
+Ghana,2010,0,OWID
+Ghana,2011,0,OWID
+Ghana,2012,0,OWID
+Ghana,2013,0,OWID
+Ghana,2014,0,OWID
+Ghana,2015,0,OWID
+Ghana,2016,0,OWID
+Ghana,2017,0,OWID
+Ghana,2018,0,OWID
+Ghana,2019,0,OWID
+Ghana,2020,0,OWID
+Ghana,2021,0,OWID
+Ghana,2022,0,OWID
+Ghana,2023,1,OWID
+Ghana,2024,30,OWID
+Ghana,2025,98,OWID
+Ghana,2026,20,OWID
+Greece,1989,0,OWID
+Greece,1990,0,OWID
+Greece,1991,0,OWID
+Greece,1992,0,OWID
+Greece,1993,0,OWID
+Greece,1994,0,OWID
+Greece,1995,0,OWID
+Greece,1996,0,OWID
+Greece,1997,0,OWID
+Greece,1998,0,OWID
+Greece,1999,0,OWID
+Greece,2000,0,OWID
+Greece,2001,0,OWID
+Greece,2002,0,OWID
+Greece,2003,0,OWID
+Greece,2004,0,OWID
+Greece,2005,0,OWID
+Greece,2006,0,OWID
+Greece,2007,0,OWID
+Greece,2008,0,OWID
+Greece,2009,0,OWID
+Greece,2010,0,OWID
+Greece,2011,0,OWID
+Greece,2012,0,OWID
+Greece,2013,0,OWID
+Greece,2014,0,OWID
+Greece,2015,0,OWID
+Greece,2016,0,OWID
+Greece,2017,0,OWID
+Greece,2018,0,OWID
+Greece,2019,0,OWID
+Greece,2020,0,OWID
+Greece,2021,0,OWID
+Greece,2022,0,OWID
+Greece,2023,0,OWID
+Greece,2024,0,OWID
+Greece,2025,0,OWID
+Greece,2026,0,OWID
+Greenland,1989,0,OWID
+Greenland,1990,0,OWID
+Greenland,1991,0,OWID
+Greenland,1992,0,OWID
+Greenland,1993,0,OWID
+Greenland,1994,0,OWID
+Greenland,1995,0,OWID
+Greenland,1996,0,OWID
+Greenland,1997,0,OWID
+Greenland,1998,0,OWID
+Greenland,1999,0,OWID
+Greenland,2000,0,OWID
+Greenland,2001,0,OWID
+Greenland,2002,0,OWID
+Greenland,2003,0,OWID
+Greenland,2004,0,OWID
+Greenland,2005,0,OWID
+Greenland,2006,0,OWID
+Greenland,2007,0,OWID
+Greenland,2008,0,OWID
+Greenland,2009,0,OWID
+Greenland,2010,0,OWID
+Greenland,2011,0,OWID
+Greenland,2012,0,OWID
+Greenland,2013,0,OWID
+Greenland,2014,0,OWID
+Greenland,2015,0,OWID
+Greenland,2016,0,OWID
+Greenland,2017,0,OWID
+Greenland,2018,0,OWID
+Greenland,2019,0,OWID
+Greenland,2020,0,OWID
+Greenland,2021,0,OWID
+Greenland,2022,0,OWID
+Greenland,2023,0,OWID
+Greenland,2024,0,OWID
+Greenland,2025,0,OWID
+Greenland,2026,0,OWID
+Grenada,1989,0,OWID
+Grenada,1990,0,OWID
+Grenada,1991,0,OWID
+Grenada,1992,0,OWID
+Grenada,1993,0,OWID
+Grenada,1994,0,OWID
+Grenada,1995,0,OWID
+Grenada,1996,0,OWID
+Grenada,1997,0,OWID
+Grenada,1998,0,OWID
+Grenada,1999,0,OWID
+Grenada,2000,0,OWID
+Grenada,2001,0,OWID
+Grenada,2002,0,OWID
+Grenada,2003,0,OWID
+Grenada,2004,0,OWID
+Grenada,2005,0,OWID
+Grenada,2006,0,OWID
+Grenada,2007,0,OWID
+Grenada,2008,0,OWID
+Grenada,2009,0,OWID
+Grenada,2010,0,OWID
+Grenada,2011,0,OWID
+Grenada,2012,0,OWID
+Grenada,2013,0,OWID
+Grenada,2014,0,OWID
+Grenada,2015,0,OWID
+Grenada,2016,0,OWID
+Grenada,2017,0,OWID
+Grenada,2018,0,OWID
+Grenada,2019,0,OWID
+Grenada,2020,0,OWID
+Grenada,2021,0,OWID
+Grenada,2022,0,OWID
+Grenada,2023,0,OWID
+Grenada,2024,0,OWID
+Grenada,2025,0,OWID
+Grenada,2026,0,OWID
+Guatemala,1989,489,OWID
+Guatemala,1990,681,OWID
+Guatemala,1991,426,OWID
+Guatemala,1992,393,OWID
+Guatemala,1993,218,OWID
+Guatemala,1994,287,OWID
+Guatemala,1995,122,OWID
+Guatemala,1996,0,OWID
+Guatemala,1997,0,OWID
+Guatemala,1998,0,OWID
+Guatemala,1999,0,OWID
+Guatemala,2000,0,OWID
+Guatemala,2001,0,OWID
+Guatemala,2002,0,OWID
+Guatemala,2003,20,OWID
+Guatemala,2004,0,OWID
+Guatemala,2005,56,OWID
+Guatemala,2006,0,OWID
+Guatemala,2007,0,OWID
+Guatemala,2008,28,OWID
+Guatemala,2009,0,OWID
+Guatemala,2010,0,OWID
+Guatemala,2011,27,OWID
+Guatemala,2012,0,OWID
+Guatemala,2013,0,OWID
+Guatemala,2014,0,OWID
+Guatemala,2015,24,OWID
+Guatemala,2016,5,OWID
+Guatemala,2017,0,OWID
+Guatemala,2018,0,OWID
+Guatemala,2019,0,OWID
+Guatemala,2020,0,OWID
+Guatemala,2021,0,OWID
+Guatemala,2022,5,OWID
+Guatemala,2023,18,OWID
+Guatemala,2024,28,OWID
+Guatemala,2025,7,OWID
+Guatemala,2026,0,OWID
+Guinea,1989,0,OWID
+Guinea,1990,0,OWID
+Guinea,1991,0,OWID
+Guinea,1992,0,OWID
+Guinea,1993,0,OWID
+Guinea,1994,0,OWID
+Guinea,1995,0,OWID
+Guinea,1996,27,OWID
+Guinea,1997,0,OWID
+Guinea,1998,12,OWID
+Guinea,1999,2,OWID
+Guinea,2000,256,OWID
+Guinea,2001,430,OWID
+Guinea,2002,0,OWID
+Guinea,2003,0,OWID
+Guinea,2004,0,OWID
+Guinea,2005,0,OWID
+Guinea,2006,0,OWID
+Guinea,2007,45,OWID
+Guinea,2008,0,OWID
+Guinea,2009,160,OWID
+Guinea,2010,0,OWID
+Guinea,2011,25,OWID
+Guinea,2012,0,OWID
+Guinea,2013,98,OWID
+Guinea,2014,0,OWID
+Guinea,2015,0,OWID
+Guinea,2016,0,OWID
+Guinea,2017,0,OWID
+Guinea,2018,0,OWID
+Guinea,2019,0,OWID
+Guinea,2020,30,OWID
+Guinea,2021,0,OWID
+Guinea,2022,0,OWID
+Guinea,2023,0,OWID
+Guinea,2024,0,OWID
+Guinea,2025,0,OWID
+Guinea,2026,0,OWID
+Guinea-Bissau,1989,0,OWID
+Guinea-Bissau,1990,0,OWID
+Guinea-Bissau,1991,0,OWID
+Guinea-Bissau,1992,2,OWID
+Guinea-Bissau,1993,0,OWID
+Guinea-Bissau,1994,0,OWID
+Guinea-Bissau,1995,0,OWID
+Guinea-Bissau,1996,0,OWID
+Guinea-Bissau,1997,0,OWID
+Guinea-Bissau,1998,505,OWID
+Guinea-Bissau,1999,199,OWID
+Guinea-Bissau,2000,0,OWID
+Guinea-Bissau,2001,0,OWID
+Guinea-Bissau,2002,0,OWID
+Guinea-Bissau,2003,0,OWID
+Guinea-Bissau,2004,0,OWID
+Guinea-Bissau,2005,0,OWID
+Guinea-Bissau,2006,0,OWID
+Guinea-Bissau,2007,0,OWID
+Guinea-Bissau,2008,0,OWID
+Guinea-Bissau,2009,0,OWID
+Guinea-Bissau,2010,0,OWID
+Guinea-Bissau,2011,0,OWID
+Guinea-Bissau,2012,0,OWID
+Guinea-Bissau,2013,0,OWID
+Guinea-Bissau,2014,0,OWID
+Guinea-Bissau,2015,0,OWID
+Guinea-Bissau,2016,0,OWID
+Guinea-Bissau,2017,0,OWID
+Guinea-Bissau,2018,0,OWID
+Guinea-Bissau,2019,0,OWID
+Guinea-Bissau,2020,0,OWID
+Guinea-Bissau,2021,0,OWID
+Guinea-Bissau,2022,0,OWID
+Guinea-Bissau,2023,0,OWID
+Guinea-Bissau,2024,0,OWID
+Guinea-Bissau,2025,0,OWID
+Guinea-Bissau,2026,0,OWID
+Guyana,1989,0,OWID
+Guyana,1990,0,OWID
+Guyana,1991,0,OWID
+Guyana,1992,0,OWID
+Guyana,1993,0,OWID
+Guyana,1994,0,OWID
+Guyana,1995,0,OWID
+Guyana,1996,0,OWID
+Guyana,1997,0,OWID
+Guyana,1998,0,OWID
+Guyana,1999,0,OWID
+Guyana,2000,0,OWID
+Guyana,2001,0,OWID
+Guyana,2002,0,OWID
+Guyana,2003,0,OWID
+Guyana,2004,0,OWID
+Guyana,2005,0,OWID
+Guyana,2006,0,OWID
+Guyana,2007,0,OWID
+Guyana,2008,29,OWID
+Guyana,2009,0,OWID
+Guyana,2010,0,OWID
+Guyana,2011,0,OWID
+Guyana,2012,0,OWID
+Guyana,2013,0,OWID
+Guyana,2014,0,OWID
+Guyana,2015,0,OWID
+Guyana,2016,0,OWID
+Guyana,2017,0,OWID
+Guyana,2018,0,OWID
+Guyana,2019,0,OWID
+Guyana,2020,0,OWID
+Guyana,2021,0,OWID
+Guyana,2022,0,OWID
+Guyana,2023,0,OWID
+Guyana,2024,0,OWID
+Guyana,2025,0,OWID
+Guyana,2026,0,OWID
+Haiti,1989,48,OWID
+Haiti,1990,0,OWID
+Haiti,1991,270,OWID
+Haiti,1992,0,OWID
+Haiti,1993,37,OWID
+Haiti,1994,44,OWID
+Haiti,1995,0,OWID
+Haiti,1996,0,OWID
+Haiti,1997,0,OWID
+Haiti,1998,0,OWID
+Haiti,1999,0,OWID
+Haiti,2000,0,OWID
+Haiti,2001,0,OWID
+Haiti,2002,0,OWID
+Haiti,2003,0,OWID
+Haiti,2004,207,OWID
+Haiti,2005,40,OWID
+Haiti,2006,0,OWID
+Haiti,2007,0,OWID
+Haiti,2008,0,OWID
+Haiti,2009,0,OWID
+Haiti,2010,0,OWID
+Haiti,2011,0,OWID
+Haiti,2012,0,OWID
+Haiti,2013,0,OWID
+Haiti,2014,0,OWID
+Haiti,2015,0,OWID
+Haiti,2016,0,OWID
+Haiti,2017,0,OWID
+Haiti,2018,71,OWID
+Haiti,2019,0,OWID
+Haiti,2020,165,OWID
+Haiti,2021,121,OWID
+Haiti,2022,235,OWID
+Haiti,2023,416,OWID
+Haiti,2024,1286,OWID
+Haiti,2025,2428,OWID
+Haiti,2026,164,OWID
+Honduras,1989,0,OWID
+Honduras,1990,0,OWID
+Honduras,1991,0,OWID
+Honduras,1992,0,OWID
+Honduras,1993,0,OWID
+Honduras,1994,0,OWID
+Honduras,1995,0,OWID
+Honduras,1996,0,OWID
+Honduras,1997,0,OWID
+Honduras,1998,0,OWID
+Honduras,1999,0,OWID
+Honduras,2000,0,OWID
+Honduras,2001,0,OWID
+Honduras,2002,0,OWID
+Honduras,2003,23,OWID
+Honduras,2004,28,OWID
+Honduras,2005,0,OWID
+Honduras,2006,0,OWID
+Honduras,2007,0,OWID
+Honduras,2008,0,OWID
+Honduras,2009,0,OWID
+Honduras,2010,44,OWID
+Honduras,2011,0,OWID
+Honduras,2012,0,OWID
+Honduras,2013,0,OWID
+Honduras,2014,21,OWID
+Honduras,2015,68,OWID
+Honduras,2016,10,OWID
+Honduras,2017,0,OWID
+Honduras,2018,0,OWID
+Honduras,2019,36,OWID
+Honduras,2020,0,OWID
+Honduras,2021,0,OWID
+Honduras,2022,6,OWID
+Honduras,2023,123,OWID
+Honduras,2024,17,OWID
+Honduras,2025,0,OWID
+Honduras,2026,0,OWID
+Hungary,1989,0,OWID
+Hungary,1990,0,OWID
+Hungary,1991,0,OWID
+Hungary,1992,0,OWID
+Hungary,1993,0,OWID
+Hungary,1994,0,OWID
+Hungary,1995,0,OWID
+Hungary,1996,0,OWID
+Hungary,1997,0,OWID
+Hungary,1998,0,OWID
+Hungary,1999,0,OWID
+Hungary,2000,0,OWID
+Hungary,2001,0,OWID
+Hungary,2002,0,OWID
+Hungary,2003,0,OWID
+Hungary,2004,0,OWID
+Hungary,2005,0,OWID
+Hungary,2006,0,OWID
+Hungary,2007,0,OWID
+Hungary,2008,0,OWID
+Hungary,2009,0,OWID
+Hungary,2010,0,OWID
+Hungary,2011,0,OWID
+Hungary,2012,0,OWID
+Hungary,2013,0,OWID
+Hungary,2014,0,OWID
+Hungary,2015,0,OWID
+Hungary,2016,0,OWID
+Hungary,2017,0,OWID
+Hungary,2018,0,OWID
+Hungary,2019,0,OWID
+Hungary,2020,0,OWID
+Hungary,2021,0,OWID
+Hungary,2022,0,OWID
+Hungary,2023,0,OWID
+Hungary,2024,0,OWID
+Hungary,2025,0,OWID
+Hungary,2026,0,OWID
+Iceland,1989,0,OWID
+Iceland,1990,0,OWID
+Iceland,1991,0,OWID
+Iceland,1992,0,OWID
+Iceland,1993,0,OWID
+Iceland,1994,0,OWID
+Iceland,1995,0,OWID
+Iceland,1996,0,OWID
+Iceland,1997,0,OWID
+Iceland,1998,0,OWID
+Iceland,1999,0,OWID
+Iceland,2000,0,OWID
+Iceland,2001,0,OWID
+Iceland,2002,0,OWID
+Iceland,2003,0,OWID
+Iceland,2004,0,OWID
+Iceland,2005,0,OWID
+Iceland,2006,0,OWID
+Iceland,2007,0,OWID
+Iceland,2008,0,OWID
+Iceland,2009,0,OWID
+Iceland,2010,0,OWID
+Iceland,2011,0,OWID
+Iceland,2012,0,OWID
+Iceland,2013,0,OWID
+Iceland,2014,0,OWID
+Iceland,2015,0,OWID
+Iceland,2016,0,OWID
+Iceland,2017,0,OWID
+Iceland,2018,0,OWID
+Iceland,2019,0,OWID
+Iceland,2020,0,OWID
+Iceland,2021,0,OWID
+Iceland,2022,0,OWID
+Iceland,2023,0,OWID
+Iceland,2024,0,OWID
+Iceland,2025,0,OWID
+Iceland,2026,0,OWID
+India,1989,1794,OWID
+India,1990,4785,OWID
+India,1991,3680,OWID
+India,1992,4105,OWID
+India,1993,2261,OWID
+India,1994,1383,OWID
+India,1995,1021,OWID
+India,1996,1245,OWID
+India,1997,1390,OWID
+India,1998,1489,OWID
+India,1999,2426,OWID
+India,2000,3967,OWID
+India,2001,1794,OWID
+India,2002,2910,OWID
+India,2003,2191,OWID
+India,2004,2421,OWID
+India,2005,1840,OWID
+India,2006,2060,OWID
+India,2007,1612,OWID
+India,2008,1766,OWID
+India,2009,1500,OWID
+India,2010,1548,OWID
+India,2011,690,OWID
+India,2012,749,OWID
+India,2013,593,OWID
+India,2014,651,OWID
+India,2015,569,OWID
+India,2016,721,OWID
+India,2017,800,OWID
+India,2018,899,OWID
+India,2019,702,OWID
+India,2020,695,OWID
+India,2021,468,OWID
+India,2022,353,OWID
+India,2023,357,OWID
+India,2024,519,OWID
+India,2025,609,OWID
+India,2026,87,OWID
+Indonesia,1989,0,OWID
+Indonesia,1990,192,OWID
+Indonesia,1991,132,OWID
+Indonesia,1992,0,OWID
+Indonesia,1993,0,OWID
+Indonesia,1994,0,OWID
+Indonesia,1995,11,OWID
+Indonesia,1996,0,OWID
+Indonesia,1997,361,OWID
+Indonesia,1998,60,OWID
+Indonesia,1999,1598,OWID
+Indonesia,2000,913,OWID
+Indonesia,2001,881,OWID
+Indonesia,2002,731,OWID
+Indonesia,2003,1054,OWID
+Indonesia,2004,1061,OWID
+Indonesia,2005,213,OWID
+Indonesia,2006,0,OWID
+Indonesia,2007,0,OWID
+Indonesia,2008,0,OWID
+Indonesia,2009,0,OWID
+Indonesia,2010,0,OWID
+Indonesia,2011,0,OWID
+Indonesia,2012,0,OWID
+Indonesia,2013,0,OWID
+Indonesia,2014,0,OWID
+Indonesia,2015,0,OWID
+Indonesia,2016,0,OWID
+Indonesia,2017,0,OWID
+Indonesia,2018,28,OWID
+Indonesia,2019,34,OWID
+Indonesia,2020,31,OWID
+Indonesia,2021,52,OWID
+Indonesia,2022,46,OWID
+Indonesia,2023,87,OWID
+Indonesia,2024,57,OWID
+Indonesia,2025,104,OWID
+Indonesia,2026,0,OWID
+Iran,1989,0,OWID
+Iran,1990,31,OWID
+Iran,1991,44,OWID
+Iran,1992,59,OWID
+Iran,1993,173,OWID
+Iran,1994,0,OWID
+Iran,1995,0,OWID
+Iran,1996,42,OWID
+Iran,1997,37,OWID
+Iran,1998,0,OWID
+Iran,1999,16,OWID
+Iran,2000,37,OWID
+Iran,2001,113,OWID
+Iran,2002,3,OWID
+Iran,2003,0,OWID
+Iran,2004,1,OWID
+Iran,2005,55,OWID
+Iran,2006,57,OWID
+Iran,2007,91,OWID
+Iran,2008,114,OWID
+Iran,2009,211,OWID
+Iran,2010,81,OWID
+Iran,2011,114,OWID
+Iran,2012,0,OWID
+Iran,2013,0,OWID
+Iran,2014,0,OWID
+Iran,2015,0,OWID
+Iran,2016,22,OWID
+Iran,2017,27,OWID
+Iran,2018,60,OWID
+Iran,2019,286,OWID
+Iran,2020,216,OWID
+Iran,2021,48,OWID
+Iran,2022,211,OWID
+Iran,2023,34,OWID
+Iran,2024,218,OWID
+Iran,2025,1243,OWID
+Iran,2026,3559,OWID
+Iraq,1989,50,OWID
+Iraq,1990,117,OWID
+Iraq,1991,24498,OWID
+Iraq,1992,847,OWID
+Iraq,1993,370,OWID
+Iraq,1994,999,OWID
+Iraq,1995,1418,OWID
+Iraq,1996,864,OWID
+Iraq,1997,1644,OWID
+Iraq,1998,93,OWID
+Iraq,1999,314,OWID
+Iraq,2000,219,OWID
+Iraq,2001,69,OWID
+Iraq,2002,138,OWID
+Iraq,2003,8007,OWID
+Iraq,2004,4381,OWID
+Iraq,2005,3525,OWID
+Iraq,2006,4606,OWID
+Iraq,2007,4513,OWID
+Iraq,2008,2778,OWID
+Iraq,2009,1731,OWID
+Iraq,2010,1857,OWID
+Iraq,2011,1470,OWID
+Iraq,2012,1407,OWID
+Iraq,2013,4014,OWID
+Iraq,2014,16437,OWID
+Iraq,2015,11300,OWID
+Iraq,2016,12046,OWID
+Iraq,2017,11437,OWID
+Iraq,2018,1467,OWID
+Iraq,2019,996,OWID
+Iraq,2020,958,OWID
+Iraq,2021,1030,OWID
+Iraq,2022,1016,OWID
+Iraq,2023,512,OWID
+Iraq,2024,435,OWID
+Iraq,2025,134,OWID
+Iraq,2026,48,OWID
+Ireland,1989,0,OWID
+Ireland,1990,0,OWID
+Ireland,1991,0,OWID
+Ireland,1992,0,OWID
+Ireland,1993,0,OWID
+Ireland,1994,0,OWID
+Ireland,1995,0,OWID
+Ireland,1996,0,OWID
+Ireland,1997,0,OWID
+Ireland,1998,0,OWID
+Ireland,1999,0,OWID
+Ireland,2000,0,OWID
+Ireland,2001,0,OWID
+Ireland,2002,0,OWID
+Ireland,2003,0,OWID
+Ireland,2004,0,OWID
+Ireland,2005,0,OWID
+Ireland,2006,0,OWID
+Ireland,2007,0,OWID
+Ireland,2008,0,OWID
+Ireland,2009,0,OWID
+Ireland,2010,0,OWID
+Ireland,2011,0,OWID
+Ireland,2012,0,OWID
+Ireland,2013,0,OWID
+Ireland,2014,0,OWID
+Ireland,2015,0,OWID
+Ireland,2016,0,OWID
+Ireland,2017,0,OWID
+Ireland,2018,0,OWID
+Ireland,2019,0,OWID
+Ireland,2020,0,OWID
+Ireland,2021,0,OWID
+Ireland,2022,0,OWID
+Ireland,2023,0,OWID
+Ireland,2024,0,OWID
+Ireland,2025,0,OWID
+Ireland,2026,0,OWID
+Israel,1989,8,OWID
+Israel,1990,2,OWID
+Israel,1991,4,OWID
+Israel,1992,2,OWID
+Israel,1993,18,OWID
+Israel,1994,50,OWID
+Israel,1995,26,OWID
+Israel,1996,51,OWID
+Israel,1997,0,OWID
+Israel,1998,0,OWID
+Israel,1999,0,OWID
+Israel,2000,3,OWID
+Israel,2001,113,OWID
+Israel,2002,290,OWID
+Israel,2003,141,OWID
+Israel,2004,55,OWID
+Israel,2005,42,OWID
+Israel,2006,75,OWID
+Israel,2007,17,OWID
+Israel,2008,18,OWID
+Israel,2009,7,OWID
+Israel,2010,2,OWID
+Israel,2011,1,OWID
+Israel,2012,0,OWID
+Israel,2013,0,OWID
+Israel,2014,51,OWID
+Israel,2015,0,OWID
+Israel,2016,0,OWID
+Israel,2017,0,OWID
+Israel,2018,2,OWID
+Israel,2019,0,OWID
+Israel,2020,0,OWID
+Israel,2021,17,OWID
+Israel,2022,0,OWID
+Israel,2023,1296,OWID
+Israel,2024,62,OWID
+Israel,2025,36,OWID
+Israel,2026,13,OWID
+Italy,1989,0,OWID
+Italy,1990,0,OWID
+Italy,1991,0,OWID
+Italy,1992,0,OWID
+Italy,1993,0,OWID
+Italy,1994,0,OWID
+Italy,1995,0,OWID
+Italy,1996,0,OWID
+Italy,1997,0,OWID
+Italy,1998,0,OWID
+Italy,1999,0,OWID
+Italy,2000,0,OWID
+Italy,2001,0,OWID
+Italy,2002,0,OWID
+Italy,2003,0,OWID
+Italy,2004,0,OWID
+Italy,2005,0,OWID
+Italy,2006,0,OWID
+Italy,2007,0,OWID
+Italy,2008,0,OWID
+Italy,2009,0,OWID
+Italy,2010,0,OWID
+Italy,2011,0,OWID
+Italy,2012,0,OWID
+Italy,2013,0,OWID
+Italy,2014,0,OWID
+Italy,2015,0,OWID
+Italy,2016,0,OWID
+Italy,2017,0,OWID
+Italy,2018,0,OWID
+Italy,2019,0,OWID
+Italy,2020,0,OWID
+Italy,2021,0,OWID
+Italy,2022,0,OWID
+Italy,2023,0,OWID
+Italy,2024,0,OWID
+Italy,2025,0,OWID
+Italy,2026,0,OWID
+Jamaica,1989,0,OWID
+Jamaica,1990,0,OWID
+Jamaica,1991,0,OWID
+Jamaica,1992,0,OWID
+Jamaica,1993,0,OWID
+Jamaica,1994,0,OWID
+Jamaica,1995,0,OWID
+Jamaica,1996,0,OWID
+Jamaica,1997,0,OWID
+Jamaica,1998,0,OWID
+Jamaica,1999,0,OWID
+Jamaica,2000,0,OWID
+Jamaica,2001,116,OWID
+Jamaica,2002,0,OWID
+Jamaica,2003,0,OWID
+Jamaica,2004,0,OWID
+Jamaica,2005,0,OWID
+Jamaica,2006,0,OWID
+Jamaica,2007,0,OWID
+Jamaica,2008,0,OWID
+Jamaica,2009,0,OWID
+Jamaica,2010,0,OWID
+Jamaica,2011,0,OWID
+Jamaica,2012,0,OWID
+Jamaica,2013,0,OWID
+Jamaica,2014,0,OWID
+Jamaica,2015,0,OWID
+Jamaica,2016,0,OWID
+Jamaica,2017,0,OWID
+Jamaica,2018,0,OWID
+Jamaica,2019,0,OWID
+Jamaica,2020,0,OWID
+Jamaica,2021,0,OWID
+Jamaica,2022,0,OWID
+Jamaica,2023,0,OWID
+Jamaica,2024,51,OWID
+Jamaica,2025,0,OWID
+Jamaica,2026,0,OWID
+Japan,1989,0,OWID
+Japan,1990,0,OWID
+Japan,1991,0,OWID
+Japan,1992,0,OWID
+Japan,1993,0,OWID
+Japan,1994,0,OWID
+Japan,1995,0,OWID
+Japan,1996,0,OWID
+Japan,1997,0,OWID
+Japan,1998,0,OWID
+Japan,1999,0,OWID
+Japan,2000,0,OWID
+Japan,2001,0,OWID
+Japan,2002,0,OWID
+Japan,2003,0,OWID
+Japan,2004,0,OWID
+Japan,2005,0,OWID
+Japan,2006,0,OWID
+Japan,2007,0,OWID
+Japan,2008,0,OWID
+Japan,2009,0,OWID
+Japan,2010,0,OWID
+Japan,2011,0,OWID
+Japan,2012,0,OWID
+Japan,2013,0,OWID
+Japan,2014,0,OWID
+Japan,2015,0,OWID
+Japan,2016,0,OWID
+Japan,2017,0,OWID
+Japan,2018,0,OWID
+Japan,2019,0,OWID
+Japan,2020,0,OWID
+Japan,2021,0,OWID
+Japan,2022,0,OWID
+Japan,2023,0,OWID
+Japan,2024,0,OWID
+Japan,2025,0,OWID
+Japan,2026,0,OWID
+Jordan,1989,0,OWID
+Jordan,1990,0,OWID
+Jordan,1991,0,OWID
+Jordan,1992,1,OWID
+Jordan,1993,0,OWID
+Jordan,1994,0,OWID
+Jordan,1995,0,OWID
+Jordan,1996,0,OWID
+Jordan,1997,0,OWID
+Jordan,1998,0,OWID
+Jordan,1999,0,OWID
+Jordan,2000,0,OWID
+Jordan,2001,0,OWID
+Jordan,2002,0,OWID
+Jordan,2003,0,OWID
+Jordan,2004,0,OWID
+Jordan,2005,59,OWID
+Jordan,2006,0,OWID
+Jordan,2007,0,OWID
+Jordan,2008,0,OWID
+Jordan,2009,0,OWID
+Jordan,2010,0,OWID
+Jordan,2011,0,OWID
+Jordan,2012,0,OWID
+Jordan,2013,0,OWID
+Jordan,2014,0,OWID
+Jordan,2015,1,OWID
+Jordan,2016,37,OWID
+Jordan,2017,0,OWID
+Jordan,2018,0,OWID
+Jordan,2019,0,OWID
+Jordan,2020,0,OWID
+Jordan,2021,0,OWID
+Jordan,2022,0,OWID
+Jordan,2023,0,OWID
+Jordan,2024,3,OWID
+Jordan,2025,0,OWID
+Jordan,2026,0,OWID
+Kazakhstan,1989,0,OWID
+Kazakhstan,1990,0,OWID
+Kazakhstan,1991,0,OWID
+Kazakhstan,1992,0,OWID
+Kazakhstan,1993,0,OWID
+Kazakhstan,1994,0,OWID
+Kazakhstan,1995,0,OWID
+Kazakhstan,1996,0,OWID
+Kazakhstan,1997,0,OWID
+Kazakhstan,1998,0,OWID
+Kazakhstan,1999,0,OWID
+Kazakhstan,2000,0,OWID
+Kazakhstan,2001,0,OWID
+Kazakhstan,2002,0,OWID
+Kazakhstan,2003,0,OWID
+Kazakhstan,2004,0,OWID
+Kazakhstan,2005,0,OWID
+Kazakhstan,2006,0,OWID
+Kazakhstan,2007,0,OWID
+Kazakhstan,2008,0,OWID
+Kazakhstan,2009,0,OWID
+Kazakhstan,2010,0,OWID
+Kazakhstan,2011,0,OWID
+Kazakhstan,2012,0,OWID
+Kazakhstan,2013,0,OWID
+Kazakhstan,2014,0,OWID
+Kazakhstan,2015,0,OWID
+Kazakhstan,2016,0,OWID
+Kazakhstan,2017,0,OWID
+Kazakhstan,2018,0,OWID
+Kazakhstan,2019,0,OWID
+Kazakhstan,2020,0,OWID
+Kazakhstan,2021,0,OWID
+Kazakhstan,2022,0,OWID
+Kazakhstan,2023,0,OWID
+Kazakhstan,2024,0,OWID
+Kazakhstan,2025,0,OWID
+Kazakhstan,2026,0,OWID
+Kenya,1989,60,OWID
+Kenya,1990,0,OWID
+Kenya,1991,0,OWID
+Kenya,1992,151,OWID
+Kenya,1993,279,OWID
+Kenya,1994,28,OWID
+Kenya,1995,44,OWID
+Kenya,1996,145,OWID
+Kenya,1997,185,OWID
+Kenya,1998,321,OWID
+Kenya,1999,208,OWID
+Kenya,2000,212,OWID
+Kenya,2001,171,OWID
+Kenya,2002,13,OWID
+Kenya,2003,0,OWID
+Kenya,2004,10,OWID
+Kenya,2005,176,OWID
+Kenya,2006,130,OWID
+Kenya,2007,170,OWID
+Kenya,2008,734,OWID
+Kenya,2009,124,OWID
+Kenya,2010,55,OWID
+Kenya,2011,141,OWID
+Kenya,2012,279,OWID
+Kenya,2013,213,OWID
+Kenya,2014,310,OWID
+Kenya,2015,374,OWID
+Kenya,2016,107,OWID
+Kenya,2017,149,OWID
+Kenya,2018,106,OWID
+Kenya,2019,159,OWID
+Kenya,2020,103,OWID
+Kenya,2021,108,OWID
+Kenya,2022,92,OWID
+Kenya,2023,224,OWID
+Kenya,2024,92,OWID
+Kenya,2025,70,OWID
+Kenya,2026,3,OWID
+Kiribati,1989,0,OWID
+Kiribati,1990,0,OWID
+Kiribati,1991,0,OWID
+Kiribati,1992,0,OWID
+Kiribati,1993,0,OWID
+Kiribati,1994,0,OWID
+Kiribati,1995,0,OWID
+Kiribati,1996,0,OWID
+Kiribati,1997,0,OWID
+Kiribati,1998,0,OWID
+Kiribati,1999,0,OWID
+Kiribati,2000,0,OWID
+Kiribati,2001,0,OWID
+Kiribati,2002,0,OWID
+Kiribati,2003,0,OWID
+Kiribati,2004,0,OWID
+Kiribati,2005,0,OWID
+Kiribati,2006,0,OWID
+Kiribati,2007,0,OWID
+Kiribati,2008,0,OWID
+Kiribati,2009,0,OWID
+Kiribati,2010,0,OWID
+Kiribati,2011,0,OWID
+Kiribati,2012,0,OWID
+Kiribati,2013,0,OWID
+Kiribati,2014,0,OWID
+Kiribati,2015,0,OWID
+Kiribati,2016,0,OWID
+Kiribati,2017,0,OWID
+Kiribati,2018,0,OWID
+Kiribati,2019,0,OWID
+Kiribati,2020,0,OWID
+Kiribati,2021,0,OWID
+Kiribati,2022,0,OWID
+Kiribati,2023,0,OWID
+Kiribati,2024,0,OWID
+Kiribati,2025,0,OWID
+Kiribati,2026,0,OWID
+Kosovo,1989,0,OWID
+Kosovo,1990,0,OWID
+Kosovo,1991,0,OWID
+Kosovo,1992,0,OWID
+Kosovo,1993,0,OWID
+Kosovo,1994,0,OWID
+Kosovo,1995,0,OWID
+Kosovo,1996,0,OWID
+Kosovo,1997,0,OWID
+Kosovo,1998,1432,OWID
+Kosovo,1999,1292,OWID
+Kosovo,2000,0,OWID
+Kosovo,2001,0,OWID
+Kosovo,2002,0,OWID
+Kosovo,2003,0,OWID
+Kosovo,2004,0,OWID
+Kosovo,2005,0,OWID
+Kosovo,2006,0,OWID
+Kosovo,2007,0,OWID
+Kosovo,2008,0,OWID
+Kosovo,2009,0,OWID
+Kosovo,2010,0,OWID
+Kosovo,2011,0,OWID
+Kosovo,2012,0,OWID
+Kosovo,2013,0,OWID
+Kosovo,2014,0,OWID
+Kosovo,2015,0,OWID
+Kosovo,2016,0,OWID
+Kosovo,2017,0,OWID
+Kosovo,2018,0,OWID
+Kosovo,2019,0,OWID
+Kosovo,2020,0,OWID
+Kosovo,2021,0,OWID
+Kosovo,2022,0,OWID
+Kosovo,2023,0,OWID
+Kosovo,2024,0,OWID
+Kosovo,2025,0,OWID
+Kosovo,2026,0,OWID
+Kuwait,1989,0,OWID
+Kuwait,1990,1329,OWID
+Kuwait,1991,460,OWID
+Kuwait,1992,0,OWID
+Kuwait,1993,0,OWID
+Kuwait,1994,0,OWID
+Kuwait,1995,0,OWID
+Kuwait,1996,1,OWID
+Kuwait,1997,0,OWID
+Kuwait,1998,0,OWID
+Kuwait,1999,0,OWID
+Kuwait,2000,0,OWID
+Kuwait,2001,0,OWID
+Kuwait,2002,0,OWID
+Kuwait,2003,0,OWID
+Kuwait,2004,0,OWID
+Kuwait,2005,0,OWID
+Kuwait,2006,0,OWID
+Kuwait,2007,0,OWID
+Kuwait,2008,0,OWID
+Kuwait,2009,0,OWID
+Kuwait,2010,0,OWID
+Kuwait,2011,0,OWID
+Kuwait,2012,0,OWID
+Kuwait,2013,0,OWID
+Kuwait,2014,0,OWID
+Kuwait,2015,26,OWID
+Kuwait,2016,0,OWID
+Kuwait,2017,0,OWID
+Kuwait,2018,0,OWID
+Kuwait,2019,0,OWID
+Kuwait,2020,0,OWID
+Kuwait,2021,0,OWID
+Kuwait,2022,0,OWID
+Kuwait,2023,0,OWID
+Kuwait,2024,0,OWID
+Kuwait,2025,0,OWID
+Kuwait,2026,14,OWID
+Kyrgyzstan,1989,0,OWID
+Kyrgyzstan,1990,171,OWID
+Kyrgyzstan,1991,0,OWID
+Kyrgyzstan,1992,0,OWID
+Kyrgyzstan,1993,0,OWID
+Kyrgyzstan,1994,0,OWID
+Kyrgyzstan,1995,0,OWID
+Kyrgyzstan,1996,0,OWID
+Kyrgyzstan,1997,0,OWID
+Kyrgyzstan,1998,0,OWID
+Kyrgyzstan,1999,3,OWID
+Kyrgyzstan,2000,174,OWID
+Kyrgyzstan,2001,0,OWID
+Kyrgyzstan,2002,0,OWID
+Kyrgyzstan,2003,0,OWID
+Kyrgyzstan,2004,0,OWID
+Kyrgyzstan,2005,0,OWID
+Kyrgyzstan,2006,0,OWID
+Kyrgyzstan,2007,0,OWID
+Kyrgyzstan,2008,0,OWID
+Kyrgyzstan,2009,0,OWID
+Kyrgyzstan,2010,44,OWID
+Kyrgyzstan,2011,0,OWID
+Kyrgyzstan,2012,0,OWID
+Kyrgyzstan,2013,0,OWID
+Kyrgyzstan,2014,0,OWID
+Kyrgyzstan,2015,0,OWID
+Kyrgyzstan,2016,0,OWID
+Kyrgyzstan,2017,0,OWID
+Kyrgyzstan,2018,0,OWID
+Kyrgyzstan,2019,0,OWID
+Kyrgyzstan,2020,0,OWID
+Kyrgyzstan,2021,39,OWID
+Kyrgyzstan,2022,55,OWID
+Kyrgyzstan,2023,0,OWID
+Kyrgyzstan,2024,0,OWID
+Kyrgyzstan,2025,0,OWID
+Kyrgyzstan,2026,0,OWID
+Laos,1989,30,OWID
+Laos,1990,249,OWID
+Laos,1991,0,OWID
+Laos,1992,0,OWID
+Laos,1993,0,OWID
+Laos,1994,0,OWID
+Laos,1995,0,OWID
+Laos,1996,0,OWID
+Laos,1997,0,OWID
+Laos,1998,0,OWID
+Laos,1999,0,OWID
+Laos,2000,0,OWID
+Laos,2001,0,OWID
+Laos,2002,0,OWID
+Laos,2003,0,OWID
+Laos,2004,0,OWID
+Laos,2005,0,OWID
+Laos,2006,73,OWID
+Laos,2007,0,OWID
+Laos,2008,0,OWID
+Laos,2009,0,OWID
+Laos,2010,0,OWID
+Laos,2011,0,OWID
+Laos,2012,0,OWID
+Laos,2013,0,OWID
+Laos,2014,0,OWID
+Laos,2015,0,OWID
+Laos,2016,0,OWID
+Laos,2017,0,OWID
+Laos,2018,0,OWID
+Laos,2019,0,OWID
+Laos,2020,0,OWID
+Laos,2021,0,OWID
+Laos,2022,0,OWID
+Laos,2023,0,OWID
+Laos,2024,0,OWID
+Laos,2025,0,OWID
+Laos,2026,0,OWID
+Latvia,1989,0,OWID
+Latvia,1990,0,OWID
+Latvia,1991,3,OWID
+Latvia,1992,0,OWID
+Latvia,1993,0,OWID
+Latvia,1994,0,OWID
+Latvia,1995,0,OWID
+Latvia,1996,0,OWID
+Latvia,1997,0,OWID
+Latvia,1998,0,OWID
+Latvia,1999,0,OWID
+Latvia,2000,0,OWID
+Latvia,2001,0,OWID
+Latvia,2002,0,OWID
+Latvia,2003,0,OWID
+Latvia,2004,0,OWID
+Latvia,2005,0,OWID
+Latvia,2006,0,OWID
+Latvia,2007,0,OWID
+Latvia,2008,0,OWID
+Latvia,2009,0,OWID
+Latvia,2010,0,OWID
+Latvia,2011,0,OWID
+Latvia,2012,0,OWID
+Latvia,2013,0,OWID
+Latvia,2014,0,OWID
+Latvia,2015,0,OWID
+Latvia,2016,0,OWID
+Latvia,2017,0,OWID
+Latvia,2018,0,OWID
+Latvia,2019,0,OWID
+Latvia,2020,0,OWID
+Latvia,2021,0,OWID
+Latvia,2022,0,OWID
+Latvia,2023,0,OWID
+Latvia,2024,0,OWID
+Latvia,2025,0,OWID
+Latvia,2026,0,OWID
+Lebanon,1989,1070,OWID
+Lebanon,1990,1888,OWID
+Lebanon,1991,40,OWID
+Lebanon,1992,119,OWID
+Lebanon,1993,148,OWID
+Lebanon,1994,131,OWID
+Lebanon,1995,109,OWID
+Lebanon,1996,193,OWID
+Lebanon,1997,88,OWID
+Lebanon,1998,85,OWID
+Lebanon,1999,71,OWID
+Lebanon,2000,52,OWID
+Lebanon,2001,0,OWID
+Lebanon,2002,0,OWID
+Lebanon,2003,0,OWID
+Lebanon,2004,0,OWID
+Lebanon,2005,0,OWID
+Lebanon,2006,1184,OWID
+Lebanon,2007,0,OWID
+Lebanon,2008,38,OWID
+Lebanon,2009,0,OWID
+Lebanon,2010,0,OWID
+Lebanon,2011,4,OWID
+Lebanon,2012,53,OWID
+Lebanon,2013,179,OWID
+Lebanon,2014,222,OWID
+Lebanon,2015,197,OWID
+Lebanon,2016,35,OWID
+Lebanon,2017,297,OWID
+Lebanon,2018,0,OWID
+Lebanon,2019,0,OWID
+Lebanon,2020,0,OWID
+Lebanon,2021,0,OWID
+Lebanon,2022,0,OWID
+Lebanon,2023,123,OWID
+Lebanon,2024,4335,OWID
+Lebanon,2025,347,OWID
+Lebanon,2026,4365,OWID
+Lesotho,1989,0,OWID
+Lesotho,1990,0,OWID
+Lesotho,1991,0,OWID
+Lesotho,1992,0,OWID
+Lesotho,1993,0,OWID
+Lesotho,1994,0,OWID
+Lesotho,1995,0,OWID
+Lesotho,1996,0,OWID
+Lesotho,1997,0,OWID
+Lesotho,1998,78,OWID
+Lesotho,1999,0,OWID
+Lesotho,2000,0,OWID
+Lesotho,2001,0,OWID
+Lesotho,2002,0,OWID
+Lesotho,2003,0,OWID
+Lesotho,2004,0,OWID
+Lesotho,2005,0,OWID
+Lesotho,2006,0,OWID
+Lesotho,2007,0,OWID
+Lesotho,2008,0,OWID
+Lesotho,2009,0,OWID
+Lesotho,2010,0,OWID
+Lesotho,2011,0,OWID
+Lesotho,2012,0,OWID
+Lesotho,2013,0,OWID
+Lesotho,2014,0,OWID
+Lesotho,2015,0,OWID
+Lesotho,2016,0,OWID
+Lesotho,2017,0,OWID
+Lesotho,2018,0,OWID
+Lesotho,2019,0,OWID
+Lesotho,2020,0,OWID
+Lesotho,2021,0,OWID
+Lesotho,2022,0,OWID
+Lesotho,2023,0,OWID
+Lesotho,2024,0,OWID
+Lesotho,2025,0,OWID
+Lesotho,2026,0,OWID
+Liberia,1989,27,OWID
+Liberia,1990,3729,OWID
+Liberia,1991,574,OWID
+Liberia,1992,447,OWID
+Liberia,1993,2664,OWID
+Liberia,1994,4155,OWID
+Liberia,1995,2285,OWID
+Liberia,1996,3069,OWID
+Liberia,1997,0,OWID
+Liberia,1998,0,OWID
+Liberia,1999,70,OWID
+Liberia,2000,101,OWID
+Liberia,2001,461,OWID
+Liberia,2002,2259,OWID
+Liberia,2003,3281,OWID
+Liberia,2004,0,OWID
+Liberia,2005,0,OWID
+Liberia,2006,0,OWID
+Liberia,2007,0,OWID
+Liberia,2008,0,OWID
+Liberia,2009,0,OWID
+Liberia,2010,0,OWID
+Liberia,2011,0,OWID
+Liberia,2012,0,OWID
+Liberia,2013,0,OWID
+Liberia,2014,0,OWID
+Liberia,2015,0,OWID
+Liberia,2016,0,OWID
+Liberia,2017,0,OWID
+Liberia,2018,0,OWID
+Liberia,2019,0,OWID
+Liberia,2020,0,OWID
+Liberia,2021,0,OWID
+Liberia,2022,0,OWID
+Liberia,2023,0,OWID
+Liberia,2024,0,OWID
+Liberia,2025,0,OWID
+Liberia,2026,0,OWID
+Libya,1989,0,OWID
+Libya,1990,0,OWID
+Libya,1991,0,OWID
+Libya,1992,0,OWID
+Libya,1993,0,OWID
+Libya,1994,0,OWID
+Libya,1995,24,OWID
+Libya,1996,0,OWID
+Libya,1997,0,OWID
+Libya,1998,0,OWID
+Libya,1999,0,OWID
+Libya,2000,0,OWID
+Libya,2001,0,OWID
+Libya,2002,0,OWID
+Libya,2003,0,OWID
+Libya,2004,0,OWID
+Libya,2005,0,OWID
+Libya,2006,0,OWID
+Libya,2007,0,OWID
+Libya,2008,0,OWID
+Libya,2009,0,OWID
+Libya,2010,0,OWID
+Libya,2011,3917,OWID
+Libya,2012,377,OWID
+Libya,2013,34,OWID
+Libya,2014,1439,OWID
+Libya,2015,1573,OWID
+Libya,2016,2325,OWID
+Libya,2017,1091,OWID
+Libya,2018,664,OWID
+Libya,2019,1785,OWID
+Libya,2020,673,OWID
+Libya,2021,0,OWID
+Libya,2022,0,OWID
+Libya,2023,0,OWID
+Libya,2024,2,OWID
+Libya,2025,0,OWID
+Libya,2026,0,OWID
+Liechtenstein,1989,0,OWID
+Liechtenstein,1990,0,OWID
+Liechtenstein,1991,0,OWID
+Liechtenstein,1992,0,OWID
+Liechtenstein,1993,0,OWID
+Liechtenstein,1994,0,OWID
+Liechtenstein,1995,0,OWID
+Liechtenstein,1996,0,OWID
+Liechtenstein,1997,0,OWID
+Liechtenstein,1998,0,OWID
+Liechtenstein,1999,0,OWID
+Liechtenstein,2000,0,OWID
+Liechtenstein,2001,0,OWID
+Liechtenstein,2002,0,OWID
+Liechtenstein,2003,0,OWID
+Liechtenstein,2004,0,OWID
+Liechtenstein,2005,0,OWID
+Liechtenstein,2006,0,OWID
+Liechtenstein,2007,0,OWID
+Liechtenstein,2008,0,OWID
+Liechtenstein,2009,0,OWID
+Liechtenstein,2010,0,OWID
+Liechtenstein,2011,0,OWID
+Liechtenstein,2012,0,OWID
+Liechtenstein,2013,0,OWID
+Liechtenstein,2014,0,OWID
+Liechtenstein,2015,0,OWID
+Liechtenstein,2016,0,OWID
+Liechtenstein,2017,0,OWID
+Liechtenstein,2018,0,OWID
+Liechtenstein,2019,0,OWID
+Liechtenstein,2020,0,OWID
+Liechtenstein,2021,0,OWID
+Liechtenstein,2022,0,OWID
+Liechtenstein,2023,0,OWID
+Liechtenstein,2024,0,OWID
+Liechtenstein,2025,0,OWID
+Liechtenstein,2026,0,OWID
+Lithuania,1989,0,OWID
+Lithuania,1990,0,OWID
+Lithuania,1991,15,OWID
+Lithuania,1992,0,OWID
+Lithuania,1993,0,OWID
+Lithuania,1994,0,OWID
+Lithuania,1995,0,OWID
+Lithuania,1996,0,OWID
+Lithuania,1997,0,OWID
+Lithuania,1998,0,OWID
+Lithuania,1999,0,OWID
+Lithuania,2000,0,OWID
+Lithuania,2001,0,OWID
+Lithuania,2002,0,OWID
+Lithuania,2003,0,OWID
+Lithuania,2004,0,OWID
+Lithuania,2005,0,OWID
+Lithuania,2006,0,OWID
+Lithuania,2007,0,OWID
+Lithuania,2008,0,OWID
+Lithuania,2009,0,OWID
+Lithuania,2010,0,OWID
+Lithuania,2011,0,OWID
+Lithuania,2012,0,OWID
+Lithuania,2013,0,OWID
+Lithuania,2014,0,OWID
+Lithuania,2015,0,OWID
+Lithuania,2016,0,OWID
+Lithuania,2017,0,OWID
+Lithuania,2018,0,OWID
+Lithuania,2019,0,OWID
+Lithuania,2020,0,OWID
+Lithuania,2021,0,OWID
+Lithuania,2022,0,OWID
+Lithuania,2023,0,OWID
+Lithuania,2024,0,OWID
+Lithuania,2025,0,OWID
+Lithuania,2026,0,OWID
+Luxembourg,1989,0,OWID
+Luxembourg,1990,0,OWID
+Luxembourg,1991,0,OWID
+Luxembourg,1992,0,OWID
+Luxembourg,1993,0,OWID
+Luxembourg,1994,0,OWID
+Luxembourg,1995,0,OWID
+Luxembourg,1996,0,OWID
+Luxembourg,1997,0,OWID
+Luxembourg,1998,0,OWID
+Luxembourg,1999,0,OWID
+Luxembourg,2000,0,OWID
+Luxembourg,2001,0,OWID
+Luxembourg,2002,0,OWID
+Luxembourg,2003,0,OWID
+Luxembourg,2004,0,OWID
+Luxembourg,2005,0,OWID
+Luxembourg,2006,0,OWID
+Luxembourg,2007,0,OWID
+Luxembourg,2008,0,OWID
+Luxembourg,2009,0,OWID
+Luxembourg,2010,0,OWID
+Luxembourg,2011,0,OWID
+Luxembourg,2012,0,OWID
+Luxembourg,2013,0,OWID
+Luxembourg,2014,0,OWID
+Luxembourg,2015,0,OWID
+Luxembourg,2016,0,OWID
+Luxembourg,2017,0,OWID
+Luxembourg,2018,0,OWID
+Luxembourg,2019,0,OWID
+Luxembourg,2020,0,OWID
+Luxembourg,2021,0,OWID
+Luxembourg,2022,0,OWID
+Luxembourg,2023,0,OWID
+Luxembourg,2024,0,OWID
+Luxembourg,2025,0,OWID
+Luxembourg,2026,0,OWID
+Madagascar,1989,0,OWID
+Madagascar,1990,0,OWID
+Madagascar,1991,0,OWID
+Madagascar,1992,0,OWID
+Madagascar,1993,0,OWID
+Madagascar,1994,0,OWID
+Madagascar,1995,0,OWID
+Madagascar,1996,0,OWID
+Madagascar,1997,0,OWID
+Madagascar,1998,0,OWID
+Madagascar,1999,0,OWID
+Madagascar,2000,0,OWID
+Madagascar,2001,0,OWID
+Madagascar,2002,79,OWID
+Madagascar,2003,0,OWID
+Madagascar,2004,0,OWID
+Madagascar,2005,0,OWID
+Madagascar,2006,0,OWID
+Madagascar,2007,0,OWID
+Madagascar,2008,0,OWID
+Madagascar,2009,113,OWID
+Madagascar,2010,0,OWID
+Madagascar,2011,0,OWID
+Madagascar,2012,0,OWID
+Madagascar,2013,0,OWID
+Madagascar,2014,0,OWID
+Madagascar,2015,0,OWID
+Madagascar,2016,0,OWID
+Madagascar,2017,0,OWID
+Madagascar,2018,0,OWID
+Madagascar,2019,0,OWID
+Madagascar,2020,0,OWID
+Madagascar,2021,0,OWID
+Madagascar,2022,0,OWID
+Madagascar,2023,0,OWID
+Madagascar,2024,0,OWID
+Madagascar,2025,0,OWID
+Madagascar,2026,0,OWID
+Malawi,1989,0,OWID
+Malawi,1990,0,OWID
+Malawi,1991,0,OWID
+Malawi,1992,0,OWID
+Malawi,1993,0,OWID
+Malawi,1994,0,OWID
+Malawi,1995,0,OWID
+Malawi,1996,0,OWID
+Malawi,1997,0,OWID
+Malawi,1998,0,OWID
+Malawi,1999,0,OWID
+Malawi,2000,0,OWID
+Malawi,2001,0,OWID
+Malawi,2002,0,OWID
+Malawi,2003,0,OWID
+Malawi,2004,0,OWID
+Malawi,2005,0,OWID
+Malawi,2006,0,OWID
+Malawi,2007,0,OWID
+Malawi,2008,0,OWID
+Malawi,2009,0,OWID
+Malawi,2010,0,OWID
+Malawi,2011,0,OWID
+Malawi,2012,0,OWID
+Malawi,2013,0,OWID
+Malawi,2014,0,OWID
+Malawi,2015,0,OWID
+Malawi,2016,0,OWID
+Malawi,2017,0,OWID
+Malawi,2018,0,OWID
+Malawi,2019,0,OWID
+Malawi,2020,0,OWID
+Malawi,2021,0,OWID
+Malawi,2022,0,OWID
+Malawi,2023,0,OWID
+Malawi,2024,0,OWID
+Malawi,2025,0,OWID
+Malawi,2026,0,OWID
+Malaysia,1989,0,OWID
+Malaysia,1990,0,OWID
+Malaysia,1991,0,OWID
+Malaysia,1992,0,OWID
+Malaysia,1993,0,OWID
+Malaysia,1994,0,OWID
+Malaysia,1995,0,OWID
+Malaysia,1996,0,OWID
+Malaysia,1997,0,OWID
+Malaysia,1998,0,OWID
+Malaysia,1999,0,OWID
+Malaysia,2000,0,OWID
+Malaysia,2001,0,OWID
+Malaysia,2002,0,OWID
+Malaysia,2003,0,OWID
+Malaysia,2004,0,OWID
+Malaysia,2005,0,OWID
+Malaysia,2006,0,OWID
+Malaysia,2007,0,OWID
+Malaysia,2008,0,OWID
+Malaysia,2009,0,OWID
+Malaysia,2010,0,OWID
+Malaysia,2011,0,OWID
+Malaysia,2012,0,OWID
+Malaysia,2013,70,OWID
+Malaysia,2014,0,OWID
+Malaysia,2015,0,OWID
+Malaysia,2016,0,OWID
+Malaysia,2017,2,OWID
+Malaysia,2018,0,OWID
+Malaysia,2019,0,OWID
+Malaysia,2020,0,OWID
+Malaysia,2021,0,OWID
+Malaysia,2022,0,OWID
+Malaysia,2023,0,OWID
+Malaysia,2024,0,OWID
+Malaysia,2025,0,OWID
+Malaysia,2026,0,OWID
+Maldives,1989,0,OWID
+Maldives,1990,0,OWID
+Maldives,1991,0,OWID
+Maldives,1992,0,OWID
+Maldives,1993,0,OWID
+Maldives,1994,0,OWID
+Maldives,1995,0,OWID
+Maldives,1996,0,OWID
+Maldives,1997,0,OWID
+Maldives,1998,0,OWID
+Maldives,1999,0,OWID
+Maldives,2000,0,OWID
+Maldives,2001,0,OWID
+Maldives,2002,0,OWID
+Maldives,2003,0,OWID
+Maldives,2004,0,OWID
+Maldives,2005,0,OWID
+Maldives,2006,0,OWID
+Maldives,2007,0,OWID
+Maldives,2008,0,OWID
+Maldives,2009,0,OWID
+Maldives,2010,0,OWID
+Maldives,2011,0,OWID
+Maldives,2012,0,OWID
+Maldives,2013,0,OWID
+Maldives,2014,0,OWID
+Maldives,2015,0,OWID
+Maldives,2016,0,OWID
+Maldives,2017,0,OWID
+Maldives,2018,0,OWID
+Maldives,2019,0,OWID
+Maldives,2020,0,OWID
+Maldives,2021,0,OWID
+Maldives,2022,0,OWID
+Maldives,2023,0,OWID
+Maldives,2024,0,OWID
+Maldives,2025,0,OWID
+Maldives,2026,0,OWID
+Mali,1989,0,OWID
+Mali,1990,582,OWID
+Mali,1991,235,OWID
+Mali,1992,77,OWID
+Mali,1993,0,OWID
+Mali,1994,709,OWID
+Mali,1995,0,OWID
+Mali,1996,0,OWID
+Mali,1997,22,OWID
+Mali,1998,0,OWID
+Mali,1999,59,OWID
+Mali,2000,0,OWID
+Mali,2001,0,OWID
+Mali,2002,0,OWID
+Mali,2003,0,OWID
+Mali,2004,0,OWID
+Mali,2005,12,OWID
+Mali,2006,0,OWID
+Mali,2007,39,OWID
+Mali,2008,112,OWID
+Mali,2009,127,OWID
+Mali,2010,22,OWID
+Mali,2011,1,OWID
+Mali,2012,330,OWID
+Mali,2013,859,OWID
+Mali,2014,280,OWID
+Mali,2015,214,OWID
+Mali,2016,163,OWID
+Mali,2017,534,OWID
+Mali,2018,1279,OWID
+Mali,2019,1157,OWID
+Mali,2020,1511,OWID
+Mali,2021,1268,OWID
+Mali,2022,3638,OWID
+Mali,2023,2065,OWID
+Mali,2024,1876,OWID
+Mali,2025,2152,OWID
+Mali,2026,861,OWID
+Malta,1989,0,OWID
+Malta,1990,0,OWID
+Malta,1991,0,OWID
+Malta,1992,0,OWID
+Malta,1993,0,OWID
+Malta,1994,0,OWID
+Malta,1995,0,OWID
+Malta,1996,0,OWID
+Malta,1997,0,OWID
+Malta,1998,0,OWID
+Malta,1999,0,OWID
+Malta,2000,0,OWID
+Malta,2001,0,OWID
+Malta,2002,0,OWID
+Malta,2003,0,OWID
+Malta,2004,0,OWID
+Malta,2005,0,OWID
+Malta,2006,0,OWID
+Malta,2007,0,OWID
+Malta,2008,0,OWID
+Malta,2009,0,OWID
+Malta,2010,0,OWID
+Malta,2011,0,OWID
+Malta,2012,0,OWID
+Malta,2013,0,OWID
+Malta,2014,0,OWID
+Malta,2015,0,OWID
+Malta,2016,0,OWID
+Malta,2017,0,OWID
+Malta,2018,0,OWID
+Malta,2019,0,OWID
+Malta,2020,0,OWID
+Malta,2021,0,OWID
+Malta,2022,0,OWID
+Malta,2023,0,OWID
+Malta,2024,0,OWID
+Malta,2025,0,OWID
+Malta,2026,0,OWID
+Marshall Islands,1989,0,OWID
+Marshall Islands,1990,0,OWID
+Marshall Islands,1991,0,OWID
+Marshall Islands,1992,0,OWID
+Marshall Islands,1993,0,OWID
+Marshall Islands,1994,0,OWID
+Marshall Islands,1995,0,OWID
+Marshall Islands,1996,0,OWID
+Marshall Islands,1997,0,OWID
+Marshall Islands,1998,0,OWID
+Marshall Islands,1999,0,OWID
+Marshall Islands,2000,0,OWID
+Marshall Islands,2001,0,OWID
+Marshall Islands,2002,0,OWID
+Marshall Islands,2003,0,OWID
+Marshall Islands,2004,0,OWID
+Marshall Islands,2005,0,OWID
+Marshall Islands,2006,0,OWID
+Marshall Islands,2007,0,OWID
+Marshall Islands,2008,0,OWID
+Marshall Islands,2009,0,OWID
+Marshall Islands,2010,0,OWID
+Marshall Islands,2011,0,OWID
+Marshall Islands,2012,0,OWID
+Marshall Islands,2013,0,OWID
+Marshall Islands,2014,0,OWID
+Marshall Islands,2015,0,OWID
+Marshall Islands,2016,0,OWID
+Marshall Islands,2017,0,OWID
+Marshall Islands,2018,0,OWID
+Marshall Islands,2019,0,OWID
+Marshall Islands,2020,0,OWID
+Marshall Islands,2021,0,OWID
+Marshall Islands,2022,0,OWID
+Marshall Islands,2023,0,OWID
+Marshall Islands,2024,0,OWID
+Marshall Islands,2025,0,OWID
+Marshall Islands,2026,0,OWID
+Mauritania,1989,121,OWID
+Mauritania,1990,27,OWID
+Mauritania,1991,0,OWID
+Mauritania,1992,0,OWID
+Mauritania,1993,0,OWID
+Mauritania,1994,20,OWID
+Mauritania,1995,0,OWID
+Mauritania,1996,0,OWID
+Mauritania,1997,0,OWID
+Mauritania,1998,0,OWID
+Mauritania,1999,0,OWID
+Mauritania,2000,0,OWID
+Mauritania,2001,0,OWID
+Mauritania,2002,0,OWID
+Mauritania,2003,0,OWID
+Mauritania,2004,0,OWID
+Mauritania,2005,0,OWID
+Mauritania,2006,0,OWID
+Mauritania,2007,4,OWID
+Mauritania,2008,0,OWID
+Mauritania,2009,1,OWID
+Mauritania,2010,7,OWID
+Mauritania,2011,0,OWID
+Mauritania,2012,0,OWID
+Mauritania,2013,0,OWID
+Mauritania,2014,0,OWID
+Mauritania,2015,0,OWID
+Mauritania,2016,0,OWID
+Mauritania,2017,0,OWID
+Mauritania,2018,0,OWID
+Mauritania,2019,0,OWID
+Mauritania,2020,0,OWID
+Mauritania,2021,0,OWID
+Mauritania,2022,0,OWID
+Mauritania,2023,0,OWID
+Mauritania,2024,3,OWID
+Mauritania,2025,0,OWID
+Mauritania,2026,150,OWID
+Mauritius,1989,0,OWID
+Mauritius,1990,0,OWID
+Mauritius,1991,0,OWID
+Mauritius,1992,0,OWID
+Mauritius,1993,0,OWID
+Mauritius,1994,0,OWID
+Mauritius,1995,0,OWID
+Mauritius,1996,0,OWID
+Mauritius,1997,0,OWID
+Mauritius,1998,0,OWID
+Mauritius,1999,0,OWID
+Mauritius,2000,0,OWID
+Mauritius,2001,0,OWID
+Mauritius,2002,0,OWID
+Mauritius,2003,0,OWID
+Mauritius,2004,0,OWID
+Mauritius,2005,0,OWID
+Mauritius,2006,0,OWID
+Mauritius,2007,0,OWID
+Mauritius,2008,0,OWID
+Mauritius,2009,0,OWID
+Mauritius,2010,0,OWID
+Mauritius,2011,0,OWID
+Mauritius,2012,0,OWID
+Mauritius,2013,0,OWID
+Mauritius,2014,0,OWID
+Mauritius,2015,0,OWID
+Mauritius,2016,0,OWID
+Mauritius,2017,0,OWID
+Mauritius,2018,0,OWID
+Mauritius,2019,0,OWID
+Mauritius,2020,0,OWID
+Mauritius,2021,0,OWID
+Mauritius,2022,0,OWID
+Mauritius,2023,0,OWID
+Mauritius,2024,0,OWID
+Mauritius,2025,0,OWID
+Mauritius,2026,0,OWID
+Mexico,1989,2,OWID
+Mexico,1990,0,OWID
+Mexico,1991,0,OWID
+Mexico,1992,0,OWID
+Mexico,1993,27,OWID
+Mexico,1994,145,OWID
+Mexico,1995,1,OWID
+Mexico,1996,37,OWID
+Mexico,1997,45,OWID
+Mexico,1998,0,OWID
+Mexico,1999,0,OWID
+Mexico,2000,0,OWID
+Mexico,2001,0,OWID
+Mexico,2002,26,OWID
+Mexico,2003,3,OWID
+Mexico,2004,216,OWID
+Mexico,2005,204,OWID
+Mexico,2006,669,OWID
+Mexico,2007,1971,OWID
+Mexico,2008,3778,OWID
+Mexico,2009,5634,OWID
+Mexico,2010,6280,OWID
+Mexico,2011,4920,OWID
+Mexico,2012,5922,OWID
+Mexico,2013,4450,OWID
+Mexico,2014,3303,OWID
+Mexico,2015,4484,OWID
+Mexico,2016,4275,OWID
+Mexico,2017,9713,OWID
+Mexico,2018,11175,OWID
+Mexico,2019,10432,OWID
+Mexico,2020,13326,OWID
+Mexico,2021,15022,OWID
+Mexico,2022,12507,OWID
+Mexico,2023,10830,OWID
+Mexico,2024,10946,OWID
+Mexico,2025,7833,OWID
+Mexico,2026,695,OWID
+Micronesia,1989,0,OWID
+Micronesia,1990,0,OWID
+Micronesia,1991,0,OWID
+Micronesia,1992,0,OWID
+Micronesia,1993,0,OWID
+Micronesia,1994,0,OWID
+Micronesia,1995,0,OWID
+Micronesia,1996,0,OWID
+Micronesia,1997,0,OWID
+Micronesia,1998,0,OWID
+Micronesia,1999,0,OWID
+Micronesia,2000,0,OWID
+Micronesia,2001,0,OWID
+Micronesia,2002,0,OWID
+Micronesia,2003,0,OWID
+Micronesia,2004,0,OWID
+Micronesia,2005,0,OWID
+Micronesia,2006,0,OWID
+Micronesia,2007,0,OWID
+Micronesia,2008,0,OWID
+Micronesia,2009,0,OWID
+Micronesia,2010,0,OWID
+Micronesia,2011,0,OWID
+Micronesia,2012,0,OWID
+Micronesia,2013,0,OWID
+Micronesia,2014,0,OWID
+Micronesia,2015,0,OWID
+Micronesia,2016,0,OWID
+Micronesia,2017,0,OWID
+Micronesia,2018,0,OWID
+Micronesia,2019,0,OWID
+Micronesia,2020,0,OWID
+Micronesia,2021,0,OWID
+Micronesia,2022,0,OWID
+Micronesia,2023,0,OWID
+Micronesia,2024,0,OWID
+Micronesia,2025,0,OWID
+Micronesia,2026,0,OWID
+Middle East,1989,1725,OWID
+Middle East,1990,3995,OWID
+Middle East,1991,25591,OWID
+Middle East,1992,2910,OWID
+Middle East,1993,3576,OWID
+Middle East,1994,7021,OWID
+Middle East,1995,5531,OWID
+Middle East,1996,5127,OWID
+Middle East,1997,4499,OWID
+Middle East,1998,2254,OWID
+Middle East,1999,1538,OWID
+Middle East,2000,540,OWID
+Middle East,2001,642,OWID
+Middle East,2002,1059,OWID
+Middle East,2003,8653,OWID
+Middle East,2004,5235,OWID
+Middle East,2005,4365,OWID
+Middle East,2006,6675,OWID
+Middle East,2007,5747,OWID
+Middle East,2008,4262,OWID
+Middle East,2009,4271,OWID
+Middle East,2010,2926,OWID
+Middle East,2011,9086,OWID
+Middle East,2012,59227,OWID
+Middle East,2013,81816,OWID
+Middle East,2014,100280,OWID
+Middle East,2015,81372,OWID
+Middle East,2016,72194,OWID
+Middle East,2017,55273,OWID
+Middle East,2018,29459,OWID
+Middle East,2019,16458,OWID
+Middle East,2020,14340,OWID
+Middle East,2021,26961,OWID
+Middle East,2022,6503,OWID
+Middle East,2023,31384,OWID
+Middle East,2024,31237,OWID
+Middle East,2025,21438,OWID
+Middle East,2026,9035,OWID
+Moldova,1989,0,OWID
+Moldova,1990,0,OWID
+Moldova,1991,0,OWID
+Moldova,1992,585,OWID
+Moldova,1993,0,OWID
+Moldova,1994,0,OWID
+Moldova,1995,0,OWID
+Moldova,1996,0,OWID
+Moldova,1997,0,OWID
+Moldova,1998,0,OWID
+Moldova,1999,0,OWID
+Moldova,2000,0,OWID
+Moldova,2001,0,OWID
+Moldova,2002,0,OWID
+Moldova,2003,0,OWID
+Moldova,2004,0,OWID
+Moldova,2005,0,OWID
+Moldova,2006,0,OWID
+Moldova,2007,0,OWID
+Moldova,2008,0,OWID
+Moldova,2009,0,OWID
+Moldova,2010,0,OWID
+Moldova,2011,0,OWID
+Moldova,2012,0,OWID
+Moldova,2013,0,OWID
+Moldova,2014,0,OWID
+Moldova,2015,0,OWID
+Moldova,2016,0,OWID
+Moldova,2017,0,OWID
+Moldova,2018,0,OWID
+Moldova,2019,0,OWID
+Moldova,2020,0,OWID
+Moldova,2021,0,OWID
+Moldova,2022,0,OWID
+Moldova,2023,0,OWID
+Moldova,2024,0,OWID
+Moldova,2025,0,OWID
+Moldova,2026,0,OWID
+Monaco,1989,0,OWID
+Monaco,1990,0,OWID
+Monaco,1991,0,OWID
+Monaco,1992,0,OWID
+Monaco,1993,0,OWID
+Monaco,1994,0,OWID
+Monaco,1995,0,OWID
+Monaco,1996,0,OWID
+Monaco,1997,0,OWID
+Monaco,1998,0,OWID
+Monaco,1999,0,OWID
+Monaco,2000,0,OWID
+Monaco,2001,0,OWID
+Monaco,2002,0,OWID
+Monaco,2003,0,OWID
+Monaco,2004,0,OWID
+Monaco,2005,0,OWID
+Monaco,2006,0,OWID
+Monaco,2007,0,OWID
+Monaco,2008,0,OWID
+Monaco,2009,0,OWID
+Monaco,2010,0,OWID
+Monaco,2011,0,OWID
+Monaco,2012,0,OWID
+Monaco,2013,0,OWID
+Monaco,2014,0,OWID
+Monaco,2015,0,OWID
+Monaco,2016,0,OWID
+Monaco,2017,0,OWID
+Monaco,2018,0,OWID
+Monaco,2019,0,OWID
+Monaco,2020,0,OWID
+Monaco,2021,0,OWID
+Monaco,2022,0,OWID
+Monaco,2023,0,OWID
+Monaco,2024,0,OWID
+Monaco,2025,0,OWID
+Monaco,2026,0,OWID
+Mongolia,1989,0,OWID
+Mongolia,1990,0,OWID
+Mongolia,1991,0,OWID
+Mongolia,1992,0,OWID
+Mongolia,1993,0,OWID
+Mongolia,1994,0,OWID
+Mongolia,1995,0,OWID
+Mongolia,1996,0,OWID
+Mongolia,1997,0,OWID
+Mongolia,1998,0,OWID
+Mongolia,1999,0,OWID
+Mongolia,2000,0,OWID
+Mongolia,2001,0,OWID
+Mongolia,2002,0,OWID
+Mongolia,2003,0,OWID
+Mongolia,2004,0,OWID
+Mongolia,2005,0,OWID
+Mongolia,2006,0,OWID
+Mongolia,2007,0,OWID
+Mongolia,2008,0,OWID
+Mongolia,2009,0,OWID
+Mongolia,2010,0,OWID
+Mongolia,2011,0,OWID
+Mongolia,2012,0,OWID
+Mongolia,2013,0,OWID
+Mongolia,2014,0,OWID
+Mongolia,2015,0,OWID
+Mongolia,2016,0,OWID
+Mongolia,2017,0,OWID
+Mongolia,2018,0,OWID
+Mongolia,2019,0,OWID
+Mongolia,2020,0,OWID
+Mongolia,2021,0,OWID
+Mongolia,2022,0,OWID
+Mongolia,2023,0,OWID
+Mongolia,2024,0,OWID
+Mongolia,2025,0,OWID
+Mongolia,2026,0,OWID
+Montenegro,1989,0,OWID
+Montenegro,1990,0,OWID
+Montenegro,1991,0,OWID
+Montenegro,1992,0,OWID
+Montenegro,1993,0,OWID
+Montenegro,1994,0,OWID
+Montenegro,1995,0,OWID
+Montenegro,1996,0,OWID
+Montenegro,1997,0,OWID
+Montenegro,1998,2,OWID
+Montenegro,1999,9,OWID
+Montenegro,2000,0,OWID
+Montenegro,2001,0,OWID
+Montenegro,2002,0,OWID
+Montenegro,2003,0,OWID
+Montenegro,2004,0,OWID
+Montenegro,2005,0,OWID
+Montenegro,2006,0,OWID
+Montenegro,2007,0,OWID
+Montenegro,2008,0,OWID
+Montenegro,2009,0,OWID
+Montenegro,2010,0,OWID
+Montenegro,2011,0,OWID
+Montenegro,2012,0,OWID
+Montenegro,2013,0,OWID
+Montenegro,2014,0,OWID
+Montenegro,2015,0,OWID
+Montenegro,2016,0,OWID
+Montenegro,2017,0,OWID
+Montenegro,2018,0,OWID
+Montenegro,2019,0,OWID
+Montenegro,2020,0,OWID
+Montenegro,2021,0,OWID
+Montenegro,2022,0,OWID
+Montenegro,2023,0,OWID
+Montenegro,2024,0,OWID
+Montenegro,2025,0,OWID
+Montenegro,2026,0,OWID
+Morocco,1989,0,OWID
+Morocco,1990,0,OWID
+Morocco,1991,0,OWID
+Morocco,1992,0,OWID
+Morocco,1993,0,OWID
+Morocco,1994,0,OWID
+Morocco,1995,0,OWID
+Morocco,1996,0,OWID
+Morocco,1997,0,OWID
+Morocco,1998,0,OWID
+Morocco,1999,0,OWID
+Morocco,2000,0,OWID
+Morocco,2001,0,OWID
+Morocco,2002,0,OWID
+Morocco,2003,34,OWID
+Morocco,2004,0,OWID
+Morocco,2005,0,OWID
+Morocco,2006,0,OWID
+Morocco,2007,0,OWID
+Morocco,2008,0,OWID
+Morocco,2009,0,OWID
+Morocco,2010,0,OWID
+Morocco,2011,17,OWID
+Morocco,2012,0,OWID
+Morocco,2013,0,OWID
+Morocco,2014,0,OWID
+Morocco,2015,0,OWID
+Morocco,2016,0,OWID
+Morocco,2017,0,OWID
+Morocco,2018,0,OWID
+Morocco,2019,0,OWID
+Morocco,2020,0,OWID
+Morocco,2021,0,OWID
+Morocco,2022,0,OWID
+Morocco,2023,0,OWID
+Morocco,2024,0,OWID
+Morocco,2025,0,OWID
+Morocco,2026,0,OWID
+Mozambique,1989,2126,OWID
+Mozambique,1990,1759,OWID
+Mozambique,1991,1961,OWID
+Mozambique,1992,521,OWID
+Mozambique,1993,0,OWID
+Mozambique,1994,0,OWID
+Mozambique,1995,0,OWID
+Mozambique,1996,0,OWID
+Mozambique,1997,0,OWID
+Mozambique,1998,0,OWID
+Mozambique,1999,0,OWID
+Mozambique,2000,0,OWID
+Mozambique,2001,0,OWID
+Mozambique,2002,0,OWID
+Mozambique,2003,0,OWID
+Mozambique,2004,0,OWID
+Mozambique,2005,0,OWID
+Mozambique,2006,0,OWID
+Mozambique,2007,0,OWID
+Mozambique,2008,0,OWID
+Mozambique,2009,0,OWID
+Mozambique,2010,0,OWID
+Mozambique,2011,0,OWID
+Mozambique,2012,0,OWID
+Mozambique,2013,42,OWID
+Mozambique,2014,30,OWID
+Mozambique,2015,0,OWID
+Mozambique,2016,55,OWID
+Mozambique,2017,0,OWID
+Mozambique,2018,170,OWID
+Mozambique,2019,596,OWID
+Mozambique,2020,1627,OWID
+Mozambique,2021,1918,OWID
+Mozambique,2022,721,OWID
+Mozambique,2023,260,OWID
+Mozambique,2024,522,OWID
+Mozambique,2025,610,OWID
+Mozambique,2026,103,OWID
+Myanmar,1989,1498,OWID
+Myanmar,1990,770,OWID
+Myanmar,1991,1361,OWID
+Myanmar,1992,1697,OWID
+Myanmar,1993,130,OWID
+Myanmar,1994,759,OWID
+Myanmar,1995,1485,OWID
+Myanmar,1996,581,OWID
+Myanmar,1997,781,OWID
+Myanmar,1998,582,OWID
+Myanmar,1999,320,OWID
+Myanmar,2000,740,OWID
+Myanmar,2001,328,OWID
+Myanmar,2002,520,OWID
+Myanmar,2003,233,OWID
+Myanmar,2004,141,OWID
+Myanmar,2005,375,OWID
+Myanmar,2006,434,OWID
+Myanmar,2007,685,OWID
+Myanmar,2008,92,OWID
+Myanmar,2009,193,OWID
+Myanmar,2010,175,OWID
+Myanmar,2011,802,OWID
+Myanmar,2012,941,OWID
+Myanmar,2013,355,OWID
+Myanmar,2014,230,OWID
+Myanmar,2015,659,OWID
+Myanmar,2016,174,OWID
+Myanmar,2017,2381,OWID
+Myanmar,2018,99,OWID
+Myanmar,2019,558,OWID
+Myanmar,2020,168,OWID
+Myanmar,2021,1738,OWID
+Myanmar,2022,2738,OWID
+Myanmar,2023,3043,OWID
+Myanmar,2024,2859,OWID
+Myanmar,2025,2309,OWID
+Myanmar,2026,960,OWID
+Namibia,1989,361,OWID
+Namibia,1990,0,OWID
+Namibia,1991,0,OWID
+Namibia,1992,0,OWID
+Namibia,1993,0,OWID
+Namibia,1994,0,OWID
+Namibia,1995,0,OWID
+Namibia,1996,0,OWID
+Namibia,1997,0,OWID
+Namibia,1998,0,OWID
+Namibia,1999,1,OWID
+Namibia,2000,61,OWID
+Namibia,2001,0,OWID
+Namibia,2002,0,OWID
+Namibia,2003,0,OWID
+Namibia,2004,0,OWID
+Namibia,2005,0,OWID
+Namibia,2006,0,OWID
+Namibia,2007,0,OWID
+Namibia,2008,0,OWID
+Namibia,2009,0,OWID
+Namibia,2010,0,OWID
+Namibia,2011,0,OWID
+Namibia,2012,0,OWID
+Namibia,2013,0,OWID
+Namibia,2014,0,OWID
+Namibia,2015,0,OWID
+Namibia,2016,0,OWID
+Namibia,2017,0,OWID
+Namibia,2018,0,OWID
+Namibia,2019,0,OWID
+Namibia,2020,0,OWID
+Namibia,2021,0,OWID
+Namibia,2022,0,OWID
+Namibia,2023,0,OWID
+Namibia,2024,0,OWID
+Namibia,2025,0,OWID
+Namibia,2026,0,OWID
+Nauru,1989,0,OWID
+Nauru,1990,0,OWID
+Nauru,1991,0,OWID
+Nauru,1992,0,OWID
+Nauru,1993,0,OWID
+Nauru,1994,0,OWID
+Nauru,1995,0,OWID
+Nauru,1996,0,OWID
+Nauru,1997,0,OWID
+Nauru,1998,0,OWID
+Nauru,1999,0,OWID
+Nauru,2000,0,OWID
+Nauru,2001,0,OWID
+Nauru,2002,0,OWID
+Nauru,2003,0,OWID
+Nauru,2004,0,OWID
+Nauru,2005,0,OWID
+Nauru,2006,0,OWID
+Nauru,2007,0,OWID
+Nauru,2008,0,OWID
+Nauru,2009,0,OWID
+Nauru,2010,0,OWID
+Nauru,2011,0,OWID
+Nauru,2012,0,OWID
+Nauru,2013,0,OWID
+Nauru,2014,0,OWID
+Nauru,2015,0,OWID
+Nauru,2016,0,OWID
+Nauru,2017,0,OWID
+Nauru,2018,0,OWID
+Nauru,2019,0,OWID
+Nauru,2020,0,OWID
+Nauru,2021,0,OWID
+Nauru,2022,0,OWID
+Nauru,2023,0,OWID
+Nauru,2024,0,OWID
+Nauru,2025,0,OWID
+Nauru,2026,0,OWID
+Nepal,1989,0,OWID
+Nepal,1990,0,OWID
+Nepal,1991,2,OWID
+Nepal,1992,0,OWID
+Nepal,1993,0,OWID
+Nepal,1994,0,OWID
+Nepal,1995,0,OWID
+Nepal,1996,71,OWID
+Nepal,1997,40,OWID
+Nepal,1998,356,OWID
+Nepal,1999,295,OWID
+Nepal,2000,365,OWID
+Nepal,2001,569,OWID
+Nepal,2002,4432,OWID
+Nepal,2003,1732,OWID
+Nepal,2004,2456,OWID
+Nepal,2005,1399,OWID
+Nepal,2006,566,OWID
+Nepal,2007,30,OWID
+Nepal,2008,0,OWID
+Nepal,2009,0,OWID
+Nepal,2010,0,OWID
+Nepal,2011,0,OWID
+Nepal,2012,0,OWID
+Nepal,2013,0,OWID
+Nepal,2014,0,OWID
+Nepal,2015,0,OWID
+Nepal,2016,0,OWID
+Nepal,2017,0,OWID
+Nepal,2018,0,OWID
+Nepal,2019,0,OWID
+Nepal,2020,0,OWID
+Nepal,2021,0,OWID
+Nepal,2022,0,OWID
+Nepal,2023,0,OWID
+Nepal,2024,0,OWID
+Nepal,2025,0,OWID
+Nepal,2026,0,OWID
+Netherlands,1989,0,OWID
+Netherlands,1990,2,OWID
+Netherlands,1991,0,OWID
+Netherlands,1992,0,OWID
+Netherlands,1993,0,OWID
+Netherlands,1994,0,OWID
+Netherlands,1995,0,OWID
+Netherlands,1996,0,OWID
+Netherlands,1997,0,OWID
+Netherlands,1998,0,OWID
+Netherlands,1999,0,OWID
+Netherlands,2000,0,OWID
+Netherlands,2001,0,OWID
+Netherlands,2002,0,OWID
+Netherlands,2003,0,OWID
+Netherlands,2004,0,OWID
+Netherlands,2005,0,OWID
+Netherlands,2006,0,OWID
+Netherlands,2007,0,OWID
+Netherlands,2008,0,OWID
+Netherlands,2009,0,OWID
+Netherlands,2010,0,OWID
+Netherlands,2011,0,OWID
+Netherlands,2012,0,OWID
+Netherlands,2013,0,OWID
+Netherlands,2014,0,OWID
+Netherlands,2015,0,OWID
+Netherlands,2016,0,OWID
+Netherlands,2017,0,OWID
+Netherlands,2018,0,OWID
+Netherlands,2019,0,OWID
+Netherlands,2020,0,OWID
+Netherlands,2021,0,OWID
+Netherlands,2022,0,OWID
+Netherlands,2023,0,OWID
+Netherlands,2024,0,OWID
+Netherlands,2025,0,OWID
+Netherlands,2026,0,OWID
+New Zealand,1989,0,OWID
+New Zealand,1990,0,OWID
+New Zealand,1991,0,OWID
+New Zealand,1992,0,OWID
+New Zealand,1993,0,OWID
+New Zealand,1994,0,OWID
+New Zealand,1995,0,OWID
+New Zealand,1996,0,OWID
+New Zealand,1997,0,OWID
+New Zealand,1998,0,OWID
+New Zealand,1999,0,OWID
+New Zealand,2000,0,OWID
+New Zealand,2001,0,OWID
+New Zealand,2002,0,OWID
+New Zealand,2003,0,OWID
+New Zealand,2004,0,OWID
+New Zealand,2005,0,OWID
+New Zealand,2006,0,OWID
+New Zealand,2007,0,OWID
+New Zealand,2008,0,OWID
+New Zealand,2009,0,OWID
+New Zealand,2010,0,OWID
+New Zealand,2011,0,OWID
+New Zealand,2012,0,OWID
+New Zealand,2013,0,OWID
+New Zealand,2014,0,OWID
+New Zealand,2015,0,OWID
+New Zealand,2016,0,OWID
+New Zealand,2017,0,OWID
+New Zealand,2018,0,OWID
+New Zealand,2019,0,OWID
+New Zealand,2020,0,OWID
+New Zealand,2021,0,OWID
+New Zealand,2022,0,OWID
+New Zealand,2023,0,OWID
+New Zealand,2024,0,OWID
+New Zealand,2025,0,OWID
+New Zealand,2026,0,OWID
+Nicaragua,1989,526,OWID
+Nicaragua,1990,39,OWID
+Nicaragua,1991,0,OWID
+Nicaragua,1992,0,OWID
+Nicaragua,1993,0,OWID
+Nicaragua,1994,0,OWID
+Nicaragua,1995,0,OWID
+Nicaragua,1996,0,OWID
+Nicaragua,1997,0,OWID
+Nicaragua,1998,0,OWID
+Nicaragua,1999,0,OWID
+Nicaragua,2000,0,OWID
+Nicaragua,2001,0,OWID
+Nicaragua,2002,0,OWID
+Nicaragua,2003,0,OWID
+Nicaragua,2004,0,OWID
+Nicaragua,2005,0,OWID
+Nicaragua,2006,0,OWID
+Nicaragua,2007,0,OWID
+Nicaragua,2008,0,OWID
+Nicaragua,2009,0,OWID
+Nicaragua,2010,0,OWID
+Nicaragua,2011,0,OWID
+Nicaragua,2012,0,OWID
+Nicaragua,2013,0,OWID
+Nicaragua,2014,0,OWID
+Nicaragua,2015,0,OWID
+Nicaragua,2016,0,OWID
+Nicaragua,2017,0,OWID
+Nicaragua,2018,0,OWID
+Nicaragua,2019,0,OWID
+Nicaragua,2020,0,OWID
+Nicaragua,2021,0,OWID
+Nicaragua,2022,0,OWID
+Nicaragua,2023,0,OWID
+Nicaragua,2024,0,OWID
+Nicaragua,2025,0,OWID
+Nicaragua,2026,0,OWID
+Niger,1989,170,OWID
+Niger,1990,200,OWID
+Niger,1991,40,OWID
+Niger,1992,29,OWID
+Niger,1993,0,OWID
+Niger,1994,50,OWID
+Niger,1995,65,OWID
+Niger,1996,0,OWID
+Niger,1997,74,OWID
+Niger,1998,147,OWID
+Niger,1999,0,OWID
+Niger,2000,0,OWID
+Niger,2001,0,OWID
+Niger,2002,0,OWID
+Niger,2003,0,OWID
+Niger,2004,4,OWID
+Niger,2005,0,OWID
+Niger,2006,0,OWID
+Niger,2007,81,OWID
+Niger,2008,47,OWID
+Niger,2009,0,OWID
+Niger,2010,0,OWID
+Niger,2011,3,OWID
+Niger,2012,0,OWID
+Niger,2013,31,OWID
+Niger,2014,0,OWID
+Niger,2015,533,OWID
+Niger,2016,300,OWID
+Niger,2017,243,OWID
+Niger,2018,186,OWID
+Niger,2019,476,OWID
+Niger,2020,818,OWID
+Niger,2021,1134,OWID
+Niger,2022,664,OWID
+Niger,2023,474,OWID
+Niger,2024,1227,OWID
+Niger,2025,1111,OWID
+Niger,2026,642,OWID
+Nigeria,1989,0,OWID
+Nigeria,1990,80,OWID
+Nigeria,1991,380,OWID
+Nigeria,1992,942,OWID
+Nigeria,1993,1175,OWID
+Nigeria,1994,86,OWID
+Nigeria,1995,0,OWID
+Nigeria,1996,80,OWID
+Nigeria,1997,562,OWID
+Nigeria,1998,323,OWID
+Nigeria,1999,3521,OWID
+Nigeria,2000,2085,OWID
+Nigeria,2001,2362,OWID
+Nigeria,2002,585,OWID
+Nigeria,2003,426,OWID
+Nigeria,2004,2088,OWID
+Nigeria,2005,162,OWID
+Nigeria,2006,200,OWID
+Nigeria,2007,100,OWID
+Nigeria,2008,379,OWID
+Nigeria,2009,438,OWID
+Nigeria,2010,888,OWID
+Nigeria,2011,1821,OWID
+Nigeria,2012,1952,OWID
+Nigeria,2013,3339,OWID
+Nigeria,2014,10287,OWID
+Nigeria,2015,9093,OWID
+Nigeria,2016,3848,OWID
+Nigeria,2017,3480,OWID
+Nigeria,2018,3125,OWID
+Nigeria,2019,2295,OWID
+Nigeria,2020,2950,OWID
+Nigeria,2021,3156,OWID
+Nigeria,2022,2865,OWID
+Nigeria,2023,4063,OWID
+Nigeria,2024,3058,OWID
+Nigeria,2025,4021,OWID
+Nigeria,2026,2291,OWID
+North Korea,1989,0,OWID
+North Korea,1990,0,OWID
+North Korea,1991,0,OWID
+North Korea,1992,0,OWID
+North Korea,1993,0,OWID
+North Korea,1994,0,OWID
+North Korea,1995,0,OWID
+North Korea,1996,0,OWID
+North Korea,1997,0,OWID
+North Korea,1998,0,OWID
+North Korea,1999,0,OWID
+North Korea,2000,0,OWID
+North Korea,2001,0,OWID
+North Korea,2002,0,OWID
+North Korea,2003,0,OWID
+North Korea,2004,0,OWID
+North Korea,2005,0,OWID
+North Korea,2006,0,OWID
+North Korea,2007,0,OWID
+North Korea,2008,0,OWID
+North Korea,2009,0,OWID
+North Korea,2010,0,OWID
+North Korea,2011,0,OWID
+North Korea,2012,0,OWID
+North Korea,2013,0,OWID
+North Korea,2014,0,OWID
+North Korea,2015,0,OWID
+North Korea,2016,0,OWID
+North Korea,2017,0,OWID
+North Korea,2018,0,OWID
+North Korea,2019,0,OWID
+North Korea,2020,0,OWID
+North Korea,2021,0,OWID
+North Korea,2022,0,OWID
+North Korea,2023,0,OWID
+North Korea,2024,0,OWID
+North Korea,2025,0,OWID
+North Korea,2026,0,OWID
+North Macedonia,1989,0,OWID
+North Macedonia,1990,0,OWID
+North Macedonia,1991,0,OWID
+North Macedonia,1992,0,OWID
+North Macedonia,1993,0,OWID
+North Macedonia,1994,0,OWID
+North Macedonia,1995,0,OWID
+North Macedonia,1996,0,OWID
+North Macedonia,1997,0,OWID
+North Macedonia,1998,0,OWID
+North Macedonia,1999,9,OWID
+North Macedonia,2000,0,OWID
+North Macedonia,2001,72,OWID
+North Macedonia,2002,0,OWID
+North Macedonia,2003,0,OWID
+North Macedonia,2004,0,OWID
+North Macedonia,2005,0,OWID
+North Macedonia,2006,0,OWID
+North Macedonia,2007,0,OWID
+North Macedonia,2008,0,OWID
+North Macedonia,2009,0,OWID
+North Macedonia,2010,0,OWID
+North Macedonia,2011,0,OWID
+North Macedonia,2012,0,OWID
+North Macedonia,2013,0,OWID
+North Macedonia,2014,0,OWID
+North Macedonia,2015,0,OWID
+North Macedonia,2016,0,OWID
+North Macedonia,2017,0,OWID
+North Macedonia,2018,0,OWID
+North Macedonia,2019,0,OWID
+North Macedonia,2020,0,OWID
+North Macedonia,2021,0,OWID
+North Macedonia,2022,0,OWID
+North Macedonia,2023,0,OWID
+North Macedonia,2024,0,OWID
+North Macedonia,2025,0,OWID
+North Macedonia,2026,0,OWID
+Norway,1989,0,OWID
+Norway,1990,0,OWID
+Norway,1991,0,OWID
+Norway,1992,0,OWID
+Norway,1993,0,OWID
+Norway,1994,0,OWID
+Norway,1995,0,OWID
+Norway,1996,0,OWID
+Norway,1997,0,OWID
+Norway,1998,0,OWID
+Norway,1999,0,OWID
+Norway,2000,0,OWID
+Norway,2001,0,OWID
+Norway,2002,0,OWID
+Norway,2003,0,OWID
+Norway,2004,0,OWID
+Norway,2005,0,OWID
+Norway,2006,0,OWID
+Norway,2007,0,OWID
+Norway,2008,0,OWID
+Norway,2009,0,OWID
+Norway,2010,0,OWID
+Norway,2011,0,OWID
+Norway,2012,0,OWID
+Norway,2013,0,OWID
+Norway,2014,0,OWID
+Norway,2015,0,OWID
+Norway,2016,0,OWID
+Norway,2017,0,OWID
+Norway,2018,0,OWID
+Norway,2019,0,OWID
+Norway,2020,0,OWID
+Norway,2021,0,OWID
+Norway,2022,0,OWID
+Norway,2023,0,OWID
+Norway,2024,0,OWID
+Norway,2025,0,OWID
+Norway,2026,0,OWID
+Oman,1989,0,OWID
+Oman,1990,0,OWID
+Oman,1991,0,OWID
+Oman,1992,0,OWID
+Oman,1993,0,OWID
+Oman,1994,0,OWID
+Oman,1995,0,OWID
+Oman,1996,0,OWID
+Oman,1997,0,OWID
+Oman,1998,0,OWID
+Oman,1999,0,OWID
+Oman,2000,0,OWID
+Oman,2001,0,OWID
+Oman,2002,0,OWID
+Oman,2003,0,OWID
+Oman,2004,0,OWID
+Oman,2005,0,OWID
+Oman,2006,0,OWID
+Oman,2007,0,OWID
+Oman,2008,0,OWID
+Oman,2009,0,OWID
+Oman,2010,0,OWID
+Oman,2011,0,OWID
+Oman,2012,0,OWID
+Oman,2013,0,OWID
+Oman,2014,0,OWID
+Oman,2015,0,OWID
+Oman,2016,0,OWID
+Oman,2017,0,OWID
+Oman,2018,0,OWID
+Oman,2019,0,OWID
+Oman,2020,0,OWID
+Oman,2021,0,OWID
+Oman,2022,0,OWID
+Oman,2023,0,OWID
+Oman,2024,0,OWID
+Oman,2025,0,OWID
+Oman,2026,2,OWID
+Pakistan,1989,114,OWID
+Pakistan,1990,379,OWID
+Pakistan,1991,27,OWID
+Pakistan,1992,50,OWID
+Pakistan,1993,33,OWID
+Pakistan,1994,161,OWID
+Pakistan,1995,111,OWID
+Pakistan,1996,47,OWID
+Pakistan,1997,120,OWID
+Pakistan,1998,130,OWID
+Pakistan,1999,66,OWID
+Pakistan,2000,114,OWID
+Pakistan,2001,36,OWID
+Pakistan,2002,159,OWID
+Pakistan,2003,293,OWID
+Pakistan,2004,437,OWID
+Pakistan,2005,128,OWID
+Pakistan,2006,420,OWID
+Pakistan,2007,1377,OWID
+Pakistan,2008,4589,OWID
+Pakistan,2009,7489,OWID
+Pakistan,2010,7188,OWID
+Pakistan,2011,3441,OWID
+Pakistan,2012,3493,OWID
+Pakistan,2013,2826,OWID
+Pakistan,2014,3569,OWID
+Pakistan,2015,2366,OWID
+Pakistan,2016,1086,OWID
+Pakistan,2017,952,OWID
+Pakistan,2018,485,OWID
+Pakistan,2019,294,OWID
+Pakistan,2020,392,OWID
+Pakistan,2021,431,OWID
+Pakistan,2022,685,OWID
+Pakistan,2023,1161,OWID
+Pakistan,2024,1925,OWID
+Pakistan,2025,3308,OWID
+Pakistan,2026,1774,OWID
+Palau,1989,0,OWID
+Palau,1990,0,OWID
+Palau,1991,0,OWID
+Palau,1992,0,OWID
+Palau,1993,0,OWID
+Palau,1994,0,OWID
+Palau,1995,0,OWID
+Palau,1996,0,OWID
+Palau,1997,0,OWID
+Palau,1998,0,OWID
+Palau,1999,0,OWID
+Palau,2000,0,OWID
+Palau,2001,0,OWID
+Palau,2002,0,OWID
+Palau,2003,0,OWID
+Palau,2004,0,OWID
+Palau,2005,0,OWID
+Palau,2006,0,OWID
+Palau,2007,0,OWID
+Palau,2008,0,OWID
+Palau,2009,0,OWID
+Palau,2010,0,OWID
+Palau,2011,0,OWID
+Palau,2012,0,OWID
+Palau,2013,0,OWID
+Palau,2014,0,OWID
+Palau,2015,0,OWID
+Palau,2016,0,OWID
+Palau,2017,0,OWID
+Palau,2018,0,OWID
+Palau,2019,0,OWID
+Palau,2020,0,OWID
+Palau,2021,0,OWID
+Palau,2022,0,OWID
+Palau,2023,0,OWID
+Palau,2024,0,OWID
+Palau,2025,0,OWID
+Palau,2026,0,OWID
+Palestine,1989,59,OWID
+Palestine,1990,16,OWID
+Palestine,1991,12,OWID
+Palestine,1992,29,OWID
+Palestine,1993,31,OWID
+Palestine,1994,48,OWID
+Palestine,1995,9,OWID
+Palestine,1996,64,OWID
+Palestine,1997,0,OWID
+Palestine,1998,0,OWID
+Palestine,1999,0,OWID
+Palestine,2000,75,OWID
+Palestine,2001,224,OWID
+Palestine,2002,577,OWID
+Palestine,2003,285,OWID
+Palestine,2004,396,OWID
+Palestine,2005,138,OWID
+Palestine,2006,426,OWID
+Palestine,2007,494,OWID
+Palestine,2008,650,OWID
+Palestine,2009,717,OWID
+Palestine,2010,25,OWID
+Palestine,2011,77,OWID
+Palestine,2012,235,OWID
+Palestine,2013,0,OWID
+Palestine,2014,2327,OWID
+Palestine,2015,0,OWID
+Palestine,2016,0,OWID
+Palestine,2017,0,OWID
+Palestine,2018,51,OWID
+Palestine,2019,48,OWID
+Palestine,2020,0,OWID
+Palestine,2021,252,OWID
+Palestine,2022,84,OWID
+Palestine,2023,26228,OWID
+Palestine,2024,21542,OWID
+Palestine,2025,14505,OWID
+Palestine,2026,754,OWID
+Panama,1989,920,OWID
+Panama,1990,0,OWID
+Panama,1991,0,OWID
+Panama,1992,0,OWID
+Panama,1993,0,OWID
+Panama,1994,0,OWID
+Panama,1995,0,OWID
+Panama,1996,0,OWID
+Panama,1997,0,OWID
+Panama,1998,0,OWID
+Panama,1999,0,OWID
+Panama,2000,0,OWID
+Panama,2001,0,OWID
+Panama,2002,0,OWID
+Panama,2003,0,OWID
+Panama,2004,0,OWID
+Panama,2005,0,OWID
+Panama,2006,0,OWID
+Panama,2007,0,OWID
+Panama,2008,0,OWID
+Panama,2009,1,OWID
+Panama,2010,0,OWID
+Panama,2011,0,OWID
+Panama,2012,0,OWID
+Panama,2013,0,OWID
+Panama,2014,0,OWID
+Panama,2015,0,OWID
+Panama,2016,0,OWID
+Panama,2017,0,OWID
+Panama,2018,0,OWID
+Panama,2019,0,OWID
+Panama,2020,0,OWID
+Panama,2021,0,OWID
+Panama,2022,0,OWID
+Panama,2023,0,OWID
+Panama,2024,0,OWID
+Panama,2025,0,OWID
+Panama,2026,0,OWID
+Papua New Guinea,1989,0,OWID
+Papua New Guinea,1990,55,OWID
+Papua New Guinea,1991,0,OWID
+Papua New Guinea,1992,60,OWID
+Papua New Guinea,1993,34,OWID
+Papua New Guinea,1994,26,OWID
+Papua New Guinea,1995,29,OWID
+Papua New Guinea,1996,106,OWID
+Papua New Guinea,1997,0,OWID
+Papua New Guinea,1998,40,OWID
+Papua New Guinea,1999,60,OWID
+Papua New Guinea,2000,0,OWID
+Papua New Guinea,2001,61,OWID
+Papua New Guinea,2002,0,OWID
+Papua New Guinea,2003,0,OWID
+Papua New Guinea,2004,0,OWID
+Papua New Guinea,2005,0,OWID
+Papua New Guinea,2006,0,OWID
+Papua New Guinea,2007,0,OWID
+Papua New Guinea,2008,0,OWID
+Papua New Guinea,2009,0,OWID
+Papua New Guinea,2010,0,OWID
+Papua New Guinea,2011,0,OWID
+Papua New Guinea,2012,57,OWID
+Papua New Guinea,2013,0,OWID
+Papua New Guinea,2014,0,OWID
+Papua New Guinea,2015,0,OWID
+Papua New Guinea,2016,0,OWID
+Papua New Guinea,2017,0,OWID
+Papua New Guinea,2018,0,OWID
+Papua New Guinea,2019,30,OWID
+Papua New Guinea,2020,0,OWID
+Papua New Guinea,2021,38,OWID
+Papua New Guinea,2022,104,OWID
+Papua New Guinea,2023,66,OWID
+Papua New Guinea,2024,130,OWID
+Papua New Guinea,2025,31,OWID
+Papua New Guinea,2026,0,OWID
+Paraguay,1989,150,OWID
+Paraguay,1990,0,OWID
+Paraguay,1991,0,OWID
+Paraguay,1992,0,OWID
+Paraguay,1993,0,OWID
+Paraguay,1994,0,OWID
+Paraguay,1995,0,OWID
+Paraguay,1996,0,OWID
+Paraguay,1997,0,OWID
+Paraguay,1998,0,OWID
+Paraguay,1999,0,OWID
+Paraguay,2000,0,OWID
+Paraguay,2001,0,OWID
+Paraguay,2002,0,OWID
+Paraguay,2003,0,OWID
+Paraguay,2004,0,OWID
+Paraguay,2005,0,OWID
+Paraguay,2006,0,OWID
+Paraguay,2007,0,OWID
+Paraguay,2008,0,OWID
+Paraguay,2009,0,OWID
+Paraguay,2010,0,OWID
+Paraguay,2011,0,OWID
+Paraguay,2012,0,OWID
+Paraguay,2013,0,OWID
+Paraguay,2014,0,OWID
+Paraguay,2015,0,OWID
+Paraguay,2016,1,OWID
+Paraguay,2017,0,OWID
+Paraguay,2018,0,OWID
+Paraguay,2019,0,OWID
+Paraguay,2020,0,OWID
+Paraguay,2021,0,OWID
+Paraguay,2022,0,OWID
+Paraguay,2023,0,OWID
+Paraguay,2024,0,OWID
+Paraguay,2025,0,OWID
+Paraguay,2026,0,OWID
+Peru,1989,1917,OWID
+Peru,1990,1222,OWID
+Peru,1991,1334,OWID
+Peru,1992,1181,OWID
+Peru,1993,779,OWID
+Peru,1994,325,OWID
+Peru,1995,266,OWID
+Peru,1996,80,OWID
+Peru,1997,93,OWID
+Peru,1998,25,OWID
+Peru,1999,75,OWID
+Peru,2000,0,OWID
+Peru,2001,0,OWID
+Peru,2002,0,OWID
+Peru,2003,0,OWID
+Peru,2004,0,OWID
+Peru,2005,0,OWID
+Peru,2006,0,OWID
+Peru,2007,32,OWID
+Peru,2008,40,OWID
+Peru,2009,50,OWID
+Peru,2010,28,OWID
+Peru,2011,0,OWID
+Peru,2012,0,OWID
+Peru,2013,0,OWID
+Peru,2014,0,OWID
+Peru,2015,0,OWID
+Peru,2016,0,OWID
+Peru,2017,0,OWID
+Peru,2018,0,OWID
+Peru,2019,0,OWID
+Peru,2020,5,OWID
+Peru,2021,0,OWID
+Peru,2022,0,OWID
+Peru,2023,0,OWID
+Peru,2024,0,OWID
+Peru,2025,0,OWID
+Peru,2026,0,OWID
+Philippines,1989,937,OWID
+Philippines,1990,1351,OWID
+Philippines,1991,1545,OWID
+Philippines,1992,430,OWID
+Philippines,1993,296,OWID
+Philippines,1994,265,OWID
+Philippines,1995,177,OWID
+Philippines,1996,180,OWID
+Philippines,1997,302,OWID
+Philippines,1998,123,OWID
+Philippines,1999,199,OWID
+Philippines,2000,1739,OWID
+Philippines,2001,1034,OWID
+Philippines,2002,700,OWID
+Philippines,2003,1126,OWID
+Philippines,2004,461,OWID
+Philippines,2005,470,OWID
+Philippines,2006,385,OWID
+Philippines,2007,470,OWID
+Philippines,2008,520,OWID
+Philippines,2009,996,OWID
+Philippines,2010,357,OWID
+Philippines,2011,381,OWID
+Philippines,2012,295,OWID
+Philippines,2013,514,OWID
+Philippines,2014,470,OWID
+Philippines,2015,606,OWID
+Philippines,2016,597,OWID
+Philippines,2017,1690,OWID
+Philippines,2018,432,OWID
+Philippines,2019,331,OWID
+Philippines,2020,373,OWID
+Philippines,2021,266,OWID
+Philippines,2022,221,OWID
+Philippines,2023,249,OWID
+Philippines,2024,176,OWID
+Philippines,2025,144,OWID
+Philippines,2026,74,OWID
+Poland,1989,0,OWID
+Poland,1990,0,OWID
+Poland,1991,0,OWID
+Poland,1992,0,OWID
+Poland,1993,0,OWID
+Poland,1994,0,OWID
+Poland,1995,0,OWID
+Poland,1996,0,OWID
+Poland,1997,0,OWID
+Poland,1998,0,OWID
+Poland,1999,0,OWID
+Poland,2000,0,OWID
+Poland,2001,0,OWID
+Poland,2002,0,OWID
+Poland,2003,0,OWID
+Poland,2004,0,OWID
+Poland,2005,0,OWID
+Poland,2006,0,OWID
+Poland,2007,0,OWID
+Poland,2008,0,OWID
+Poland,2009,0,OWID
+Poland,2010,0,OWID
+Poland,2011,0,OWID
+Poland,2012,0,OWID
+Poland,2013,0,OWID
+Poland,2014,0,OWID
+Poland,2015,0,OWID
+Poland,2016,0,OWID
+Poland,2017,0,OWID
+Poland,2018,0,OWID
+Poland,2019,0,OWID
+Poland,2020,0,OWID
+Poland,2021,0,OWID
+Poland,2022,2,OWID
+Poland,2023,0,OWID
+Poland,2024,0,OWID
+Poland,2025,0,OWID
+Poland,2026,0,OWID
+Portugal,1989,0,OWID
+Portugal,1990,0,OWID
+Portugal,1991,0,OWID
+Portugal,1992,0,OWID
+Portugal,1993,0,OWID
+Portugal,1994,0,OWID
+Portugal,1995,0,OWID
+Portugal,1996,0,OWID
+Portugal,1997,0,OWID
+Portugal,1998,0,OWID
+Portugal,1999,0,OWID
+Portugal,2000,0,OWID
+Portugal,2001,0,OWID
+Portugal,2002,0,OWID
+Portugal,2003,0,OWID
+Portugal,2004,0,OWID
+Portugal,2005,0,OWID
+Portugal,2006,0,OWID
+Portugal,2007,0,OWID
+Portugal,2008,0,OWID
+Portugal,2009,0,OWID
+Portugal,2010,0,OWID
+Portugal,2011,0,OWID
+Portugal,2012,0,OWID
+Portugal,2013,0,OWID
+Portugal,2014,0,OWID
+Portugal,2015,0,OWID
+Portugal,2016,0,OWID
+Portugal,2017,0,OWID
+Portugal,2018,0,OWID
+Portugal,2019,0,OWID
+Portugal,2020,0,OWID
+Portugal,2021,0,OWID
+Portugal,2022,0,OWID
+Portugal,2023,0,OWID
+Portugal,2024,0,OWID
+Portugal,2025,0,OWID
+Portugal,2026,0,OWID
+Qatar,1989,0,OWID
+Qatar,1990,0,OWID
+Qatar,1991,0,OWID
+Qatar,1992,0,OWID
+Qatar,1993,0,OWID
+Qatar,1994,0,OWID
+Qatar,1995,0,OWID
+Qatar,1996,0,OWID
+Qatar,1997,0,OWID
+Qatar,1998,0,OWID
+Qatar,1999,0,OWID
+Qatar,2000,0,OWID
+Qatar,2001,0,OWID
+Qatar,2002,0,OWID
+Qatar,2003,0,OWID
+Qatar,2004,0,OWID
+Qatar,2005,0,OWID
+Qatar,2006,0,OWID
+Qatar,2007,0,OWID
+Qatar,2008,0,OWID
+Qatar,2009,0,OWID
+Qatar,2010,0,OWID
+Qatar,2011,0,OWID
+Qatar,2012,0,OWID
+Qatar,2013,0,OWID
+Qatar,2014,0,OWID
+Qatar,2015,0,OWID
+Qatar,2016,0,OWID
+Qatar,2017,0,OWID
+Qatar,2018,0,OWID
+Qatar,2019,0,OWID
+Qatar,2020,0,OWID
+Qatar,2021,0,OWID
+Qatar,2022,0,OWID
+Qatar,2023,0,OWID
+Qatar,2024,0,OWID
+Qatar,2025,6,OWID
+Qatar,2026,0,OWID
+Romania,1989,448,OWID
+Romania,1990,0,OWID
+Romania,1991,0,OWID
+Romania,1992,0,OWID
+Romania,1993,0,OWID
+Romania,1994,0,OWID
+Romania,1995,0,OWID
+Romania,1996,0,OWID
+Romania,1997,0,OWID
+Romania,1998,0,OWID
+Romania,1999,0,OWID
+Romania,2000,0,OWID
+Romania,2001,0,OWID
+Romania,2002,0,OWID
+Romania,2003,0,OWID
+Romania,2004,0,OWID
+Romania,2005,0,OWID
+Romania,2006,0,OWID
+Romania,2007,0,OWID
+Romania,2008,0,OWID
+Romania,2009,0,OWID
+Romania,2010,0,OWID
+Romania,2011,0,OWID
+Romania,2012,0,OWID
+Romania,2013,0,OWID
+Romania,2014,0,OWID
+Romania,2015,0,OWID
+Romania,2016,0,OWID
+Romania,2017,0,OWID
+Romania,2018,0,OWID
+Romania,2019,0,OWID
+Romania,2020,0,OWID
+Romania,2021,0,OWID
+Romania,2022,0,OWID
+Romania,2023,0,OWID
+Romania,2024,0,OWID
+Romania,2025,0,OWID
+Romania,2026,0,OWID
+Russia,1989,0,OWID
+Russia,1990,0,OWID
+Russia,1991,0,OWID
+Russia,1992,0,OWID
+Russia,1993,145,OWID
+Russia,1994,473,OWID
+Russia,1995,1891,OWID
+Russia,1996,2763,OWID
+Russia,1997,0,OWID
+Russia,1998,0,OWID
+Russia,1999,6197,OWID
+Russia,2000,4318,OWID
+Russia,2001,979,OWID
+Russia,2002,1493,OWID
+Russia,2003,548,OWID
+Russia,2004,1300,OWID
+Russia,2005,682,OWID
+Russia,2006,259,OWID
+Russia,2007,176,OWID
+Russia,2008,404,OWID
+Russia,2009,697,OWID
+Russia,2010,476,OWID
+Russia,2011,396,OWID
+Russia,2012,516,OWID
+Russia,2013,361,OWID
+Russia,2014,174,OWID
+Russia,2015,86,OWID
+Russia,2016,70,OWID
+Russia,2017,53,OWID
+Russia,2018,36,OWID
+Russia,2019,26,OWID
+Russia,2020,32,OWID
+Russia,2021,0,OWID
+Russia,2022,65,OWID
+Russia,2023,197,OWID
+Russia,2024,10585,OWID
+Russia,2025,4420,OWID
+Russia,2026,211,OWID
+Rwanda,1989,0,OWID
+Rwanda,1990,2647,OWID
+Rwanda,1991,1085,OWID
+Rwanda,1992,647,OWID
+Rwanda,1993,977,OWID
+Rwanda,1994,772413,OWID
+Rwanda,1995,4230,OWID
+Rwanda,1996,876,OWID
+Rwanda,1997,7201,OWID
+Rwanda,1998,1774,OWID
+Rwanda,1999,44,OWID
+Rwanda,2000,0,OWID
+Rwanda,2001,2054,OWID
+Rwanda,2002,0,OWID
+Rwanda,2003,0,OWID
+Rwanda,2004,0,OWID
+Rwanda,2005,0,OWID
+Rwanda,2006,0,OWID
+Rwanda,2007,0,OWID
+Rwanda,2008,0,OWID
+Rwanda,2009,2,OWID
+Rwanda,2010,0,OWID
+Rwanda,2011,0,OWID
+Rwanda,2012,13,OWID
+Rwanda,2013,1,OWID
+Rwanda,2014,0,OWID
+Rwanda,2015,0,OWID
+Rwanda,2016,27,OWID
+Rwanda,2017,0,OWID
+Rwanda,2018,9,OWID
+Rwanda,2019,19,OWID
+Rwanda,2020,0,OWID
+Rwanda,2021,0,OWID
+Rwanda,2022,4,OWID
+Rwanda,2023,0,OWID
+Rwanda,2024,1,OWID
+Rwanda,2025,1,OWID
+Rwanda,2026,0,OWID
+Saint Kitts and Nevis,1989,0,OWID
+Saint Kitts and Nevis,1990,0,OWID
+Saint Kitts and Nevis,1991,0,OWID
+Saint Kitts and Nevis,1992,0,OWID
+Saint Kitts and Nevis,1993,0,OWID
+Saint Kitts and Nevis,1994,0,OWID
+Saint Kitts and Nevis,1995,0,OWID
+Saint Kitts and Nevis,1996,0,OWID
+Saint Kitts and Nevis,1997,0,OWID
+Saint Kitts and Nevis,1998,0,OWID
+Saint Kitts and Nevis,1999,0,OWID
+Saint Kitts and Nevis,2000,0,OWID
+Saint Kitts and Nevis,2001,0,OWID
+Saint Kitts and Nevis,2002,0,OWID
+Saint Kitts and Nevis,2003,0,OWID
+Saint Kitts and Nevis,2004,0,OWID
+Saint Kitts and Nevis,2005,0,OWID
+Saint Kitts and Nevis,2006,0,OWID
+Saint Kitts and Nevis,2007,0,OWID
+Saint Kitts and Nevis,2008,0,OWID
+Saint Kitts and Nevis,2009,0,OWID
+Saint Kitts and Nevis,2010,0,OWID
+Saint Kitts and Nevis,2011,0,OWID
+Saint Kitts and Nevis,2012,0,OWID
+Saint Kitts and Nevis,2013,0,OWID
+Saint Kitts and Nevis,2014,0,OWID
+Saint Kitts and Nevis,2015,0,OWID
+Saint Kitts and Nevis,2016,0,OWID
+Saint Kitts and Nevis,2017,0,OWID
+Saint Kitts and Nevis,2018,0,OWID
+Saint Kitts and Nevis,2019,0,OWID
+Saint Kitts and Nevis,2020,0,OWID
+Saint Kitts and Nevis,2021,0,OWID
+Saint Kitts and Nevis,2022,0,OWID
+Saint Kitts and Nevis,2023,0,OWID
+Saint Kitts and Nevis,2024,0,OWID
+Saint Kitts and Nevis,2025,0,OWID
+Saint Kitts and Nevis,2026,0,OWID
+Saint Lucia,1989,0,OWID
+Saint Lucia,1990,0,OWID
+Saint Lucia,1991,0,OWID
+Saint Lucia,1992,0,OWID
+Saint Lucia,1993,0,OWID
+Saint Lucia,1994,0,OWID
+Saint Lucia,1995,0,OWID
+Saint Lucia,1996,0,OWID
+Saint Lucia,1997,0,OWID
+Saint Lucia,1998,0,OWID
+Saint Lucia,1999,0,OWID
+Saint Lucia,2000,0,OWID
+Saint Lucia,2001,0,OWID
+Saint Lucia,2002,0,OWID
+Saint Lucia,2003,0,OWID
+Saint Lucia,2004,0,OWID
+Saint Lucia,2005,0,OWID
+Saint Lucia,2006,0,OWID
+Saint Lucia,2007,0,OWID
+Saint Lucia,2008,0,OWID
+Saint Lucia,2009,0,OWID
+Saint Lucia,2010,0,OWID
+Saint Lucia,2011,0,OWID
+Saint Lucia,2012,0,OWID
+Saint Lucia,2013,0,OWID
+Saint Lucia,2014,0,OWID
+Saint Lucia,2015,0,OWID
+Saint Lucia,2016,0,OWID
+Saint Lucia,2017,0,OWID
+Saint Lucia,2018,0,OWID
+Saint Lucia,2019,0,OWID
+Saint Lucia,2020,0,OWID
+Saint Lucia,2021,0,OWID
+Saint Lucia,2022,0,OWID
+Saint Lucia,2023,0,OWID
+Saint Lucia,2024,0,OWID
+Saint Lucia,2025,0,OWID
+Saint Lucia,2026,0,OWID
+Saint Vincent and the Grenadines,1989,0,OWID
+Saint Vincent and the Grenadines,1990,0,OWID
+Saint Vincent and the Grenadines,1991,0,OWID
+Saint Vincent and the Grenadines,1992,0,OWID
+Saint Vincent and the Grenadines,1993,0,OWID
+Saint Vincent and the Grenadines,1994,0,OWID
+Saint Vincent and the Grenadines,1995,0,OWID
+Saint Vincent and the Grenadines,1996,0,OWID
+Saint Vincent and the Grenadines,1997,0,OWID
+Saint Vincent and the Grenadines,1998,0,OWID
+Saint Vincent and the Grenadines,1999,0,OWID
+Saint Vincent and the Grenadines,2000,0,OWID
+Saint Vincent and the Grenadines,2001,0,OWID
+Saint Vincent and the Grenadines,2002,0,OWID
+Saint Vincent and the Grenadines,2003,0,OWID
+Saint Vincent and the Grenadines,2004,0,OWID
+Saint Vincent and the Grenadines,2005,0,OWID
+Saint Vincent and the Grenadines,2006,0,OWID
+Saint Vincent and the Grenadines,2007,0,OWID
+Saint Vincent and the Grenadines,2008,0,OWID
+Saint Vincent and the Grenadines,2009,0,OWID
+Saint Vincent and the Grenadines,2010,0,OWID
+Saint Vincent and the Grenadines,2011,0,OWID
+Saint Vincent and the Grenadines,2012,0,OWID
+Saint Vincent and the Grenadines,2013,0,OWID
+Saint Vincent and the Grenadines,2014,0,OWID
+Saint Vincent and the Grenadines,2015,0,OWID
+Saint Vincent and the Grenadines,2016,0,OWID
+Saint Vincent and the Grenadines,2017,0,OWID
+Saint Vincent and the Grenadines,2018,0,OWID
+Saint Vincent and the Grenadines,2019,0,OWID
+Saint Vincent and the Grenadines,2020,0,OWID
+Saint Vincent and the Grenadines,2021,0,OWID
+Saint Vincent and the Grenadines,2022,0,OWID
+Saint Vincent and the Grenadines,2023,0,OWID
+Saint Vincent and the Grenadines,2024,0,OWID
+Saint Vincent and the Grenadines,2025,0,OWID
+Saint Vincent and the Grenadines,2026,0,OWID
+Samoa,1989,0,OWID
+Samoa,1990,0,OWID
+Samoa,1991,0,OWID
+Samoa,1992,0,OWID
+Samoa,1993,0,OWID
+Samoa,1994,0,OWID
+Samoa,1995,0,OWID
+Samoa,1996,0,OWID
+Samoa,1997,0,OWID
+Samoa,1998,0,OWID
+Samoa,1999,0,OWID
+Samoa,2000,0,OWID
+Samoa,2001,0,OWID
+Samoa,2002,0,OWID
+Samoa,2003,0,OWID
+Samoa,2004,0,OWID
+Samoa,2005,0,OWID
+Samoa,2006,0,OWID
+Samoa,2007,0,OWID
+Samoa,2008,0,OWID
+Samoa,2009,0,OWID
+Samoa,2010,0,OWID
+Samoa,2011,0,OWID
+Samoa,2012,0,OWID
+Samoa,2013,0,OWID
+Samoa,2014,0,OWID
+Samoa,2015,0,OWID
+Samoa,2016,0,OWID
+Samoa,2017,0,OWID
+Samoa,2018,0,OWID
+Samoa,2019,0,OWID
+Samoa,2020,0,OWID
+Samoa,2021,0,OWID
+Samoa,2022,0,OWID
+Samoa,2023,0,OWID
+Samoa,2024,0,OWID
+Samoa,2025,0,OWID
+Samoa,2026,0,OWID
+San Marino,1989,0,OWID
+San Marino,1990,0,OWID
+San Marino,1991,0,OWID
+San Marino,1992,0,OWID
+San Marino,1993,0,OWID
+San Marino,1994,0,OWID
+San Marino,1995,0,OWID
+San Marino,1996,0,OWID
+San Marino,1997,0,OWID
+San Marino,1998,0,OWID
+San Marino,1999,0,OWID
+San Marino,2000,0,OWID
+San Marino,2001,0,OWID
+San Marino,2002,0,OWID
+San Marino,2003,0,OWID
+San Marino,2004,0,OWID
+San Marino,2005,0,OWID
+San Marino,2006,0,OWID
+San Marino,2007,0,OWID
+San Marino,2008,0,OWID
+San Marino,2009,0,OWID
+San Marino,2010,0,OWID
+San Marino,2011,0,OWID
+San Marino,2012,0,OWID
+San Marino,2013,0,OWID
+San Marino,2014,0,OWID
+San Marino,2015,0,OWID
+San Marino,2016,0,OWID
+San Marino,2017,0,OWID
+San Marino,2018,0,OWID
+San Marino,2019,0,OWID
+San Marino,2020,0,OWID
+San Marino,2021,0,OWID
+San Marino,2022,0,OWID
+San Marino,2023,0,OWID
+San Marino,2024,0,OWID
+San Marino,2025,0,OWID
+San Marino,2026,0,OWID
+Sao Tome and Principe,1989,0,OWID
+Sao Tome and Principe,1990,0,OWID
+Sao Tome and Principe,1991,0,OWID
+Sao Tome and Principe,1992,0,OWID
+Sao Tome and Principe,1993,0,OWID
+Sao Tome and Principe,1994,0,OWID
+Sao Tome and Principe,1995,0,OWID
+Sao Tome and Principe,1996,0,OWID
+Sao Tome and Principe,1997,0,OWID
+Sao Tome and Principe,1998,0,OWID
+Sao Tome and Principe,1999,0,OWID
+Sao Tome and Principe,2000,0,OWID
+Sao Tome and Principe,2001,0,OWID
+Sao Tome and Principe,2002,0,OWID
+Sao Tome and Principe,2003,0,OWID
+Sao Tome and Principe,2004,0,OWID
+Sao Tome and Principe,2005,0,OWID
+Sao Tome and Principe,2006,0,OWID
+Sao Tome and Principe,2007,0,OWID
+Sao Tome and Principe,2008,0,OWID
+Sao Tome and Principe,2009,0,OWID
+Sao Tome and Principe,2010,0,OWID
+Sao Tome and Principe,2011,0,OWID
+Sao Tome and Principe,2012,0,OWID
+Sao Tome and Principe,2013,0,OWID
+Sao Tome and Principe,2014,0,OWID
+Sao Tome and Principe,2015,0,OWID
+Sao Tome and Principe,2016,0,OWID
+Sao Tome and Principe,2017,0,OWID
+Sao Tome and Principe,2018,0,OWID
+Sao Tome and Principe,2019,0,OWID
+Sao Tome and Principe,2020,0,OWID
+Sao Tome and Principe,2021,0,OWID
+Sao Tome and Principe,2022,0,OWID
+Sao Tome and Principe,2023,0,OWID
+Sao Tome and Principe,2024,0,OWID
+Sao Tome and Principe,2025,0,OWID
+Sao Tome and Principe,2026,0,OWID
+Saudi Arabia,1989,0,OWID
+Saudi Arabia,1990,0,OWID
+Saudi Arabia,1991,96,OWID
+Saudi Arabia,1992,0,OWID
+Saudi Arabia,1993,0,OWID
+Saudi Arabia,1994,0,OWID
+Saudi Arabia,1995,0,OWID
+Saudi Arabia,1996,0,OWID
+Saudi Arabia,1997,0,OWID
+Saudi Arabia,1998,0,OWID
+Saudi Arabia,1999,0,OWID
+Saudi Arabia,2000,0,OWID
+Saudi Arabia,2001,0,OWID
+Saudi Arabia,2002,0,OWID
+Saudi Arabia,2003,26,OWID
+Saudi Arabia,2004,91,OWID
+Saudi Arabia,2005,31,OWID
+Saudi Arabia,2006,11,OWID
+Saudi Arabia,2007,2,OWID
+Saudi Arabia,2008,0,OWID
+Saudi Arabia,2009,0,OWID
+Saudi Arabia,2010,0,OWID
+Saudi Arabia,2011,0,OWID
+Saudi Arabia,2012,0,OWID
+Saudi Arabia,2013,0,OWID
+Saudi Arabia,2014,0,OWID
+Saudi Arabia,2015,120,OWID
+Saudi Arabia,2016,125,OWID
+Saudi Arabia,2017,56,OWID
+Saudi Arabia,2018,11,OWID
+Saudi Arabia,2019,7,OWID
+Saudi Arabia,2020,0,OWID
+Saudi Arabia,2021,6,OWID
+Saudi Arabia,2022,0,OWID
+Saudi Arabia,2023,9,OWID
+Saudi Arabia,2024,0,OWID
+Saudi Arabia,2025,5,OWID
+Saudi Arabia,2026,5,OWID
+Senegal,1989,128,OWID
+Senegal,1990,60,OWID
+Senegal,1991,0,OWID
+Senegal,1992,127,OWID
+Senegal,1993,282,OWID
+Senegal,1994,0,OWID
+Senegal,1995,299,OWID
+Senegal,1996,0,OWID
+Senegal,1997,358,OWID
+Senegal,1998,336,OWID
+Senegal,1999,0,OWID
+Senegal,2000,47,OWID
+Senegal,2001,0,OWID
+Senegal,2002,25,OWID
+Senegal,2003,39,OWID
+Senegal,2004,0,OWID
+Senegal,2005,45,OWID
+Senegal,2006,124,OWID
+Senegal,2007,0,OWID
+Senegal,2008,0,OWID
+Senegal,2009,0,OWID
+Senegal,2010,0,OWID
+Senegal,2011,25,OWID
+Senegal,2012,0,OWID
+Senegal,2013,0,OWID
+Senegal,2014,0,OWID
+Senegal,2015,0,OWID
+Senegal,2016,0,OWID
+Senegal,2017,0,OWID
+Senegal,2018,0,OWID
+Senegal,2019,0,OWID
+Senegal,2020,0,OWID
+Senegal,2021,0,OWID
+Senegal,2022,0,OWID
+Senegal,2023,0,OWID
+Senegal,2024,0,OWID
+Senegal,2025,0,OWID
+Senegal,2026,0,OWID
+Serbia,1989,0,OWID
+Serbia,1990,0,OWID
+Serbia,1991,32,OWID
+Serbia,1992,0,OWID
+Serbia,1993,0,OWID
+Serbia,1994,0,OWID
+Serbia,1995,0,OWID
+Serbia,1996,0,OWID
+Serbia,1997,0,OWID
+Serbia,1998,12,OWID
+Serbia,1999,849,OWID
+Serbia,2000,0,OWID
+Serbia,2001,0,OWID
+Serbia,2002,0,OWID
+Serbia,2003,0,OWID
+Serbia,2004,0,OWID
+Serbia,2005,0,OWID
+Serbia,2006,0,OWID
+Serbia,2007,0,OWID
+Serbia,2008,0,OWID
+Serbia,2009,0,OWID
+Serbia,2010,0,OWID
+Serbia,2011,0,OWID
+Serbia,2012,0,OWID
+Serbia,2013,0,OWID
+Serbia,2014,0,OWID
+Serbia,2015,0,OWID
+Serbia,2016,0,OWID
+Serbia,2017,0,OWID
+Serbia,2018,0,OWID
+Serbia,2019,0,OWID
+Serbia,2020,0,OWID
+Serbia,2021,0,OWID
+Serbia,2022,0,OWID
+Serbia,2023,0,OWID
+Serbia,2024,0,OWID
+Serbia,2025,0,OWID
+Serbia,2026,0,OWID
+Seychelles,1989,0,OWID
+Seychelles,1990,0,OWID
+Seychelles,1991,0,OWID
+Seychelles,1992,0,OWID
+Seychelles,1993,0,OWID
+Seychelles,1994,0,OWID
+Seychelles,1995,0,OWID
+Seychelles,1996,0,OWID
+Seychelles,1997,0,OWID
+Seychelles,1998,0,OWID
+Seychelles,1999,0,OWID
+Seychelles,2000,0,OWID
+Seychelles,2001,0,OWID
+Seychelles,2002,0,OWID
+Seychelles,2003,0,OWID
+Seychelles,2004,0,OWID
+Seychelles,2005,0,OWID
+Seychelles,2006,0,OWID
+Seychelles,2007,0,OWID
+Seychelles,2008,0,OWID
+Seychelles,2009,0,OWID
+Seychelles,2010,0,OWID
+Seychelles,2011,0,OWID
+Seychelles,2012,0,OWID
+Seychelles,2013,0,OWID
+Seychelles,2014,0,OWID
+Seychelles,2015,0,OWID
+Seychelles,2016,0,OWID
+Seychelles,2017,0,OWID
+Seychelles,2018,0,OWID
+Seychelles,2019,0,OWID
+Seychelles,2020,0,OWID
+Seychelles,2021,0,OWID
+Seychelles,2022,0,OWID
+Seychelles,2023,0,OWID
+Seychelles,2024,0,OWID
+Seychelles,2025,0,OWID
+Seychelles,2026,0,OWID
+Sierra Leone,1989,0,OWID
+Sierra Leone,1990,0,OWID
+Sierra Leone,1991,1222,OWID
+Sierra Leone,1992,518,OWID
+Sierra Leone,1993,639,OWID
+Sierra Leone,1994,2070,OWID
+Sierra Leone,1995,3194,OWID
+Sierra Leone,1996,920,OWID
+Sierra Leone,1997,1218,OWID
+Sierra Leone,1998,5141,OWID
+Sierra Leone,1999,4504,OWID
+Sierra Leone,2000,850,OWID
+Sierra Leone,2001,50,OWID
+Sierra Leone,2002,1,OWID
+Sierra Leone,2003,0,OWID
+Sierra Leone,2004,0,OWID
+Sierra Leone,2005,0,OWID
+Sierra Leone,2006,0,OWID
+Sierra Leone,2007,0,OWID
+Sierra Leone,2008,0,OWID
+Sierra Leone,2009,0,OWID
+Sierra Leone,2010,0,OWID
+Sierra Leone,2011,0,OWID
+Sierra Leone,2012,0,OWID
+Sierra Leone,2013,0,OWID
+Sierra Leone,2014,0,OWID
+Sierra Leone,2015,0,OWID
+Sierra Leone,2016,0,OWID
+Sierra Leone,2017,0,OWID
+Sierra Leone,2018,0,OWID
+Sierra Leone,2019,0,OWID
+Sierra Leone,2020,0,OWID
+Sierra Leone,2021,0,OWID
+Sierra Leone,2022,0,OWID
+Sierra Leone,2023,0,OWID
+Sierra Leone,2024,0,OWID
+Sierra Leone,2025,0,OWID
+Sierra Leone,2026,0,OWID
+Singapore,1989,0,OWID
+Singapore,1990,0,OWID
+Singapore,1991,0,OWID
+Singapore,1992,0,OWID
+Singapore,1993,0,OWID
+Singapore,1994,0,OWID
+Singapore,1995,0,OWID
+Singapore,1996,0,OWID
+Singapore,1997,0,OWID
+Singapore,1998,0,OWID
+Singapore,1999,0,OWID
+Singapore,2000,0,OWID
+Singapore,2001,0,OWID
+Singapore,2002,0,OWID
+Singapore,2003,0,OWID
+Singapore,2004,0,OWID
+Singapore,2005,0,OWID
+Singapore,2006,0,OWID
+Singapore,2007,0,OWID
+Singapore,2008,0,OWID
+Singapore,2009,0,OWID
+Singapore,2010,0,OWID
+Singapore,2011,0,OWID
+Singapore,2012,0,OWID
+Singapore,2013,0,OWID
+Singapore,2014,0,OWID
+Singapore,2015,0,OWID
+Singapore,2016,0,OWID
+Singapore,2017,0,OWID
+Singapore,2018,0,OWID
+Singapore,2019,0,OWID
+Singapore,2020,0,OWID
+Singapore,2021,0,OWID
+Singapore,2022,0,OWID
+Singapore,2023,0,OWID
+Singapore,2024,0,OWID
+Singapore,2025,0,OWID
+Singapore,2026,0,OWID
+Slovakia,1989,0,OWID
+Slovakia,1990,0,OWID
+Slovakia,1991,0,OWID
+Slovakia,1992,0,OWID
+Slovakia,1993,0,OWID
+Slovakia,1994,0,OWID
+Slovakia,1995,0,OWID
+Slovakia,1996,0,OWID
+Slovakia,1997,0,OWID
+Slovakia,1998,0,OWID
+Slovakia,1999,0,OWID
+Slovakia,2000,0,OWID
+Slovakia,2001,0,OWID
+Slovakia,2002,0,OWID
+Slovakia,2003,0,OWID
+Slovakia,2004,0,OWID
+Slovakia,2005,0,OWID
+Slovakia,2006,0,OWID
+Slovakia,2007,0,OWID
+Slovakia,2008,0,OWID
+Slovakia,2009,0,OWID
+Slovakia,2010,0,OWID
+Slovakia,2011,0,OWID
+Slovakia,2012,0,OWID
+Slovakia,2013,0,OWID
+Slovakia,2014,0,OWID
+Slovakia,2015,0,OWID
+Slovakia,2016,0,OWID
+Slovakia,2017,0,OWID
+Slovakia,2018,0,OWID
+Slovakia,2019,0,OWID
+Slovakia,2020,0,OWID
+Slovakia,2021,0,OWID
+Slovakia,2022,0,OWID
+Slovakia,2023,0,OWID
+Slovakia,2024,0,OWID
+Slovakia,2025,0,OWID
+Slovakia,2026,0,OWID
+Slovenia,1989,0,OWID
+Slovenia,1990,0,OWID
+Slovenia,1991,64,OWID
+Slovenia,1992,0,OWID
+Slovenia,1993,0,OWID
+Slovenia,1994,0,OWID
+Slovenia,1995,0,OWID
+Slovenia,1996,0,OWID
+Slovenia,1997,0,OWID
+Slovenia,1998,0,OWID
+Slovenia,1999,0,OWID
+Slovenia,2000,0,OWID
+Slovenia,2001,0,OWID
+Slovenia,2002,0,OWID
+Slovenia,2003,0,OWID
+Slovenia,2004,0,OWID
+Slovenia,2005,0,OWID
+Slovenia,2006,0,OWID
+Slovenia,2007,0,OWID
+Slovenia,2008,0,OWID
+Slovenia,2009,0,OWID
+Slovenia,2010,0,OWID
+Slovenia,2011,0,OWID
+Slovenia,2012,0,OWID
+Slovenia,2013,0,OWID
+Slovenia,2014,0,OWID
+Slovenia,2015,0,OWID
+Slovenia,2016,0,OWID
+Slovenia,2017,0,OWID
+Slovenia,2018,0,OWID
+Slovenia,2019,0,OWID
+Slovenia,2020,0,OWID
+Slovenia,2021,0,OWID
+Slovenia,2022,0,OWID
+Slovenia,2023,0,OWID
+Slovenia,2024,0,OWID
+Slovenia,2025,0,OWID
+Slovenia,2026,0,OWID
+Solomon Islands,1989,0,OWID
+Solomon Islands,1990,0,OWID
+Solomon Islands,1991,0,OWID
+Solomon Islands,1992,2,OWID
+Solomon Islands,1993,0,OWID
+Solomon Islands,1994,0,OWID
+Solomon Islands,1995,0,OWID
+Solomon Islands,1996,0,OWID
+Solomon Islands,1997,0,OWID
+Solomon Islands,1998,0,OWID
+Solomon Islands,1999,0,OWID
+Solomon Islands,2000,0,OWID
+Solomon Islands,2001,0,OWID
+Solomon Islands,2002,0,OWID
+Solomon Islands,2003,0,OWID
+Solomon Islands,2004,0,OWID
+Solomon Islands,2005,0,OWID
+Solomon Islands,2006,0,OWID
+Solomon Islands,2007,0,OWID
+Solomon Islands,2008,0,OWID
+Solomon Islands,2009,0,OWID
+Solomon Islands,2010,0,OWID
+Solomon Islands,2011,0,OWID
+Solomon Islands,2012,0,OWID
+Solomon Islands,2013,0,OWID
+Solomon Islands,2014,0,OWID
+Solomon Islands,2015,0,OWID
+Solomon Islands,2016,0,OWID
+Solomon Islands,2017,0,OWID
+Solomon Islands,2018,0,OWID
+Solomon Islands,2019,0,OWID
+Solomon Islands,2020,0,OWID
+Solomon Islands,2021,0,OWID
+Solomon Islands,2022,0,OWID
+Solomon Islands,2023,0,OWID
+Solomon Islands,2024,0,OWID
+Solomon Islands,2025,0,OWID
+Solomon Islands,2026,0,OWID
+Somalia,1989,1061,OWID
+Somalia,1990,2700,OWID
+Somalia,1991,8455,OWID
+Somalia,1992,4729,OWID
+Somalia,1993,478,OWID
+Somalia,1994,625,OWID
+Somalia,1995,443,OWID
+Somalia,1996,939,OWID
+Somalia,1997,268,OWID
+Somalia,1998,312,OWID
+Somalia,1999,522,OWID
+Somalia,2000,171,OWID
+Somalia,2001,445,OWID
+Somalia,2002,624,OWID
+Somalia,2003,395,OWID
+Somalia,2004,656,OWID
+Somalia,2005,338,OWID
+Somalia,2006,1187,OWID
+Somalia,2007,1584,OWID
+Somalia,2008,1731,OWID
+Somalia,2009,2146,OWID
+Somalia,2010,2697,OWID
+Somalia,2011,2093,OWID
+Somalia,2012,2983,OWID
+Somalia,2013,1037,OWID
+Somalia,2014,1225,OWID
+Somalia,2015,1239,OWID
+Somalia,2016,2055,OWID
+Somalia,2017,2060,OWID
+Somalia,2018,2432,OWID
+Somalia,2019,2179,OWID
+Somalia,2020,2091,OWID
+Somalia,2021,2253,OWID
+Somalia,2022,3100,OWID
+Somalia,2023,4175,OWID
+Somalia,2024,2400,OWID
+Somalia,2025,3869,OWID
+Somalia,2026,2282,OWID
+South Africa,1989,281,OWID
+South Africa,1990,1437,OWID
+South Africa,1991,695,OWID
+South Africa,1992,706,OWID
+South Africa,1993,889,OWID
+South Africa,1994,509,OWID
+South Africa,1995,143,OWID
+South Africa,1996,156,OWID
+South Africa,1997,0,OWID
+South Africa,1998,29,OWID
+South Africa,1999,0,OWID
+South Africa,2000,0,OWID
+South Africa,2001,0,OWID
+South Africa,2002,0,OWID
+South Africa,2003,0,OWID
+South Africa,2004,0,OWID
+South Africa,2005,0,OWID
+South Africa,2006,0,OWID
+South Africa,2007,0,OWID
+South Africa,2008,0,OWID
+South Africa,2009,0,OWID
+South Africa,2010,0,OWID
+South Africa,2011,0,OWID
+South Africa,2012,0,OWID
+South Africa,2013,0,OWID
+South Africa,2014,0,OWID
+South Africa,2015,0,OWID
+South Africa,2016,0,OWID
+South Africa,2017,0,OWID
+South Africa,2018,1,OWID
+South Africa,2019,0,OWID
+South Africa,2020,2,OWID
+South Africa,2021,123,OWID
+South Africa,2022,0,OWID
+South Africa,2023,0,OWID
+South Africa,2024,0,OWID
+South Africa,2025,1,OWID
+South Africa,2026,0,OWID
+South Korea,1989,0,OWID
+South Korea,1990,0,OWID
+South Korea,1991,0,OWID
+South Korea,1992,0,OWID
+South Korea,1993,0,OWID
+South Korea,1994,0,OWID
+South Korea,1995,0,OWID
+South Korea,1996,0,OWID
+South Korea,1997,0,OWID
+South Korea,1998,0,OWID
+South Korea,1999,0,OWID
+South Korea,2000,0,OWID
+South Korea,2001,0,OWID
+South Korea,2002,0,OWID
+South Korea,2003,0,OWID
+South Korea,2004,0,OWID
+South Korea,2005,0,OWID
+South Korea,2006,0,OWID
+South Korea,2007,0,OWID
+South Korea,2008,0,OWID
+South Korea,2009,0,OWID
+South Korea,2010,0,OWID
+South Korea,2011,0,OWID
+South Korea,2012,0,OWID
+South Korea,2013,0,OWID
+South Korea,2014,0,OWID
+South Korea,2015,0,OWID
+South Korea,2016,0,OWID
+South Korea,2017,0,OWID
+South Korea,2018,0,OWID
+South Korea,2019,0,OWID
+South Korea,2020,0,OWID
+South Korea,2021,0,OWID
+South Korea,2022,0,OWID
+South Korea,2023,0,OWID
+South Korea,2024,0,OWID
+South Korea,2025,0,OWID
+South Korea,2026,0,OWID
+South Ossetia,1989,0,OWID
+South Ossetia,1990,0,OWID
+South Ossetia,1991,0,OWID
+South Ossetia,1992,0,OWID
+South Ossetia,1993,0,OWID
+South Ossetia,1994,0,OWID
+South Ossetia,1995,0,OWID
+South Ossetia,1996,0,OWID
+South Ossetia,1997,0,OWID
+South Ossetia,1998,0,OWID
+South Ossetia,1999,0,OWID
+South Ossetia,2000,0,OWID
+South Ossetia,2001,0,OWID
+South Ossetia,2002,0,OWID
+South Ossetia,2003,0,OWID
+South Ossetia,2004,0,OWID
+South Ossetia,2005,0,OWID
+South Ossetia,2006,0,OWID
+South Ossetia,2007,0,OWID
+South Ossetia,2008,0,OWID
+South Ossetia,2009,0,OWID
+South Ossetia,2010,0,OWID
+South Ossetia,2011,0,OWID
+South Ossetia,2012,0,OWID
+South Ossetia,2013,0,OWID
+South Ossetia,2014,0,OWID
+South Ossetia,2015,0,OWID
+South Ossetia,2016,0,OWID
+South Ossetia,2017,0,OWID
+South Ossetia,2018,0,OWID
+South Ossetia,2019,0,OWID
+South Ossetia,2020,0,OWID
+South Ossetia,2021,0,OWID
+South Ossetia,2022,0,OWID
+South Ossetia,2023,0,OWID
+South Ossetia,2024,0,OWID
+South Ossetia,2025,0,OWID
+South Ossetia,2026,0,OWID
+South Sudan,1989,3907,OWID
+South Sudan,1990,4272,OWID
+South Sudan,1991,4206,OWID
+South Sudan,1992,3346,OWID
+South Sudan,1993,5877,OWID
+South Sudan,1994,491,OWID
+South Sudan,1995,1162,OWID
+South Sudan,1996,2374,OWID
+South Sudan,1997,3574,OWID
+South Sudan,1998,3887,OWID
+South Sudan,1999,558,OWID
+South Sudan,2000,1953,OWID
+South Sudan,2001,2809,OWID
+South Sudan,2002,2958,OWID
+South Sudan,2003,62,OWID
+South Sudan,2004,1241,OWID
+South Sudan,2005,162,OWID
+South Sudan,2006,334,OWID
+South Sudan,2007,275,OWID
+South Sudan,2008,132,OWID
+South Sudan,2009,1961,OWID
+South Sudan,2010,259,OWID
+South Sudan,2011,3026,OWID
+South Sudan,2012,851,OWID
+South Sudan,2013,1826,OWID
+South Sudan,2014,2461,OWID
+South Sudan,2015,1116,OWID
+South Sudan,2016,1289,OWID
+South Sudan,2017,1244,OWID
+South Sudan,2018,1175,OWID
+South Sudan,2019,626,OWID
+South Sudan,2020,640,OWID
+South Sudan,2021,888,OWID
+South Sudan,2022,679,OWID
+South Sudan,2023,206,OWID
+South Sudan,2024,629,OWID
+South Sudan,2025,607,OWID
+South Sudan,2026,123,OWID
+Spain,1989,0,OWID
+Spain,1990,0,OWID
+Spain,1991,45,OWID
+Spain,1992,0,OWID
+Spain,1993,0,OWID
+Spain,1994,0,OWID
+Spain,1995,0,OWID
+Spain,1996,0,OWID
+Spain,1997,0,OWID
+Spain,1998,0,OWID
+Spain,1999,0,OWID
+Spain,2000,0,OWID
+Spain,2001,0,OWID
+Spain,2002,0,OWID
+Spain,2003,0,OWID
+Spain,2004,191,OWID
+Spain,2005,0,OWID
+Spain,2006,0,OWID
+Spain,2007,0,OWID
+Spain,2008,0,OWID
+Spain,2009,0,OWID
+Spain,2010,0,OWID
+Spain,2011,0,OWID
+Spain,2012,0,OWID
+Spain,2013,0,OWID
+Spain,2014,0,OWID
+Spain,2015,0,OWID
+Spain,2016,0,OWID
+Spain,2017,16,OWID
+Spain,2018,0,OWID
+Spain,2019,0,OWID
+Spain,2020,0,OWID
+Spain,2021,0,OWID
+Spain,2022,0,OWID
+Spain,2023,2,OWID
+Spain,2024,0,OWID
+Spain,2025,0,OWID
+Spain,2026,0,OWID
+Sri Lanka,1989,1288,OWID
+Sri Lanka,1990,4819,OWID
+Sri Lanka,1991,6646,OWID
+Sri Lanka,1992,4444,OWID
+Sri Lanka,1993,2075,OWID
+Sri Lanka,1994,711,OWID
+Sri Lanka,1995,4952,OWID
+Sri Lanka,1996,4097,OWID
+Sri Lanka,1997,2880,OWID
+Sri Lanka,1998,3822,OWID
+Sri Lanka,1999,1944,OWID
+Sri Lanka,2000,2560,OWID
+Sri Lanka,2001,1144,OWID
+Sri Lanka,2002,0,OWID
+Sri Lanka,2003,29,OWID
+Sri Lanka,2004,60,OWID
+Sri Lanka,2005,118,OWID
+Sri Lanka,2006,2147,OWID
+Sri Lanka,2007,2536,OWID
+Sri Lanka,2008,8447,OWID
+Sri Lanka,2009,10413,OWID
+Sri Lanka,2010,0,OWID
+Sri Lanka,2011,0,OWID
+Sri Lanka,2012,0,OWID
+Sri Lanka,2013,0,OWID
+Sri Lanka,2014,0,OWID
+Sri Lanka,2015,0,OWID
+Sri Lanka,2016,0,OWID
+Sri Lanka,2017,0,OWID
+Sri Lanka,2018,0,OWID
+Sri Lanka,2019,255,OWID
+Sri Lanka,2020,0,OWID
+Sri Lanka,2021,0,OWID
+Sri Lanka,2022,0,OWID
+Sri Lanka,2023,0,OWID
+Sri Lanka,2024,0,OWID
+Sri Lanka,2025,0,OWID
+Sri Lanka,2026,104,OWID
+Sudan,1989,3609,OWID
+Sudan,1990,1063,OWID
+Sudan,1991,359,OWID
+Sudan,1992,968,OWID
+Sudan,1993,148,OWID
+Sudan,1994,467,OWID
+Sudan,1995,332,OWID
+Sudan,1996,340,OWID
+Sudan,1997,1230,OWID
+Sudan,1998,2053,OWID
+Sudan,1999,1506,OWID
+Sudan,2000,1573,OWID
+Sudan,2001,910,OWID
+Sudan,2002,249,OWID
+Sudan,2003,4761,OWID
+Sudan,2004,8449,OWID
+Sudan,2005,1311,OWID
+Sudan,2006,1974,OWID
+Sudan,2007,831,OWID
+Sudan,2008,1087,OWID
+Sudan,2009,691,OWID
+Sudan,2010,1303,OWID
+Sudan,2011,594,OWID
+Sudan,2012,1519,OWID
+Sudan,2013,1903,OWID
+Sudan,2014,1847,OWID
+Sudan,2015,2485,OWID
+Sudan,2016,1894,OWID
+Sudan,2017,504,OWID
+Sudan,2018,364,OWID
+Sudan,2019,397,OWID
+Sudan,2020,559,OWID
+Sudan,2021,810,OWID
+Sudan,2022,1184,OWID
+Sudan,2023,14687,OWID
+Sudan,2024,6996,OWID
+Sudan,2025,75164,OWID
+Sudan,2026,3086,OWID
+Suriname,1989,0,OWID
+Suriname,1990,0,OWID
+Suriname,1991,0,OWID
+Suriname,1992,0,OWID
+Suriname,1993,0,OWID
+Suriname,1994,0,OWID
+Suriname,1995,0,OWID
+Suriname,1996,0,OWID
+Suriname,1997,0,OWID
+Suriname,1998,0,OWID
+Suriname,1999,0,OWID
+Suriname,2000,0,OWID
+Suriname,2001,0,OWID
+Suriname,2002,0,OWID
+Suriname,2003,0,OWID
+Suriname,2004,0,OWID
+Suriname,2005,0,OWID
+Suriname,2006,0,OWID
+Suriname,2007,0,OWID
+Suriname,2008,0,OWID
+Suriname,2009,0,OWID
+Suriname,2010,0,OWID
+Suriname,2011,0,OWID
+Suriname,2012,0,OWID
+Suriname,2013,0,OWID
+Suriname,2014,0,OWID
+Suriname,2015,0,OWID
+Suriname,2016,0,OWID
+Suriname,2017,0,OWID
+Suriname,2018,0,OWID
+Suriname,2019,0,OWID
+Suriname,2020,0,OWID
+Suriname,2021,0,OWID
+Suriname,2022,0,OWID
+Suriname,2023,0,OWID
+Suriname,2024,0,OWID
+Suriname,2025,0,OWID
+Suriname,2026,0,OWID
+Sweden,1989,0,OWID
+Sweden,1990,0,OWID
+Sweden,1991,0,OWID
+Sweden,1992,0,OWID
+Sweden,1993,0,OWID
+Sweden,1994,0,OWID
+Sweden,1995,0,OWID
+Sweden,1996,0,OWID
+Sweden,1997,0,OWID
+Sweden,1998,0,OWID
+Sweden,1999,0,OWID
+Sweden,2000,0,OWID
+Sweden,2001,0,OWID
+Sweden,2002,0,OWID
+Sweden,2003,0,OWID
+Sweden,2004,0,OWID
+Sweden,2005,0,OWID
+Sweden,2006,0,OWID
+Sweden,2007,0,OWID
+Sweden,2008,0,OWID
+Sweden,2009,0,OWID
+Sweden,2010,0,OWID
+Sweden,2011,0,OWID
+Sweden,2012,0,OWID
+Sweden,2013,0,OWID
+Sweden,2014,0,OWID
+Sweden,2015,0,OWID
+Sweden,2016,0,OWID
+Sweden,2017,5,OWID
+Sweden,2018,0,OWID
+Sweden,2019,0,OWID
+Sweden,2020,0,OWID
+Sweden,2021,0,OWID
+Sweden,2022,0,OWID
+Sweden,2023,0,OWID
+Sweden,2024,0,OWID
+Sweden,2025,0,OWID
+Sweden,2026,0,OWID
+Switzerland,1989,0,OWID
+Switzerland,1990,0,OWID
+Switzerland,1991,0,OWID
+Switzerland,1992,0,OWID
+Switzerland,1993,0,OWID
+Switzerland,1994,0,OWID
+Switzerland,1995,0,OWID
+Switzerland,1996,0,OWID
+Switzerland,1997,0,OWID
+Switzerland,1998,0,OWID
+Switzerland,1999,0,OWID
+Switzerland,2000,0,OWID
+Switzerland,2001,0,OWID
+Switzerland,2002,0,OWID
+Switzerland,2003,0,OWID
+Switzerland,2004,0,OWID
+Switzerland,2005,0,OWID
+Switzerland,2006,0,OWID
+Switzerland,2007,0,OWID
+Switzerland,2008,0,OWID
+Switzerland,2009,0,OWID
+Switzerland,2010,0,OWID
+Switzerland,2011,0,OWID
+Switzerland,2012,0,OWID
+Switzerland,2013,0,OWID
+Switzerland,2014,0,OWID
+Switzerland,2015,0,OWID
+Switzerland,2016,0,OWID
+Switzerland,2017,0,OWID
+Switzerland,2018,0,OWID
+Switzerland,2019,0,OWID
+Switzerland,2020,0,OWID
+Switzerland,2021,0,OWID
+Switzerland,2022,0,OWID
+Switzerland,2023,0,OWID
+Switzerland,2024,0,OWID
+Switzerland,2025,0,OWID
+Switzerland,2026,0,OWID
+Syria,1989,0,OWID
+Syria,1990,0,OWID
+Syria,1991,0,OWID
+Syria,1992,0,OWID
+Syria,1993,0,OWID
+Syria,1994,0,OWID
+Syria,1995,0,OWID
+Syria,1996,0,OWID
+Syria,1997,0,OWID
+Syria,1998,0,OWID
+Syria,1999,0,OWID
+Syria,2000,1,OWID
+Syria,2001,1,OWID
+Syria,2002,0,OWID
+Syria,2003,0,OWID
+Syria,2004,1,OWID
+Syria,2005,0,OWID
+Syria,2006,0,OWID
+Syria,2007,0,OWID
+Syria,2008,0,OWID
+Syria,2009,0,OWID
+Syria,2010,0,OWID
+Syria,2011,4343,OWID
+Syria,2012,53690,OWID
+Syria,2013,76462,OWID
+Syria,2014,78627,OWID
+Syria,2015,59544,OWID
+Syria,2016,53851,OWID
+Syria,2017,38472,OWID
+Syria,2018,21679,OWID
+Syria,2019,11168,OWID
+Syria,2020,5650,OWID
+Syria,2021,1903,OWID
+Syria,2022,1651,OWID
+Syria,2023,2170,OWID
+Syria,2024,3587,OWID
+Syria,2025,3444,OWID
+Syria,2026,83,OWID
+Taiwan,1989,0,OWID
+Taiwan,1990,0,OWID
+Taiwan,1991,0,OWID
+Taiwan,1992,0,OWID
+Taiwan,1993,0,OWID
+Taiwan,1994,0,OWID
+Taiwan,1995,0,OWID
+Taiwan,1996,0,OWID
+Taiwan,1997,0,OWID
+Taiwan,1998,0,OWID
+Taiwan,1999,0,OWID
+Taiwan,2000,0,OWID
+Taiwan,2001,0,OWID
+Taiwan,2002,0,OWID
+Taiwan,2003,0,OWID
+Taiwan,2004,0,OWID
+Taiwan,2005,0,OWID
+Taiwan,2006,0,OWID
+Taiwan,2007,0,OWID
+Taiwan,2008,0,OWID
+Taiwan,2009,0,OWID
+Taiwan,2010,0,OWID
+Taiwan,2011,0,OWID
+Taiwan,2012,0,OWID
+Taiwan,2013,0,OWID
+Taiwan,2014,0,OWID
+Taiwan,2015,0,OWID
+Taiwan,2016,0,OWID
+Taiwan,2017,0,OWID
+Taiwan,2018,0,OWID
+Taiwan,2019,0,OWID
+Taiwan,2020,0,OWID
+Taiwan,2021,0,OWID
+Taiwan,2022,0,OWID
+Taiwan,2023,0,OWID
+Taiwan,2024,0,OWID
+Taiwan,2025,0,OWID
+Taiwan,2026,0,OWID
+Tajikistan,1989,0,OWID
+Tajikistan,1990,0,OWID
+Tajikistan,1991,0,OWID
+Tajikistan,1992,3859,OWID
+Tajikistan,1993,1045,OWID
+Tajikistan,1994,356,OWID
+Tajikistan,1995,368,OWID
+Tajikistan,1996,2790,OWID
+Tajikistan,1997,87,OWID
+Tajikistan,1998,600,OWID
+Tajikistan,1999,3,OWID
+Tajikistan,2000,46,OWID
+Tajikistan,2001,0,OWID
+Tajikistan,2002,0,OWID
+Tajikistan,2003,0,OWID
+Tajikistan,2004,0,OWID
+Tajikistan,2005,0,OWID
+Tajikistan,2006,0,OWID
+Tajikistan,2007,0,OWID
+Tajikistan,2008,0,OWID
+Tajikistan,2009,0,OWID
+Tajikistan,2010,77,OWID
+Tajikistan,2011,28,OWID
+Tajikistan,2012,0,OWID
+Tajikistan,2013,0,OWID
+Tajikistan,2014,0,OWID
+Tajikistan,2015,0,OWID
+Tajikistan,2016,0,OWID
+Tajikistan,2017,0,OWID
+Tajikistan,2018,56,OWID
+Tajikistan,2019,49,OWID
+Tajikistan,2020,0,OWID
+Tajikistan,2021,17,OWID
+Tajikistan,2022,95,OWID
+Tajikistan,2023,0,OWID
+Tajikistan,2024,0,OWID
+Tajikistan,2025,0,OWID
+Tajikistan,2026,0,OWID
+Tanzania,1989,0,OWID
+Tanzania,1990,0,OWID
+Tanzania,1991,0,OWID
+Tanzania,1992,0,OWID
+Tanzania,1993,0,OWID
+Tanzania,1994,0,OWID
+Tanzania,1995,0,OWID
+Tanzania,1996,0,OWID
+Tanzania,1997,3,OWID
+Tanzania,1998,0,OWID
+Tanzania,1999,4,OWID
+Tanzania,2000,0,OWID
+Tanzania,2001,37,OWID
+Tanzania,2002,0,OWID
+Tanzania,2003,0,OWID
+Tanzania,2004,0,OWID
+Tanzania,2005,0,OWID
+Tanzania,2006,0,OWID
+Tanzania,2007,3,OWID
+Tanzania,2008,0,OWID
+Tanzania,2009,0,OWID
+Tanzania,2010,0,OWID
+Tanzania,2011,0,OWID
+Tanzania,2012,0,OWID
+Tanzania,2013,0,OWID
+Tanzania,2014,0,OWID
+Tanzania,2015,0,OWID
+Tanzania,2016,0,OWID
+Tanzania,2017,1,OWID
+Tanzania,2018,0,OWID
+Tanzania,2019,6,OWID
+Tanzania,2020,25,OWID
+Tanzania,2021,12,OWID
+Tanzania,2022,0,OWID
+Tanzania,2023,0,OWID
+Tanzania,2024,0,OWID
+Tanzania,2025,1009,OWID
+Tanzania,2026,0,OWID
+Thailand,1989,6,OWID
+Thailand,1990,19,OWID
+Thailand,1991,2,OWID
+Thailand,1992,0,OWID
+Thailand,1993,0,OWID
+Thailand,1994,0,OWID
+Thailand,1995,2,OWID
+Thailand,1996,7,OWID
+Thailand,1997,3,OWID
+Thailand,1998,33,OWID
+Thailand,1999,4,OWID
+Thailand,2000,8,OWID
+Thailand,2001,29,OWID
+Thailand,2002,23,OWID
+Thailand,2003,26,OWID
+Thailand,2004,310,OWID
+Thailand,2005,496,OWID
+Thailand,2006,541,OWID
+Thailand,2007,517,OWID
+Thailand,2008,336,OWID
+Thailand,2009,258,OWID
+Thailand,2010,221,OWID
+Thailand,2011,277,OWID
+Thailand,2012,244,OWID
+Thailand,2013,249,OWID
+Thailand,2014,100,OWID
+Thailand,2015,84,OWID
+Thailand,2016,50,OWID
+Thailand,2017,43,OWID
+Thailand,2018,61,OWID
+Thailand,2019,55,OWID
+Thailand,2020,46,OWID
+Thailand,2021,38,OWID
+Thailand,2022,29,OWID
+Thailand,2023,30,OWID
+Thailand,2024,34,OWID
+Thailand,2025,113,OWID
+Thailand,2026,27,OWID
+Togo,1989,0,OWID
+Togo,1990,0,OWID
+Togo,1991,63,OWID
+Togo,1992,0,OWID
+Togo,1993,48,OWID
+Togo,1994,0,OWID
+Togo,1995,0,OWID
+Togo,1996,0,OWID
+Togo,1997,0,OWID
+Togo,1998,0,OWID
+Togo,1999,0,OWID
+Togo,2000,0,OWID
+Togo,2001,0,OWID
+Togo,2002,0,OWID
+Togo,2003,0,OWID
+Togo,2004,0,OWID
+Togo,2005,436,OWID
+Togo,2006,0,OWID
+Togo,2007,0,OWID
+Togo,2008,0,OWID
+Togo,2009,0,OWID
+Togo,2010,0,OWID
+Togo,2011,0,OWID
+Togo,2012,0,OWID
+Togo,2013,0,OWID
+Togo,2014,0,OWID
+Togo,2015,0,OWID
+Togo,2016,0,OWID
+Togo,2017,0,OWID
+Togo,2018,0,OWID
+Togo,2019,0,OWID
+Togo,2020,0,OWID
+Togo,2021,0,OWID
+Togo,2022,62,OWID
+Togo,2023,76,OWID
+Togo,2024,68,OWID
+Togo,2025,69,OWID
+Togo,2026,0,OWID
+Tonga,1989,0,OWID
+Tonga,1990,0,OWID
+Tonga,1991,0,OWID
+Tonga,1992,0,OWID
+Tonga,1993,0,OWID
+Tonga,1994,0,OWID
+Tonga,1995,0,OWID
+Tonga,1996,0,OWID
+Tonga,1997,0,OWID
+Tonga,1998,0,OWID
+Tonga,1999,0,OWID
+Tonga,2000,0,OWID
+Tonga,2001,0,OWID
+Tonga,2002,0,OWID
+Tonga,2003,0,OWID
+Tonga,2004,0,OWID
+Tonga,2005,0,OWID
+Tonga,2006,0,OWID
+Tonga,2007,0,OWID
+Tonga,2008,0,OWID
+Tonga,2009,0,OWID
+Tonga,2010,0,OWID
+Tonga,2011,0,OWID
+Tonga,2012,0,OWID
+Tonga,2013,0,OWID
+Tonga,2014,0,OWID
+Tonga,2015,0,OWID
+Tonga,2016,0,OWID
+Tonga,2017,0,OWID
+Tonga,2018,0,OWID
+Tonga,2019,0,OWID
+Tonga,2020,0,OWID
+Tonga,2021,0,OWID
+Tonga,2022,0,OWID
+Tonga,2023,0,OWID
+Tonga,2024,0,OWID
+Tonga,2025,0,OWID
+Tonga,2026,0,OWID
+Trinidad and Tobago,1989,0,OWID
+Trinidad and Tobago,1990,39,OWID
+Trinidad and Tobago,1991,0,OWID
+Trinidad and Tobago,1992,0,OWID
+Trinidad and Tobago,1993,0,OWID
+Trinidad and Tobago,1994,0,OWID
+Trinidad and Tobago,1995,0,OWID
+Trinidad and Tobago,1996,0,OWID
+Trinidad and Tobago,1997,0,OWID
+Trinidad and Tobago,1998,0,OWID
+Trinidad and Tobago,1999,0,OWID
+Trinidad and Tobago,2000,0,OWID
+Trinidad and Tobago,2001,0,OWID
+Trinidad and Tobago,2002,0,OWID
+Trinidad and Tobago,2003,0,OWID
+Trinidad and Tobago,2004,0,OWID
+Trinidad and Tobago,2005,0,OWID
+Trinidad and Tobago,2006,0,OWID
+Trinidad and Tobago,2007,0,OWID
+Trinidad and Tobago,2008,0,OWID
+Trinidad and Tobago,2009,0,OWID
+Trinidad and Tobago,2010,0,OWID
+Trinidad and Tobago,2011,0,OWID
+Trinidad and Tobago,2012,0,OWID
+Trinidad and Tobago,2013,0,OWID
+Trinidad and Tobago,2014,0,OWID
+Trinidad and Tobago,2015,0,OWID
+Trinidad and Tobago,2016,0,OWID
+Trinidad and Tobago,2017,0,OWID
+Trinidad and Tobago,2018,0,OWID
+Trinidad and Tobago,2019,0,OWID
+Trinidad and Tobago,2020,0,OWID
+Trinidad and Tobago,2021,0,OWID
+Trinidad and Tobago,2022,0,OWID
+Trinidad and Tobago,2023,0,OWID
+Trinidad and Tobago,2024,0,OWID
+Trinidad and Tobago,2025,0,OWID
+Trinidad and Tobago,2026,0,OWID
+Tunisia,1989,0,OWID
+Tunisia,1990,0,OWID
+Tunisia,1991,0,OWID
+Tunisia,1992,0,OWID
+Tunisia,1993,0,OWID
+Tunisia,1994,0,OWID
+Tunisia,1995,0,OWID
+Tunisia,1996,0,OWID
+Tunisia,1997,0,OWID
+Tunisia,1998,0,OWID
+Tunisia,1999,0,OWID
+Tunisia,2000,0,OWID
+Tunisia,2001,0,OWID
+Tunisia,2002,21,OWID
+Tunisia,2003,0,OWID
+Tunisia,2004,0,OWID
+Tunisia,2005,0,OWID
+Tunisia,2006,0,OWID
+Tunisia,2007,0,OWID
+Tunisia,2008,0,OWID
+Tunisia,2009,0,OWID
+Tunisia,2010,0,OWID
+Tunisia,2011,0,OWID
+Tunisia,2012,0,OWID
+Tunisia,2013,29,OWID
+Tunisia,2014,50,OWID
+Tunisia,2015,118,OWID
+Tunisia,2016,71,OWID
+Tunisia,2017,0,OWID
+Tunisia,2018,0,OWID
+Tunisia,2019,0,OWID
+Tunisia,2020,0,OWID
+Tunisia,2021,0,OWID
+Tunisia,2022,0,OWID
+Tunisia,2023,0,OWID
+Tunisia,2024,0,OWID
+Tunisia,2025,0,OWID
+Tunisia,2026,0,OWID
+Turkey,1989,538,OWID
+Turkey,1990,612,OWID
+Turkey,1991,437,OWID
+Turkey,1992,1853,OWID
+Turkey,1993,2733,OWID
+Turkey,1994,4159,OWID
+Turkey,1995,3742,OWID
+Turkey,1996,3763,OWID
+Turkey,1997,2587,OWID
+Turkey,1998,2049,OWID
+Turkey,1999,1137,OWID
+Turkey,2000,153,OWID
+Turkey,2001,122,OWID
+Turkey,2002,49,OWID
+Turkey,2003,194,OWID
+Turkey,2004,247,OWID
+Turkey,2005,391,OWID
+Turkey,2006,316,OWID
+Turkey,2007,630,OWID
+Turkey,2008,548,OWID
+Turkey,2009,192,OWID
+Turkey,2010,219,OWID
+Turkey,2011,405,OWID
+Turkey,2012,785,OWID
+Turkey,2013,75,OWID
+Turkey,2014,0,OWID
+Turkey,2015,1049,OWID
+Turkey,2016,1521,OWID
+Turkey,2017,440,OWID
+Turkey,2018,459,OWID
+Turkey,2019,302,OWID
+Turkey,2020,211,OWID
+Turkey,2021,137,OWID
+Turkey,2022,100,OWID
+Turkey,2023,106,OWID
+Turkey,2024,35,OWID
+Turkey,2025,1,OWID
+Turkey,2026,0,OWID
+Turkmenistan,1989,0,OWID
+Turkmenistan,1990,0,OWID
+Turkmenistan,1991,0,OWID
+Turkmenistan,1992,0,OWID
+Turkmenistan,1993,0,OWID
+Turkmenistan,1994,0,OWID
+Turkmenistan,1995,0,OWID
+Turkmenistan,1996,0,OWID
+Turkmenistan,1997,0,OWID
+Turkmenistan,1998,0,OWID
+Turkmenistan,1999,0,OWID
+Turkmenistan,2000,0,OWID
+Turkmenistan,2001,0,OWID
+Turkmenistan,2002,0,OWID
+Turkmenistan,2003,0,OWID
+Turkmenistan,2004,0,OWID
+Turkmenistan,2005,0,OWID
+Turkmenistan,2006,0,OWID
+Turkmenistan,2007,0,OWID
+Turkmenistan,2008,0,OWID
+Turkmenistan,2009,0,OWID
+Turkmenistan,2010,0,OWID
+Turkmenistan,2011,0,OWID
+Turkmenistan,2012,0,OWID
+Turkmenistan,2013,0,OWID
+Turkmenistan,2014,0,OWID
+Turkmenistan,2015,0,OWID
+Turkmenistan,2016,0,OWID
+Turkmenistan,2017,0,OWID
+Turkmenistan,2018,0,OWID
+Turkmenistan,2019,0,OWID
+Turkmenistan,2020,0,OWID
+Turkmenistan,2021,0,OWID
+Turkmenistan,2022,0,OWID
+Turkmenistan,2023,0,OWID
+Turkmenistan,2024,0,OWID
+Turkmenistan,2025,0,OWID
+Turkmenistan,2026,0,OWID
+Tuvalu,1989,0,OWID
+Tuvalu,1990,0,OWID
+Tuvalu,1991,0,OWID
+Tuvalu,1992,0,OWID
+Tuvalu,1993,0,OWID
+Tuvalu,1994,0,OWID
+Tuvalu,1995,0,OWID
+Tuvalu,1996,0,OWID
+Tuvalu,1997,0,OWID
+Tuvalu,1998,0,OWID
+Tuvalu,1999,0,OWID
+Tuvalu,2000,0,OWID
+Tuvalu,2001,0,OWID
+Tuvalu,2002,0,OWID
+Tuvalu,2003,0,OWID
+Tuvalu,2004,0,OWID
+Tuvalu,2005,0,OWID
+Tuvalu,2006,0,OWID
+Tuvalu,2007,0,OWID
+Tuvalu,2008,0,OWID
+Tuvalu,2009,0,OWID
+Tuvalu,2010,0,OWID
+Tuvalu,2011,0,OWID
+Tuvalu,2012,0,OWID
+Tuvalu,2013,0,OWID
+Tuvalu,2014,0,OWID
+Tuvalu,2015,0,OWID
+Tuvalu,2016,0,OWID
+Tuvalu,2017,0,OWID
+Tuvalu,2018,0,OWID
+Tuvalu,2019,0,OWID
+Tuvalu,2020,0,OWID
+Tuvalu,2021,0,OWID
+Tuvalu,2022,0,OWID
+Tuvalu,2023,0,OWID
+Tuvalu,2024,0,OWID
+Tuvalu,2025,0,OWID
+Tuvalu,2026,0,OWID
+Uganda,1989,1048,OWID
+Uganda,1990,809,OWID
+Uganda,1991,1018,OWID
+Uganda,1992,72,OWID
+Uganda,1993,17,OWID
+Uganda,1994,149,OWID
+Uganda,1995,531,OWID
+Uganda,1996,1771,OWID
+Uganda,1997,1312,OWID
+Uganda,1998,1184,OWID
+Uganda,1999,1013,OWID
+Uganda,2000,1199,OWID
+Uganda,2001,198,OWID
+Uganda,2002,1299,OWID
+Uganda,2003,1586,OWID
+Uganda,2004,1971,OWID
+Uganda,2005,935,OWID
+Uganda,2006,248,OWID
+Uganda,2007,132,OWID
+Uganda,2008,1,OWID
+Uganda,2009,38,OWID
+Uganda,2010,74,OWID
+Uganda,2011,0,OWID
+Uganda,2012,0,OWID
+Uganda,2013,0,OWID
+Uganda,2014,0,OWID
+Uganda,2015,0,OWID
+Uganda,2016,30,OWID
+Uganda,2017,0,OWID
+Uganda,2018,0,OWID
+Uganda,2019,0,OWID
+Uganda,2020,0,OWID
+Uganda,2021,0,OWID
+Uganda,2022,25,OWID
+Uganda,2023,57,OWID
+Uganda,2024,0,OWID
+Uganda,2025,2,OWID
+Uganda,2026,0,OWID
+Ukraine,1989,0,OWID
+Ukraine,1990,0,OWID
+Ukraine,1991,0,OWID
+Ukraine,1992,0,OWID
+Ukraine,1993,0,OWID
+Ukraine,1994,0,OWID
+Ukraine,1995,0,OWID
+Ukraine,1996,0,OWID
+Ukraine,1997,0,OWID
+Ukraine,1998,0,OWID
+Ukraine,1999,0,OWID
+Ukraine,2000,0,OWID
+Ukraine,2001,0,OWID
+Ukraine,2002,0,OWID
+Ukraine,2003,0,OWID
+Ukraine,2004,0,OWID
+Ukraine,2005,0,OWID
+Ukraine,2006,0,OWID
+Ukraine,2007,0,OWID
+Ukraine,2008,0,OWID
+Ukraine,2009,0,OWID
+Ukraine,2010,0,OWID
+Ukraine,2011,0,OWID
+Ukraine,2012,0,OWID
+Ukraine,2013,0,OWID
+Ukraine,2014,4943,OWID
+Ukraine,2015,1894,OWID
+Ukraine,2016,697,OWID
+Ukraine,2017,447,OWID
+Ukraine,2018,243,OWID
+Ukraine,2019,311,OWID
+Ukraine,2020,196,OWID
+Ukraine,2021,208,OWID
+Ukraine,2022,100595,OWID
+Ukraine,2023,76467,OWID
+Ukraine,2024,91779,OWID
+Ukraine,2025,90345,OWID
+Ukraine,2026,47050,OWID
+United Arab Emirates,1989,0,OWID
+United Arab Emirates,1990,0,OWID
+United Arab Emirates,1991,0,OWID
+United Arab Emirates,1992,0,OWID
+United Arab Emirates,1993,0,OWID
+United Arab Emirates,1994,0,OWID
+United Arab Emirates,1995,0,OWID
+United Arab Emirates,1996,0,OWID
+United Arab Emirates,1997,0,OWID
+United Arab Emirates,1998,0,OWID
+United Arab Emirates,1999,0,OWID
+United Arab Emirates,2000,0,OWID
+United Arab Emirates,2001,0,OWID
+United Arab Emirates,2002,0,OWID
+United Arab Emirates,2003,0,OWID
+United Arab Emirates,2004,0,OWID
+United Arab Emirates,2005,0,OWID
+United Arab Emirates,2006,0,OWID
+United Arab Emirates,2007,0,OWID
+United Arab Emirates,2008,0,OWID
+United Arab Emirates,2009,0,OWID
+United Arab Emirates,2010,0,OWID
+United Arab Emirates,2011,0,OWID
+United Arab Emirates,2012,0,OWID
+United Arab Emirates,2013,0,OWID
+United Arab Emirates,2014,0,OWID
+United Arab Emirates,2015,0,OWID
+United Arab Emirates,2016,0,OWID
+United Arab Emirates,2017,0,OWID
+United Arab Emirates,2018,0,OWID
+United Arab Emirates,2019,0,OWID
+United Arab Emirates,2020,0,OWID
+United Arab Emirates,2021,0,OWID
+United Arab Emirates,2022,3,OWID
+United Arab Emirates,2023,0,OWID
+United Arab Emirates,2024,0,OWID
+United Arab Emirates,2025,0,OWID
+United Arab Emirates,2026,12,OWID
+United Kingdom,1989,35,OWID
+United Kingdom,1990,41,OWID
+United Kingdom,1991,26,OWID
+United Kingdom,1992,0,OWID
+United Kingdom,1993,32,OWID
+United Kingdom,1994,0,OWID
+United Kingdom,1995,0,OWID
+United Kingdom,1996,0,OWID
+United Kingdom,1997,0,OWID
+United Kingdom,1998,29,OWID
+United Kingdom,1999,0,OWID
+United Kingdom,2000,0,OWID
+United Kingdom,2001,0,OWID
+United Kingdom,2002,0,OWID
+United Kingdom,2003,0,OWID
+United Kingdom,2004,0,OWID
+United Kingdom,2005,52,OWID
+United Kingdom,2006,0,OWID
+United Kingdom,2007,0,OWID
+United Kingdom,2008,0,OWID
+United Kingdom,2009,0,OWID
+United Kingdom,2010,0,OWID
+United Kingdom,2011,0,OWID
+United Kingdom,2012,0,OWID
+United Kingdom,2013,0,OWID
+United Kingdom,2014,0,OWID
+United Kingdom,2015,0,OWID
+United Kingdom,2016,0,OWID
+United Kingdom,2017,0,OWID
+United Kingdom,2018,0,OWID
+United Kingdom,2019,3,OWID
+United Kingdom,2020,0,OWID
+United Kingdom,2021,0,OWID
+United Kingdom,2022,0,OWID
+United Kingdom,2023,0,OWID
+United Kingdom,2024,0,OWID
+United Kingdom,2025,0,OWID
+United Kingdom,2026,0,OWID
+United States,1989,0,OWID
+United States,1990,0,OWID
+United States,1991,0,OWID
+United States,1992,0,OWID
+United States,1993,0,OWID
+United States,1994,0,OWID
+United States,1995,0,OWID
+United States,1996,0,OWID
+United States,1997,0,OWID
+United States,1998,0,OWID
+United States,1999,0,OWID
+United States,2000,0,OWID
+United States,2001,2986,OWID
+United States,2002,0,OWID
+United States,2003,0,OWID
+United States,2004,0,OWID
+United States,2005,0,OWID
+United States,2006,0,OWID
+United States,2007,0,OWID
+United States,2008,0,OWID
+United States,2009,0,OWID
+United States,2010,2,OWID
+United States,2011,0,OWID
+United States,2012,0,OWID
+United States,2013,0,OWID
+United States,2014,0,OWID
+United States,2015,15,OWID
+United States,2016,3,OWID
+United States,2017,8,OWID
+United States,2018,0,OWID
+United States,2019,5,OWID
+United States,2020,0,OWID
+United States,2021,0,OWID
+United States,2022,1,OWID
+United States,2023,0,OWID
+United States,2024,0,OWID
+United States,2025,0,OWID
+United States,2026,0,OWID
+Uruguay,1989,0,OWID
+Uruguay,1990,0,OWID
+Uruguay,1991,0,OWID
+Uruguay,1992,0,OWID
+Uruguay,1993,0,OWID
+Uruguay,1994,0,OWID
+Uruguay,1995,0,OWID
+Uruguay,1996,0,OWID
+Uruguay,1997,0,OWID
+Uruguay,1998,0,OWID
+Uruguay,1999,0,OWID
+Uruguay,2000,0,OWID
+Uruguay,2001,0,OWID
+Uruguay,2002,0,OWID
+Uruguay,2003,0,OWID
+Uruguay,2004,0,OWID
+Uruguay,2005,0,OWID
+Uruguay,2006,0,OWID
+Uruguay,2007,0,OWID
+Uruguay,2008,0,OWID
+Uruguay,2009,0,OWID
+Uruguay,2010,0,OWID
+Uruguay,2011,0,OWID
+Uruguay,2012,0,OWID
+Uruguay,2013,0,OWID
+Uruguay,2014,0,OWID
+Uruguay,2015,0,OWID
+Uruguay,2016,0,OWID
+Uruguay,2017,0,OWID
+Uruguay,2018,0,OWID
+Uruguay,2019,0,OWID
+Uruguay,2020,0,OWID
+Uruguay,2021,0,OWID
+Uruguay,2022,0,OWID
+Uruguay,2023,0,OWID
+Uruguay,2024,0,OWID
+Uruguay,2025,0,OWID
+Uruguay,2026,0,OWID
+Uzbekistan,1989,97,OWID
+Uzbekistan,1990,0,OWID
+Uzbekistan,1991,0,OWID
+Uzbekistan,1992,0,OWID
+Uzbekistan,1993,0,OWID
+Uzbekistan,1994,0,OWID
+Uzbekistan,1995,0,OWID
+Uzbekistan,1996,0,OWID
+Uzbekistan,1997,0,OWID
+Uzbekistan,1998,0,OWID
+Uzbekistan,1999,61,OWID
+Uzbekistan,2000,297,OWID
+Uzbekistan,2001,0,OWID
+Uzbekistan,2002,0,OWID
+Uzbekistan,2003,0,OWID
+Uzbekistan,2004,37,OWID
+Uzbekistan,2005,0,OWID
+Uzbekistan,2006,0,OWID
+Uzbekistan,2007,0,OWID
+Uzbekistan,2008,0,OWID
+Uzbekistan,2009,0,OWID
+Uzbekistan,2010,0,OWID
+Uzbekistan,2011,0,OWID
+Uzbekistan,2012,0,OWID
+Uzbekistan,2013,0,OWID
+Uzbekistan,2014,0,OWID
+Uzbekistan,2015,0,OWID
+Uzbekistan,2016,0,OWID
+Uzbekistan,2017,0,OWID
+Uzbekistan,2018,0,OWID
+Uzbekistan,2019,0,OWID
+Uzbekistan,2020,0,OWID
+Uzbekistan,2021,0,OWID
+Uzbekistan,2022,0,OWID
+Uzbekistan,2023,0,OWID
+Uzbekistan,2024,0,OWID
+Uzbekistan,2025,0,OWID
+Uzbekistan,2026,0,OWID
+Vanuatu,1989,0,OWID
+Vanuatu,1990,0,OWID
+Vanuatu,1991,0,OWID
+Vanuatu,1992,0,OWID
+Vanuatu,1993,0,OWID
+Vanuatu,1994,0,OWID
+Vanuatu,1995,0,OWID
+Vanuatu,1996,0,OWID
+Vanuatu,1997,0,OWID
+Vanuatu,1998,0,OWID
+Vanuatu,1999,0,OWID
+Vanuatu,2000,0,OWID
+Vanuatu,2001,0,OWID
+Vanuatu,2002,0,OWID
+Vanuatu,2003,0,OWID
+Vanuatu,2004,0,OWID
+Vanuatu,2005,0,OWID
+Vanuatu,2006,0,OWID
+Vanuatu,2007,0,OWID
+Vanuatu,2008,0,OWID
+Vanuatu,2009,0,OWID
+Vanuatu,2010,0,OWID
+Vanuatu,2011,0,OWID
+Vanuatu,2012,0,OWID
+Vanuatu,2013,0,OWID
+Vanuatu,2014,0,OWID
+Vanuatu,2015,0,OWID
+Vanuatu,2016,0,OWID
+Vanuatu,2017,0,OWID
+Vanuatu,2018,0,OWID
+Vanuatu,2019,0,OWID
+Vanuatu,2020,0,OWID
+Vanuatu,2021,0,OWID
+Vanuatu,2022,0,OWID
+Vanuatu,2023,0,OWID
+Vanuatu,2024,0,OWID
+Vanuatu,2025,0,OWID
+Vanuatu,2026,0,OWID
+Venezuela,1989,58,OWID
+Venezuela,1990,64,OWID
+Venezuela,1991,30,OWID
+Venezuela,1992,223,OWID
+Venezuela,1993,63,OWID
+Venezuela,1994,164,OWID
+Venezuela,1995,26,OWID
+Venezuela,1996,33,OWID
+Venezuela,1997,30,OWID
+Venezuela,1998,39,OWID
+Venezuela,1999,55,OWID
+Venezuela,2000,34,OWID
+Venezuela,2001,29,OWID
+Venezuela,2002,6,OWID
+Venezuela,2003,26,OWID
+Venezuela,2004,31,OWID
+Venezuela,2005,31,OWID
+Venezuela,2006,0,OWID
+Venezuela,2007,2,OWID
+Venezuela,2008,27,OWID
+Venezuela,2009,29,OWID
+Venezuela,2010,3,OWID
+Venezuela,2011,0,OWID
+Venezuela,2012,25,OWID
+Venezuela,2013,0,OWID
+Venezuela,2014,45,OWID
+Venezuela,2015,32,OWID
+Venezuela,2016,60,OWID
+Venezuela,2017,76,OWID
+Venezuela,2018,94,OWID
+Venezuela,2019,78,OWID
+Venezuela,2020,0,OWID
+Venezuela,2021,7,OWID
+Venezuela,2022,16,OWID
+Venezuela,2023,3,OWID
+Venezuela,2024,2,OWID
+Venezuela,2025,4,OWID
+Venezuela,2026,0,OWID
+Vietnam,1989,0,OWID
+Vietnam,1990,0,OWID
+Vietnam,1991,0,OWID
+Vietnam,1992,0,OWID
+Vietnam,1993,0,OWID
+Vietnam,1994,0,OWID
+Vietnam,1995,0,OWID
+Vietnam,1996,0,OWID
+Vietnam,1997,0,OWID
+Vietnam,1998,0,OWID
+Vietnam,1999,0,OWID
+Vietnam,2000,0,OWID
+Vietnam,2001,0,OWID
+Vietnam,2002,0,OWID
+Vietnam,2003,0,OWID
+Vietnam,2004,0,OWID
+Vietnam,2005,0,OWID
+Vietnam,2006,0,OWID
+Vietnam,2007,0,OWID
+Vietnam,2008,0,OWID
+Vietnam,2009,0,OWID
+Vietnam,2010,0,OWID
+Vietnam,2011,0,OWID
+Vietnam,2012,0,OWID
+Vietnam,2013,0,OWID
+Vietnam,2014,0,OWID
+Vietnam,2015,0,OWID
+Vietnam,2016,0,OWID
+Vietnam,2017,0,OWID
+Vietnam,2018,0,OWID
+Vietnam,2019,0,OWID
+Vietnam,2020,0,OWID
+Vietnam,2021,0,OWID
+Vietnam,2022,0,OWID
+Vietnam,2023,0,OWID
+Vietnam,2024,0,OWID
+Vietnam,2025,0,OWID
+Vietnam,2026,0,OWID
+West Germany,1989,0,OWID
+West Germany,1990,0,OWID
+West Germany,1991,0,OWID
+West Germany,1992,0,OWID
+West Germany,1993,0,OWID
+West Germany,1994,0,OWID
+West Germany,1995,0,OWID
+West Germany,1996,0,OWID
+West Germany,1997,0,OWID
+West Germany,1998,0,OWID
+West Germany,1999,0,OWID
+West Germany,2000,0,OWID
+West Germany,2001,0,OWID
+West Germany,2002,0,OWID
+West Germany,2003,0,OWID
+West Germany,2004,0,OWID
+West Germany,2005,0,OWID
+West Germany,2006,0,OWID
+West Germany,2007,0,OWID
+West Germany,2008,0,OWID
+West Germany,2009,0,OWID
+West Germany,2010,0,OWID
+West Germany,2011,0,OWID
+West Germany,2012,0,OWID
+West Germany,2013,0,OWID
+West Germany,2014,0,OWID
+West Germany,2015,0,OWID
+West Germany,2016,0,OWID
+West Germany,2017,0,OWID
+West Germany,2018,0,OWID
+West Germany,2019,0,OWID
+West Germany,2020,0,OWID
+West Germany,2021,0,OWID
+West Germany,2022,0,OWID
+West Germany,2023,0,OWID
+West Germany,2024,0,OWID
+West Germany,2025,0,OWID
+West Germany,2026,0,OWID
+Western Sahara,1989,207,OWID
+Western Sahara,1990,0,OWID
+Western Sahara,1991,0,OWID
+Western Sahara,1992,0,OWID
+Western Sahara,1993,0,OWID
+Western Sahara,1994,0,OWID
+Western Sahara,1995,0,OWID
+Western Sahara,1996,0,OWID
+Western Sahara,1997,0,OWID
+Western Sahara,1998,0,OWID
+Western Sahara,1999,0,OWID
+Western Sahara,2000,0,OWID
+Western Sahara,2001,0,OWID
+Western Sahara,2002,0,OWID
+Western Sahara,2003,0,OWID
+Western Sahara,2004,0,OWID
+Western Sahara,2005,0,OWID
+Western Sahara,2006,0,OWID
+Western Sahara,2007,0,OWID
+Western Sahara,2008,0,OWID
+Western Sahara,2009,0,OWID
+Western Sahara,2010,0,OWID
+Western Sahara,2011,0,OWID
+Western Sahara,2012,0,OWID
+Western Sahara,2013,0,OWID
+Western Sahara,2014,0,OWID
+Western Sahara,2015,0,OWID
+Western Sahara,2016,0,OWID
+Western Sahara,2017,0,OWID
+Western Sahara,2018,0,OWID
+Western Sahara,2019,0,OWID
+Western Sahara,2020,0,OWID
+Western Sahara,2021,0,OWID
+Western Sahara,2022,0,OWID
+Western Sahara,2023,0,OWID
+Western Sahara,2024,0,OWID
+Western Sahara,2025,0,OWID
+Western Sahara,2026,0,OWID
+World,1989,67945,OWID
+World,1990,95405,OWID
+World,1991,83961,OWID
+World,1992,75571,OWID
+World,1993,73785,OWID
+World,1994,823507,OWID
+World,1995,62309,OWID
+World,1996,87390,OWID
+World,1997,65899,OWID
+World,1998,61094,OWID
+World,1999,102150,OWID
+World,2000,94616,OWID
+World,2001,37676,OWID
+World,2002,41396,OWID
+World,2003,40381,OWID
+World,2004,36163,OWID
+World,2005,20445,OWID
+World,2006,27836,OWID
+World,2007,28603,OWID
+World,2008,39544,OWID
+World,2009,51554,OWID
+World,2010,34206,OWID
+World,2011,41925,OWID
+World,2012,90692,OWID
+World,2013,114777,OWID
+World,2014,150883,OWID
+World,2015,131171,OWID
+World,2016,115819,OWID
+World,2017,112537,OWID
+World,2018,88225,OWID
+World,2019,77244,OWID
+World,2020,102763,OWID
+World,2021,233754,OWID
+World,2022,316895,OWID
+World,2023,169400,OWID
+World,2024,187023,OWID
+World,2025,244579,OWID
+World,2026,76671,OWID
+Yemen,1989,0,OWID
+Yemen,1990,0,OWID
+Yemen,1991,0,OWID
+Yemen,1992,0,OWID
+Yemen,1993,0,OWID
+Yemen,1994,1489,OWID
+Yemen,1995,0,OWID
+Yemen,1996,0,OWID
+Yemen,1997,0,OWID
+Yemen,1998,0,OWID
+Yemen,1999,0,OWID
+Yemen,2000,0,OWID
+Yemen,2001,0,OWID
+Yemen,2002,2,OWID
+Yemen,2003,0,OWID
+Yemen,2004,29,OWID
+Yemen,2005,0,OWID
+Yemen,2006,0,OWID
+Yemen,2007,0,OWID
+Yemen,2008,116,OWID
+Yemen,2009,1413,OWID
+Yemen,2010,742,OWID
+Yemen,2011,2612,OWID
+Yemen,2012,2983,OWID
+Yemen,2013,857,OWID
+Yemen,2014,2404,OWID
+Yemen,2015,8144,OWID
+Yemen,2016,4166,OWID
+Yemen,2017,3642,OWID
+Yemen,2018,5042,OWID
+Yemen,2019,2987,OWID
+Yemen,2020,6736,OWID
+Yemen,2021,23444,OWID
+Yemen,2022,3202,OWID
+Yemen,2023,906,OWID
+Yemen,2024,1020,OWID
+Yemen,2025,1717,OWID
+Yemen,2026,177,OWID
+Yemen People's Republic,1989,0,OWID
+Yemen People's Republic,1990,0,OWID
+Yemen People's Republic,1991,0,OWID
+Yemen People's Republic,1992,0,OWID
+Yemen People's Republic,1993,0,OWID
+Yemen People's Republic,1994,0,OWID
+Yemen People's Republic,1995,0,OWID
+Yemen People's Republic,1996,0,OWID
+Yemen People's Republic,1997,0,OWID
+Yemen People's Republic,1998,0,OWID
+Yemen People's Republic,1999,0,OWID
+Yemen People's Republic,2000,0,OWID
+Yemen People's Republic,2001,0,OWID
+Yemen People's Republic,2002,0,OWID
+Yemen People's Republic,2003,0,OWID
+Yemen People's Republic,2004,0,OWID
+Yemen People's Republic,2005,0,OWID
+Yemen People's Republic,2006,0,OWID
+Yemen People's Republic,2007,0,OWID
+Yemen People's Republic,2008,0,OWID
+Yemen People's Republic,2009,0,OWID
+Yemen People's Republic,2010,0,OWID
+Yemen People's Republic,2011,0,OWID
+Yemen People's Republic,2012,0,OWID
+Yemen People's Republic,2013,0,OWID
+Yemen People's Republic,2014,0,OWID
+Yemen People's Republic,2015,0,OWID
+Yemen People's Republic,2016,0,OWID
+Yemen People's Republic,2017,0,OWID
+Yemen People's Republic,2018,0,OWID
+Yemen People's Republic,2019,0,OWID
+Yemen People's Republic,2020,0,OWID
+Yemen People's Republic,2021,0,OWID
+Yemen People's Republic,2022,0,OWID
+Yemen People's Republic,2023,0,OWID
+Yemen People's Republic,2024,0,OWID
+Yemen People's Republic,2025,0,OWID
+Yemen People's Republic,2026,0,OWID
+Yugoslavia,1989,0,OWID
+Yugoslavia,1990,0,OWID
+Yugoslavia,1991,0,OWID
+Yugoslavia,1992,0,OWID
+Yugoslavia,1993,0,OWID
+Yugoslavia,1994,0,OWID
+Yugoslavia,1995,0,OWID
+Yugoslavia,1996,0,OWID
+Yugoslavia,1997,0,OWID
+Yugoslavia,1998,0,OWID
+Yugoslavia,1999,0,OWID
+Yugoslavia,2000,0,OWID
+Yugoslavia,2001,0,OWID
+Yugoslavia,2002,0,OWID
+Yugoslavia,2003,0,OWID
+Yugoslavia,2004,0,OWID
+Yugoslavia,2005,0,OWID
+Yugoslavia,2006,0,OWID
+Yugoslavia,2007,0,OWID
+Yugoslavia,2008,0,OWID
+Yugoslavia,2009,0,OWID
+Yugoslavia,2010,0,OWID
+Yugoslavia,2011,0,OWID
+Yugoslavia,2012,0,OWID
+Yugoslavia,2013,0,OWID
+Yugoslavia,2014,0,OWID
+Yugoslavia,2015,0,OWID
+Yugoslavia,2016,0,OWID
+Yugoslavia,2017,0,OWID
+Yugoslavia,2018,0,OWID
+Yugoslavia,2019,0,OWID
+Yugoslavia,2020,0,OWID
+Yugoslavia,2021,0,OWID
+Yugoslavia,2022,0,OWID
+Yugoslavia,2023,0,OWID
+Yugoslavia,2024,0,OWID
+Yugoslavia,2025,0,OWID
+Yugoslavia,2026,0,OWID
+Zambia,1989,87,OWID
+Zambia,1990,40,OWID
+Zambia,1991,0,OWID
+Zambia,1992,0,OWID
+Zambia,1993,1,OWID
+Zambia,1994,0,OWID
+Zambia,1995,0,OWID
+Zambia,1996,0,OWID
+Zambia,1997,0,OWID
+Zambia,1998,0,OWID
+Zambia,1999,0,OWID
+Zambia,2000,1,OWID
+Zambia,2001,0,OWID
+Zambia,2002,36,OWID
+Zambia,2003,0,OWID
+Zambia,2004,0,OWID
+Zambia,2005,0,OWID
+Zambia,2006,0,OWID
+Zambia,2007,0,OWID
+Zambia,2008,0,OWID
+Zambia,2009,0,OWID
+Zambia,2010,0,OWID
+Zambia,2011,0,OWID
+Zambia,2012,0,OWID
+Zambia,2013,0,OWID
+Zambia,2014,0,OWID
+Zambia,2015,0,OWID
+Zambia,2016,0,OWID
+Zambia,2017,0,OWID
+Zambia,2018,0,OWID
+Zambia,2019,0,OWID
+Zambia,2020,0,OWID
+Zambia,2021,0,OWID
+Zambia,2022,0,OWID
+Zambia,2023,0,OWID
+Zambia,2024,0,OWID
+Zambia,2025,0,OWID
+Zambia,2026,0,OWID
+Zimbabwe,1989,43,OWID
+Zimbabwe,1990,14,OWID
+Zimbabwe,1991,0,OWID
+Zimbabwe,1992,0,OWID
+Zimbabwe,1993,0,OWID
+Zimbabwe,1994,0,OWID
+Zimbabwe,1995,0,OWID
+Zimbabwe,1996,0,OWID
+Zimbabwe,1997,0,OWID
+Zimbabwe,1998,0,OWID
+Zimbabwe,1999,0,OWID
+Zimbabwe,2000,0,OWID
+Zimbabwe,2001,0,OWID
+Zimbabwe,2002,0,OWID
+Zimbabwe,2003,0,OWID
+Zimbabwe,2004,0,OWID
+Zimbabwe,2005,0,OWID
+Zimbabwe,2006,0,OWID
+Zimbabwe,2007,0,OWID
+Zimbabwe,2008,253,OWID
+Zimbabwe,2009,0,OWID
+Zimbabwe,2010,0,OWID
+Zimbabwe,2011,0,OWID
+Zimbabwe,2012,0,OWID
+Zimbabwe,2013,0,OWID
+Zimbabwe,2014,0,OWID
+Zimbabwe,2015,0,OWID
+Zimbabwe,2016,0,OWID
+Zimbabwe,2017,0,OWID
+Zimbabwe,2018,0,OWID
+Zimbabwe,2019,0,OWID
+Zimbabwe,2020,0,OWID
+Zimbabwe,2021,0,OWID
+Zimbabwe,2022,0,OWID
+Zimbabwe,2023,0,OWID
+Zimbabwe,2024,0,OWID
+Zimbabwe,2025,0,OWID
+Zimbabwe,2026,0,OWID

@@ -1,0 +1,26 @@
+# Large raw data files
+data/raw/ucdp_ukraine_russia_raw.csv
+
+# Optional: ignore all raw data if you want (recommended for portfolio)
+# data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Next.js
+web-app/node_modules/
+web-app/.next/
+web-app/out/

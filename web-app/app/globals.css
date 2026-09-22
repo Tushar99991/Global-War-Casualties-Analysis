@@ -1,0 +1,154 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --surface: #ffffff;
+  --surface-soft: #f8fafc;
+  --border: #e2e8f0;
+  --muted: #64748b;
+}
+
+html.dark {
+  --background: #0b1120;
+  --foreground: #e2e8f0;
+  --surface: #111827;
+  --surface-soft: #0f172a;
+  --border: #334155;
+  --muted: #94a3b8;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+}
+
+/* ==================================================
+   Dark mode surface overrides
+   These affect page UI only.
+   WarBackground remains independent.
+   ================================================== */
+
+html.dark .bg-white {
+  background-color: #111827;
+}
+
+html.dark .bg-white\/80 {
+  background-color: rgb(15 23 42 / 0.8);
+}
+
+html.dark .bg-white\/90 {
+  background-color: rgb(17 24 39 / 0.9);
+}
+
+html.dark .bg-white\/95 {
+  background-color: rgb(15 23 42 / 0.95);
+}
+
+html.dark .bg-slate-50 {
+  background-color: #0f172a;
+}
+
+html.dark .bg-slate-100 {
+  background-color: #1e293b;
+}
+
+/* ==================================================
+   Text
+   ================================================== */
+
+html.dark .text-slate-900 {
+  color: #f1f5f9;
+}
+
+html.dark .text-slate-800 {
+  color: #e2e8f0;
+}
+
+html.dark .text-slate-700 {
+  color: #cbd5e1;
+}
+
+html.dark .text-slate-600 {
+  color: #94a3b8;
+}
+
+html.dark .text-slate-500 {
+  color: #94a3b8;
+}
+
+html.dark .text-slate-400 {
+  color: #64748b;
+}
+
+/* ==================================================
+   Borders
+   ================================================== */
+
+html.dark .border-slate-200 {
+  border-color: #334155;
+}
+
+html.dark .border-slate-200\/70 {
+  border-color: rgb(51 65 85 / 0.7);
+}
+
+html.dark .border-slate-200\/80 {
+  border-color: rgb(51 65 85 / 0.8);
+}
+
+html.dark .border-slate-100 {
+  border-color: #1e293b;
+}
+
+/* ==================================================
+   Common soft surfaces
+   ================================================== */
+
+html.dark .from-slate-50\/90 {
+  --tw-gradient-from: rgb(15 23 42 / 0.9);
+}
+
+html.dark .via-white\/90 {
+  --tw-gradient-via: rgb(15 23 42 / 0.9);
+}
+
+html.dark .to-indigo-50\/70 {
+  --tw-gradient-to: rgb(30 27 75 / 0.7);
+}
+
+/* ==================================================
+   Existing war background animation
+   ================================================== */
+
+@keyframes war-background {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.04);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+.animate-war-background {
+  animation: war-background 30s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-war-background {
+    animation: none;
+  }
+}
