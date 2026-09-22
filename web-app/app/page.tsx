@@ -65,8 +65,9 @@ function LiveGlobalData() {
   const [annualNetChange, setAnnualNetChange] = useState<number | null>(null);
   const [liveBirths, setLiveBirths] = useState<number | null>(null);
   const [liveDeaths, setLiveDeaths] = useState<number | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(false);
+const [loading, setLoading] = useState(false);
+const [error, setError] = useState(false);
+ 
   const fetchPopulation = async () => {
     try {
       setLoading(true);
@@ -100,6 +101,8 @@ function LiveGlobalData() {
     }
   };
   useEffect(() => {
+    
+
     const loadPopulation = async () => {
       try {
         setLoading(true);
@@ -487,7 +490,7 @@ function DefenseMarketPulse() {
     }>
   >([]);
 
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
   const fetchMarketData = async () => {
@@ -517,6 +520,7 @@ function DefenseMarketPulse() {
   };
 
   useEffect(() => {
+
     const timer = setTimeout(() => {
       fetchMarketData();
     }, 0);
@@ -1496,10 +1500,7 @@ export default function Home() {
         .home-typography h2,
         .home-typography h3 {
           font-family:
-            "Trebuchet MS",
-            "Segoe UI Variable",
-            "Segoe UI",
-            system-ui,
+            "Trebuchet MS", "Segoe UI Variable", "Segoe UI", system-ui,
             sans-serif;
           font-weight: 800;
           letter-spacing: -0.025em;
