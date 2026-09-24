@@ -1379,14 +1379,14 @@ export default function AboutDeveloperPage() {
                   </div>
 
                   {/* Floating code card */}
-                  <div className="absolute left-0 sm:-left-4 lg:-left-28 bottom-2 sm:bottom-10 lg:bottom-20 ... w-40 sm:w-52 rounded-2xl bg-slate-950/90 backdrop-blur-xl border border-indigo-400/10 text-white shadow-[0_20px_70px_rgba(0,0,0,.4)] p-4 animate-[float_6s_ease-in-out_infinite_reverse] hover:-translate-y-2 hover:border-indigo-400/30 hover:shadow-[0_20px_70px_rgba(79,70,229,.18)] transition-all duration-300">
-                    <div className="flex items-center gap-1.5 mb-3">
-                      <span className="w-2 h-2 rounded-full bg-red-400" />
-                      <span className="w-2 h-2 rounded-full bg-yellow-400" />
-                      <span className="w-2 h-2 rounded-full bg-emerald-400" />
+                  <div className="absolute left-[-4px] top-[275px] w-28 sm:left-[-16px] sm:top-auto sm:bottom-10 sm:w-52 lg:left-[-112px] lg:bottom-20 rounded-2xl bg-slate-950/90 backdrop-blur-xl border border-indigo-400/10 text-white shadow-[0_20px_70px_rgba(0,0,0,.4)] p-2 sm:p-4 animate-[float_6s_ease-in-out_infinite_reverse] hover:-translate-y-2 hover:border-indigo-400/30 hover:shadow-[0_20px_70px_rgba(79,70,229,.18)] transition-all duration-300">
+                    <div className="flex items-center gap-1 mb-1.5 sm:gap-1.5 sm:mb-3">
+                      <span className="w-1.5 h-1.5 sm:w-2 sm:h-2 rounded-full bg-red-400" />
+                      <span className="w-1.5 h-1.5 sm:w-2 sm:h-2 rounded-full bg-yellow-400" />
+                      <span className="w-1.5 h-1.5 sm:w-2 sm:h-2 rounded-full bg-emerald-400" />
                     </div>
 
-                    <div className="font-mono text-[10px] leading-5 text-slate-400">
+                    <div className="font-mono text-[7px] leading-3.5 sm:text-[10px] sm:leading-5 text-slate-400">
                       <p>
                         <span className="text-purple-400">df</span>
                         .clean()
@@ -1719,7 +1719,7 @@ export default function AboutDeveloperPage() {
 
           <Link
             href="/"
-            className="group inline-flex items-center gap-2 text-sm font-semibold text-indigo-300 hover:text-white transition-colors"
+            className="group inline-flex items-center gap-2 px-3 py-2 -ml-3 -my-2 rounded-lg text-sm font-semibold text-indigo-300 hover:text-white transition-colors"
           >
             Explore the project
             <ArrowRight
