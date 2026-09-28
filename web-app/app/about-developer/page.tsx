@@ -205,7 +205,7 @@ const projects = [
       ["15+", "crops"],
       ["90%+", "accuracy"],
     ],
-    href: "https://example.com/food-price-forecasting",
+    href: "https://food-price-forecasting.vercel.app/",
   },
   {
     number: "03",
@@ -219,7 +219,7 @@ const projects = [
       ["150+", "regions"],
       ["15+", "visuals"],
     ],
-    href: "https://example.com/covid-19-data-tracking-system",
+    href: "https://covid-19-data-tracking-system.vercel.app/",
   },
   {
     number: "04",
@@ -247,7 +247,21 @@ const projects = [
       ["15+", "components"],
       ["Responsive", "UI"],
     ],
-    href: "https://example.com/hippo-store",
+    href: "https://hippo-store-project-op6n.vercel.app/",
+  },
+  {
+    number: "06",
+    title: "CU Feast",
+    category: "WEB DEVELOPMENT",
+    description:
+      "A responsive food discovery platform adopted by 750+ students at Chandigarh University for searching food outlets inside the campus.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    stats: [
+      ["750+", "students"],
+      ["Responsive", "platform"],
+      ["Live", "deployment"],
+    ],
+    href: "https://cu-feast.vercel.app/",
   },
 ];
 
@@ -275,6 +289,17 @@ const certifications = [
     provider: "University of California, Davis · Coursera",
     date: "December 2023",
     href: "https://www.coursera.org/account/accomplishments/specialization/U3GQA3GYAPE9",
+  },{
+    title: "Introduction to Web Development with HTML, CSS, JavaScript",
+    provider: "IBM · Coursera",
+    date: "July 2023",
+    href: "https://www.coursera.org/verify/7YUK6N6LQKKT",
+  },
+  {
+    title: "Build Dynamic User Interfaces (UI) for Websites",
+    provider: "Google · Coursera",
+    date: "July 2023",
+    href: "https://www.coursera.org/verify/3MSDWCXPLSLT",
   },
 ];
 
@@ -1435,7 +1460,7 @@ export default function AboutDeveloperPage() {
           <div className="grid grid-cols-2 md:grid-cols-4">
             <div className="group py-9 md:py-11 md:border-r border-white/10 text-center hover:bg-white/[0.025] transition-all duration-300">
               <p className="text-3xl md:text-4xl font-black text-white group-hover:text-indigo-300 group-hover:drop-shadow-[0_0_15px_rgba(129,140,248,.3)] transition-all">
-                <AnimatedNumber value={5} />
+                <AnimatedNumber value={6} />
               </p>
 
               <p className="mt-2 text-xs uppercase tracking-[0.15em] text-slate-500 font-semibold">
@@ -1445,7 +1470,7 @@ export default function AboutDeveloperPage() {
 
             <div className="group py-9 md:py-11 md:border-r border-white/10 text-center hover:bg-white/[0.025] transition-all duration-300">
               <p className="text-3xl md:text-4xl font-black text-white group-hover:text-purple-300 group-hover:drop-shadow-[0_0_15px_rgba(192,132,252,.3)] transition-all">
-                <AnimatedNumber value={4} />
+                <AnimatedNumber value={6} />
               </p>
 
               <p className="mt-2 text-xs uppercase tracking-[0.15em] text-slate-500 font-semibold">
