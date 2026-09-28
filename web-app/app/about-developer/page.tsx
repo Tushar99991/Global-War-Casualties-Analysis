@@ -261,7 +261,7 @@ const projects = [
       ["Responsive", "platform"],
       ["Live", "deployment"],
     ],
-    href: "https://cu-feast.vercel.app/",
+    href: "https://cu-feast-v0.vercel.app/",
   },
 ];
 
