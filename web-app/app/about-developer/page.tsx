@@ -223,20 +223,6 @@ const projects = [
   },
   {
     number: "04",
-    title: "Find My Lost",
-    category: "WEB DEVELOPMENT",
-    description:
-      "A responsive lost-and-found platform adopted by 750+ students at Chandigarh University for submitting and managing lost-item information.",
-    technologies: ["HTML", "CSS", "JavaScript"],
-    stats: [
-      ["750+", "students"],
-      ["Responsive", "platform"],
-      ["Live", "deployment"],
-    ],
-    href: "https://find-my-lost.vercel.app/",
-  },
-  {
-    number: "05",
     title: "Hippo Store",
     category: "FRONTEND DEVELOPMENT",
     description:
@@ -250,8 +236,22 @@ const projects = [
     href: "https://hippo-store-project-op6n.vercel.app/",
   },
   {
+    number: "05",
+    title: "Find My Lost",
+    category: "WEB DEVELOPMENT",
+    description:
+      "A responsive lost-and-found platform adopted by 750+ students at Chandigarh University for submitting and managing lost-item information.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    stats: [
+      ["750+", "students"],
+      ["Responsive", "platform"],
+      ["Live", "deployment"],
+    ],
+    href: "https://find-my-lost.vercel.app/",
+  },
+  {
     number: "06",
-    title: "CU Feast",
+    title: "CU Foodies",
     category: "WEB DEVELOPMENT",
     description:
       "A responsive food discovery platform adopted by 750+ students at Chandigarh University for searching food outlets inside the campus.",
@@ -261,7 +261,7 @@ const projects = [
       ["Responsive", "platform"],
       ["Live", "deployment"],
     ],
-    href: "https://cu-feast-v0.vercel.app/",
+    href: "https://cu-feast-v0-1.vercel.app/",
   },
 ];
 
