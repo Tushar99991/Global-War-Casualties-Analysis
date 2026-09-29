@@ -175,7 +175,7 @@ export default function WarNewsTicker() {
           }
 
           .ticker-track {
-            animation-duration: 95s;
+            animation-duration: 300s;
           }
         }
 
